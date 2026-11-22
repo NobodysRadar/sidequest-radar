@@ -1,0 +1,281 @@
+{
+ "stand_utc": "2026-11-22T15:37:16Z",
+ "gesichtet": 158,
+ "median_vph": 21128.1,
+ "trends": [
+  {
+   "theme": "🧑 Jason & Lucia",
+   "videos": 15,
+   "channels": 15,
+   "vph_sum": 1412829,
+   "top": {
+    "id": "a12lXw00g7g",
+    "title": "GTA VI New Kiss or Save Run Spider-man vs Jason Duval Funny Epic Chal…",
+    "vph": 707800.6
+   }
+  },
+  {
+   "theme": "🗺️ Orte & Geheimnisse",
+   "videos": 9,
+   "channels": 9,
+   "vph_sum": 783206,
+   "top": {
+    "id": "bpHpXic_LOQ",
+    "title": "Walking Across The Entire Map In GTA 6!",
+    "vph": 430809.7
+   }
+  },
+  {
+   "theme": "🚗 Autos & Crashs",
+   "videos": 12,
+   "channels": 12,
+   "vph_sum": 491580,
+   "top": {
+    "id": "MWQtXTTAgeM",
+    "title": "GTA VI SIAP TAMAT 100% KETEMU APA LAGI KITA.... Grand Theft Auto VI G…",
+    "vph": 160427.3
+   }
+  },
+  {
+   "theme": "🧍 NPC-Reaktionen",
+   "videos": 12,
+   "channels": 9,
+   "vph_sum": 440991,
+   "top": {
+    "id": "aKYCrJjOhrA",
+    "title": "Joe Bart Talks About NickEh30 Getting Out of Character in GTA 6! 😭💀",
+    "vph": 183663.5
+   }
+  },
+  {
+   "theme": "💥 Physik & Glitches",
+   "videos": 4,
+   "channels": 4,
+   "vph_sum": 223887,
+   "top": {
+    "id": "gVZrlTwFUmQ",
+    "title": "Are GTA6 Crash Physics Broken?",
+    "vph": 105458.4
+   }
+  },
+  {
+   "theme": "🌴 Vice City & Leonida",
+   "videos": 4,
+   "channels": 4,
+   "vph_sum": 176681,
+   "top": {
+    "id": "viFodrsnoYQ",
+    "title": "Indians Again At TOP!! ₹18,000 Crore GTA 6 Game Has HUGE Secret shorts",
+    "vph": 123882.7
+   }
+  },
+  {
+   "theme": "📱 Handy & Social Media",
+   "videos": 9,
+   "channels": 8,
+   "vph_sum": 127542,
+   "top": {
+    "id": "jxN133fp5mY",
+    "title": "UNBEMERKT IN DIE MILITÄRBASIS VON GTA 6.. gta6",
+    "vph": 47470.9
+   }
+  }
+ ],
+ "geruechte": [
+  {
+   "id": "3lZAJq30s30",
+   "title": "他为什么阻止露西亚 gta gta6 shorts",
+   "views": 7315631,
+   "likes": 55973,
+   "comments": 17,
+   "hours": 8.6,
+   "vph": 849165.2,
+   "themes": []
+  },
+  {
+   "id": "va25ma_erAY",
+   "title": "舞蹈 gta gta6 shorts",
+   "views": 5272216,
+   "likes": 19300,
+   "comments": 8,
+   "hours": 10.6,
+   "vph": 496815.0,
+   "themes": []
+  },
+  {
+   "id": "-lRBc3DFwsE",
+   "title": "gta gta6 shorts",
+   "views": 5298473,
+   "likes": 18918,
+   "comments": 5,
+   "hours": 18.6,
+   "vph": 284654.5,
+   "themes": []
+  },
+  {
+   "id": "KXkfXI0IrBc",
+   "title": "gta gta6 shorts",
+   "views": 1396247,
+   "likes": 4851,
+   "comments": 2,
+   "hours": 5.6,
+   "vph": 248672.3,
+   "themes": []
+  },
+  {
+   "id": "TXw94lqDjl4",
+   "title": "❤️🥏SAVE GTA 6 CHARACTERS BY STOPPING THE FALL OF DISKS HOW TO STOP GA…",
+   "views": 4273802,
+   "likes": 18238,
+   "comments": 18,
+   "hours": 22.1,
+   "vph": 193347.5,
+   "themes": []
+  }
+ ],
+ "woerter": [
+  [
+   "gtavi",
+   7
+  ],
+  [
+   "gaming",
+   5
+  ],
+  [
+   "comedy",
+   5
+  ],
+  [
+   "save",
+   4
+  ],
+  [
+   "meme",
+   4
+  ],
+  [
+   "playing",
+   3
+  ],
+  [
+   "viral",
+   3
+  ],
+  [
+   "family",
+   3
+  ]
+ ],
+ "top10": [
+  {
+   "id": "3lZAJq30s30",
+   "title": "他为什么阻止露西亚 gta gta6 shorts",
+   "views": 7315631,
+   "likes": 55973,
+   "comments": 17,
+   "hours": 8.6,
+   "vph": 849165.2,
+   "themes": []
+  },
+  {
+   "id": "a12lXw00g7g",
+   "title": "GTA VI New Kiss or Save Run Spider-man vs Jason Duval Funny Epic Chal…",
+   "views": 7512381,
+   "likes": 72490,
+   "comments": 19,
+   "hours": 10.6,
+   "vph": 707800.6,
+   "themes": [
+    "🧑 Jason & Lucia"
+   ]
+  },
+  {
+   "id": "va25ma_erAY",
+   "title": "舞蹈 gta gta6 shorts",
+   "views": 5272216,
+   "likes": 19300,
+   "comments": 8,
+   "hours": 10.6,
+   "vph": 496815.0,
+   "themes": []
+  },
+  {
+   "id": "bpHpXic_LOQ",
+   "title": "Walking Across The Entire Map In GTA 6!",
+   "views": 6707984,
+   "likes": 179375,
+   "comments": 1029,
+   "hours": 15.6,
+   "vph": 430809.7,
+   "themes": [
+    "🗺️ Orte & Geheimnisse"
+   ]
+  },
+  {
+   "id": "VSjjHRgoyY0",
+   "title": "Cuando Vas al TACÓN de GTA 6👠⚠️ comedia",
+   "views": 8473031,
+   "likes": 105137,
+   "comments": 339,
+   "hours": 22.1,
+   "vph": 383229.8,
+   "themes": [
+    "🧑 Jason & Lucia"
+   ]
+  },
+  {
+   "id": "-lRBc3DFwsE",
+   "title": "gta gta6 shorts",
+   "views": 5298473,
+   "likes": 18918,
+   "comments": 5,
+   "hours": 18.6,
+   "vph": 284654.5,
+   "themes": []
+  },
+  {
+   "id": "KXkfXI0IrBc",
+   "title": "gta gta6 shorts",
+   "views": 1396247,
+   "likes": 4851,
+   "comments": 2,
+   "hours": 5.6,
+   "vph": 248672.3,
+   "themes": []
+  },
+  {
+   "id": "TXw94lqDjl4",
+   "title": "❤️🥏SAVE GTA 6 CHARACTERS BY STOPPING THE FALL OF DISKS HOW TO STOP GA…",
+   "views": 4273802,
+   "likes": 18238,
+   "comments": 18,
+   "hours": 22.1,
+   "vph": 193347.5,
+   "themes": []
+  },
+  {
+   "id": "r430pddVmn0",
+   "title": "好多好多 gta gta6 shorts",
+   "views": 869901,
+   "likes": 5495,
+   "comments": 2,
+   "hours": 4.6,
+   "vph": 188683.8,
+   "themes": []
+  },
+  {
+   "id": "aKYCrJjOhrA",
+   "title": "Joe Bart Talks About NickEh30 Getting Out of Character in GTA 6! 😭💀",
+   "views": 3682928,
+   "likes": 130882,
+   "comments": 820,
+   "hours": 20.1,
+   "vph": 183663.5,
+   "themes": [
+    "🧍 NPC-Reaktionen"
+   ]
+  }
+ ],
+ "stoerungen": []
+}
