@@ -1,44 +1,45 @@
-# 🎮 Sidequest-Radar – Stand 22.11.2026, 16:37 Uhr
+# 🎮 Sidequest-Radar – Stand 22.11.2026, 19:59 Uhr
 
-Gesichtet: **158 GTA-6-Shorts** der letzten 24 Std. · Median 21.128 Aufrufe/Std. · Quelle: YouTube. Gespeichert werden nur Zahlen, gekürzte Titel und Video-IDs.
+Gesichtet: **164 GTA-6-Shorts** der letzten 24 Std. · Median 19.700 Aufrufe/Std. · Quelle: YouTube. Gespeichert werden nur Zahlen, gekürzte Titel und Video-IDs.
 
 ## ✅ Bestätigte Trends (mind. 3 Videos von 3 Kanälen)
 
 | Rang | Thema | Videos | Kanäle | Aufrufe/Std. gesamt | Spitzen-Video (Aufrufe/Std.) | Video-ID |
 |---|---|---|---|---|---|---|
-| 1 | 🧑 Jason & Lucia | 15 | 15 | 1.412.829 | GTA VI New Kiss or Save Run Spider-man vs Jason Duval Funny Epic Chal… (707.801) | `a12lXw00g7g` |
-| 2 | 🗺️ Orte & Geheimnisse | 9 | 9 | 783.206 | Walking Across The Entire Map In GTA 6! (430.810) | `bpHpXic_LOQ` |
-| 3 | 🚗 Autos & Crashs | 12 | 12 | 491.580 | GTA VI SIAP TAMAT 100% KETEMU APA LAGI KITA.... Grand Theft Auto VI G… (160.427) | `MWQtXTTAgeM` |
-| 4 | 🧍 NPC-Reaktionen | 12 | 9 | 440.991 | Joe Bart Talks About NickEh30 Getting Out of Character in GTA 6! 😭💀 (183.664) | `aKYCrJjOhrA` |
-| 5 | 💥 Physik & Glitches | 4 | 4 | 223.887 | Are GTA6 Crash Physics Broken? (105.458) | `gVZrlTwFUmQ` |
-| 6 | 🌴 Vice City & Leonida | 4 | 4 | 176.681 | Indians Again At TOP!! ₹18,000 Crore GTA 6 Game Has HUGE Secret shorts (123.883) | `viFodrsnoYQ` |
-| 7 | 📱 Handy & Social Media | 9 | 8 | 127.542 | UNBEMERKT IN DIE MILITÄRBASIS VON GTA 6.. gta6 (47.471) | `jxN133fp5mY` |
+| 1 | 🧑 Jason & Lucia | 18 | 17 | 1.223.170 | GTA VI New Kiss or Save Run Spider-man vs Jason Duval Funny Epic Chal… (825.685) | `a12lXw00g7g` |
+| 2 | 🗺️ Orte & Geheimnisse | 14 | 13 | 1.123.892 | Walking Across The Entire Map In GTA 6! (425.262) | `bpHpXic_LOQ` |
+| 3 | 🧍 NPC-Reaktionen | 12 | 10 | 524.311 | Joe Bart Talks About NickEh30 Getting Out of Character in GTA 6! 😭💀 (172.351) | `aKYCrJjOhrA` |
+| 4 | 📱 Handy & Social Media | 14 | 12 | 368.583 | 🔴EXPLORING VICE CITY - GTA 6 STREAM (EASTER EGGS) (92.493) | `izXcd-bU72k` |
+| 5 | 🚗 Autos & Crashs | 17 | 16 | 322.181 | Are GTA6 Crash Physics Broken? (105.213) | `gVZrlTwFUmQ` |
+| 6 | 🌴 Vice City & Leonida | 7 | 7 | 278.301 | Indians Again At TOP!! ₹18,000 Crore GTA 6 Game Has HUGE Secret shorts (128.578) | `viFodrsnoYQ` |
+| 7 | 💥 Physik & Glitches | 4 | 4 | 201.343 | Are GTA6 Crash Physics Broken? (105.213) | `gVZrlTwFUmQ` |
+| 8 | 🎱 Aktivitäten & Alltag | 3 | 3 | 108.436 | FAMILY FRIENDLY GTA 6! (69.344) | `KwljZmHB92o` |
 
 ## 🔎 Gerüchte – unbestätigt, auf eigene Gefahr
 
 | Titel (gekürzt) | Aufrufe/Std. | Alter (Std.) | Video-ID |
 |---|---|---|---|
-| 他为什么阻止露西亚 gta gta6 shorts | 849.165 | 8.6 | `3lZAJq30s30` |
-| 舞蹈 gta gta6 shorts | 496.815 | 10.6 | `va25ma_erAY` |
-| gta gta6 shorts | 284.654 | 18.6 | `-lRBc3DFwsE` |
-| gta gta6 shorts | 248.672 | 5.6 | `KXkfXI0IrBc` |
-| ❤️🥏SAVE GTA 6 CHARACTERS BY STOPPING THE FALL OF DISKS HOW TO STOP GA… | 193.348 | 22.1 | `TXw94lqDjl4` |
+| 他为什么阻止露西亚 gta gta6 shorts | 667.082 | 12.0 | `3lZAJq30s30` |
+| 舞蹈 gta gta6 shorts | 410.071 | 14.0 | `va25ma_erAY` |
+| 一起乐队一起舞 gta gta6 shorts | 293.813 | 6.0 | `XNHtyvmDT10` |
+| gta gta6 shorts | 264.075 | 22.0 | `-lRBc3DFwsE` |
+| gta gta6 shorts | 179.670 | 9.0 | `KXkfXI0IrBc` |
 
 ## 🆕 Auffällige Wörter (mind. 3 Kanäle, noch keinem Thema zugeordnet)
 
-gtavi (7) · gaming (5) · comedy (5) · save (4) · meme (4) · playing (3) · viral (3) · family (3)
+gtavi (7) · trending (7) · meme (5) · gaming (5) · comedy (5) · viral (5) · memes (5) · games (4) · playing (3) · easter (3)
 
 ## 🏆 Top 10 nach Aufrufen pro Stunde
 
 | # | Titel (gekürzt) | Aufrufe | Alter (Std.) | Aufrufe/Std. | Video-ID |
 |---|---|---|---|---|---|
-| 1 | 他为什么阻止露西亚 gta gta6 shorts | 7.315.631 | 8.6 | 849.165 | `3lZAJq30s30` |
-| 2 | GTA VI New Kiss or Save Run Spider-man vs Jason Duval Funny Epic Chal… | 7.512.381 | 10.6 | 707.801 | `a12lXw00g7g` |
-| 3 | 舞蹈 gta gta6 shorts | 5.272.216 | 10.6 | 496.815 | `va25ma_erAY` |
-| 4 | Walking Across The Entire Map In GTA 6! | 6.707.984 | 15.6 | 430.810 | `bpHpXic_LOQ` |
-| 5 | Cuando Vas al TACÓN de GTA 6👠⚠️ comedia | 8.473.031 | 22.1 | 383.230 | `VSjjHRgoyY0` |
-| 6 | gta gta6 shorts | 5.298.473 | 18.6 | 284.654 | `-lRBc3DFwsE` |
-| 7 | gta gta6 shorts | 1.396.247 | 5.6 | 248.672 | `KXkfXI0IrBc` |
-| 8 | ❤️🥏SAVE GTA 6 CHARACTERS BY STOPPING THE FALL OF DISKS HOW TO STOP GA… | 4.273.802 | 22.1 | 193.348 | `TXw94lqDjl4` |
-| 9 | 好多好多 gta gta6 shorts | 869.901 | 4.6 | 188.684 | `r430pddVmn0` |
-| 10 | Joe Bart Talks About NickEh30 Getting Out of Character in GTA 6! 😭💀 | 3.682.928 | 20.1 | 183.664 | `aKYCrJjOhrA` |
+| 1 | GTA VI New Kiss or Save Run Spider-man vs Jason Duval Funny Epic Chal… | 11.548.179 | 14.0 | 825.685 | `a12lXw00g7g` |
+| 2 | 他为什么阻止露西亚 gta gta6 shorts | 7.996.694 | 12.0 | 667.082 | `3lZAJq30s30` |
+| 3 | Walking Across The Entire Map In GTA 6! | 8.055.800 | 18.9 | 425.262 | `bpHpXic_LOQ` |
+| 4 | 舞蹈 gta gta6 shorts | 5.734.642 | 14.0 | 410.071 | `va25ma_erAY` |
+| 5 | 一起乐队一起舞 gta gta6 shorts | 1.759.468 | 6.0 | 293.813 | `XNHtyvmDT10` |
+| 6 | gta gta6 shorts | 5.806.002 | 22.0 | 264.075 | `-lRBc3DFwsE` |
+| 7 | GTA 6 Hidden Facts | 795.675 | 4.2 | 189.845 | `6kL_SHjZ6YI` |
+| 8 | gta gta6 shorts | 1.614.751 | 9.0 | 179.670 | `KXkfXI0IrBc` |
+| 9 | Joe Bart Talks About NickEh30 Getting Out of Character in GTA 6! 😭💀 | 4.037.327 | 23.4 | 172.351 | `aKYCrJjOhrA` |
+| 10 | GTA 5 vs GTA 6 Box Contents 🎮 | 3.813.596 | 22.2 | 171.942 | `nfhq_VOcofw` |
