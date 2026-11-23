@@ -1,45 +1,46 @@
-# 🎮 Sidequest-Radar – Stand 23.11.2026, 14:32 Uhr
+# 🎮 Sidequest-Radar – Stand 23.11.2026, 17:19 Uhr
 
-Gesichtet: **153 GTA-6-Shorts** der letzten 24 Std. · Median 18.193 Aufrufe/Std. · Quelle: YouTube. Gespeichert werden nur Zahlen, gekürzte Titel und Video-IDs.
+Gesichtet: **164 GTA-6-Shorts** der letzten 24 Std. · Median 19.640 Aufrufe/Std. · Quelle: YouTube. Gespeichert werden nur Zahlen, gekürzte Titel und Video-IDs.
 
 ## ✅ Bestätigte Trends (mind. 3 Videos von 3 Kanälen)
 
 | Rang | Thema | Videos | Kanäle | Aufrufe/Std. gesamt | Spitzen-Video (Aufrufe/Std.) | Video-ID |
 |---|---|---|---|---|---|---|
-| 1 | 🗺️ Orte & Geheimnisse | 11 | 10 | 556.563 | GTA 6 Hidden Facts (266.763) | `6kL_SHjZ6YI` |
-| 2 | 🧑 Jason & Lucia | 15 | 14 | 449.089 | BJ vs Jason vs Lucia! Who Escapes? 😱💦 gta6 shorts (77.365) | `8AwwTm5idCI` |
-| 3 | 🚗 Autos & Crashs | 14 | 12 | 286.240 | DON’T Finish Chapter 3 in GTA 6 Without Getting This FREE Car & Garag… (76.227) | `vrSooRh2Lxo` |
-| 4 | 🚓 Polizei & Verfolgung | 3 | 3 | 212.988 | GTA 5 vs GTA 6 Cops😭 (187.152) | `O6cgHvq1Upw` |
-| 5 | 🧍 NPC-Reaktionen | 12 | 10 | 208.824 | Top 10 YouTubers Who Earned BIG From GTA 6! 😱 (34.342) | `untXqhAy03E` |
-| 6 | 💥 Physik & Glitches | 5 | 4 | 93.899 | GTA 6 gym physics are BROKEN 💀 (40.792) | `q9nTVt3bpDo` |
-| 7 | 🌴 Vice City & Leonida | 5 | 5 | 89.807 | GTA 6 DAY 5 :THE VICE CITY TAKEOVER (33.435) | `sZ5ufAnSU7A` |
-| 8 | 📱 Handy & Social Media | 6 | 5 | 70.482 | Is GTA 6 The Best Game Ever Made? (26.193) | `YgcN3D3Hf-c` |
+| 1 | 🚗 Autos & Crashs | 15 | 13 | 506.689 | Can My Brother Steal Billionaires' Cars in GTA 6 (195.400) | `N2AlAt37g0w` |
+| 2 | 🧑 Jason & Lucia | 19 | 18 | 478.060 | Lock in lucia😭 - GTA 6 gta6 grandtheftauto6 gta grandtheftauto rockst… (87.144) | `PJZpEUGv5i0` |
+| 3 | 🗺️ Orte & Geheimnisse | 11 | 11 | 380.756 | Map of all GTA 6 Players (159.334) | `cdK0oC40Sow` |
+| 4 | 🚓 Polizei & Verfolgung | 4 | 4 | 276.861 | GTA 5 vs GTA 6 Cops😭 (233.438) | `O6cgHvq1Upw` |
+| 5 | 🌴 Vice City & Leonida | 7 | 7 | 273.908 | GTA 6 🛑 We Back in Vice City Live (Day 2) (129.198) | `VxChUHDOOqg` |
+| 6 | 📱 Handy & Social Media | 7 | 5 | 115.719 | ADA DRAMOK DI GTA VI😹 gta6 grandtheftauto ps5 games streamer momenkoc… (26.145) | `a-aXB-9JnUk` |
+| 7 | 💥 Physik & Glitches | 4 | 4 | 102.035 | I Found a Secret Scuba Gear Glitch in GTA 6 😱 gta (40.613) | `F_XO7yzLUy0` |
+| 8 | 🧍 NPC-Reaktionen | 6 | 4 | 84.517 | Cyberpunk Is Better Than GTA 6 (28.659) | `5LUcpAGq6zw` |
+| 9 | 🔫 Waffen & Überfälle | 3 | 3 | 57.458 | GTA 6 vs RDR2 - Gun Strap Comparison🎯 (30.094) | `13x3enmFPM0` |
 
 ## 🔎 Gerüchte – unbestätigt, auf eigene Gefahr
 
 | Titel (gekürzt) | Aufrufe/Std. | Alter (Std.) | Video-ID |
 |---|---|---|---|
-| 总算是成功解救露西亚 gta gta6 shorts | 345.368 | 3.5 | `8K1rsN2bNyg` |
-| Bakar Mobil Si donnie Di GTA 6 shorts gta6 | 245.442 | 8.8 | `XPRCe6penjU` |
-| 我嘞个超级无敌多金币 gta gta6 shorts | 211.580 | 2.5 | `n3dP6sOowrw` |
-| Cuando tu madre te borra el GTA VI 😂🚨 | 210.493 | 23.5 | `HD-NNQr1cX8` |
-| gta gta6 shorts | 180.117 | 15.5 | `X2l_s9vNM0E` |
+| gta gta6 shorts kpop | 2.206.327 | 4.3 | `cG-cf7ajXFE` |
+| 一起舞动 gta gta6 shorts | 1.785.407 | 4.3 | `Vx9C_SXLJUE` |
+| gta gta6 shorts kpop | 650.149 | 5.3 | `J9kL3lVfDjg` |
+| 总算是成功解救露西亚 gta gta6 shorts | 326.574 | 6.3 | `8K1rsN2bNyg` |
+| Bakar Mobil Si donnie Di GTA 6 shorts gta6 | 312.557 | 11.6 | `XPRCe6penjU` |
 
 ## 🆕 Auffällige Wörter (mind. 3 Kanäle, noch keinem Thema zugeordnet)
 
-gtavi (6) · memes (6) · gaming (6) · viral (5) · grandtheftauto (4) · comedy (4) · players (3) · getting (3) · jugar (3) · cuando (3)
+gtavi (11) · memes (6) · gaming (5) · comedy (5) · viral (5) · playing (4) · playstation (4) · mandy (4) · than (3) · better (3)
 
 ## 🏆 Top 10 nach Aufrufen pro Stunde
 
 | # | Titel (gekürzt) | Aufrufe | Alter (Std.) | Aufrufe/Std. | Video-ID |
 |---|---|---|---|---|---|
-| 1 | 总算是成功解救露西亚 gta gta6 shorts | 1.220.845 | 3.5 | 345.368 | `8K1rsN2bNyg` |
-| 2 | GTA 6 Hidden Facts | 6.065.715 | 22.7 | 266.763 | `6kL_SHjZ6YI` |
-| 3 | Bakar Mobil Si donnie Di GTA 6 shorts gta6 | 2.162.394 | 8.8 | 245.442 | `XPRCe6penjU` |
-| 4 | 我嘞个超级无敌多金币 gta gta6 shorts | 536.101 | 2.5 | 211.580 | `n3dP6sOowrw` |
-| 5 | Cuando tu madre te borra el GTA VI 😂🚨 | 4.937.617 | 23.5 | 210.493 | `HD-NNQr1cX8` |
-| 6 | GTA 5 vs GTA 6 Cops😭 | 3.181.200 | 17.0 | 187.152 | `O6cgHvq1Upw` |
-| 7 | gta gta6 shorts | 2.798.655 | 15.5 | 180.117 | `X2l_s9vNM0E` |
-| 8 | 大家都喜欢吃些啥美食 gta gta6 shorts | 362.919 | 2.5 | 142.855 | `zbTaETR99ho` |
-| 9 | Map of all GTA 6 Players | 2.177.388 | 17.7 | 122.749 | `cdK0oC40Sow` |
-| 10 | 一起舞动，绽放光彩 gta gta6 shorts | 659.324 | 5.5 | 119.091 | `TWrnDgY03Ew` |
+| 1 | gta gta6 shorts kpop | 9.526.488 | 4.3 | 2.206.327 | `cG-cf7ajXFE` |
+| 2 | 一起舞动 gta gta6 shorts | 7.701.598 | 4.3 | 1.785.407 | `Vx9C_SXLJUE` |
+| 3 | gta gta6 shorts kpop | 3.455.740 | 5.3 | 650.149 | `J9kL3lVfDjg` |
+| 4 | 总算是成功解救露西亚 gta gta6 shorts | 2.062.868 | 6.3 | 326.574 | `8K1rsN2bNyg` |
+| 5 | Bakar Mobil Si donnie Di GTA 6 shorts gta6 | 3.623.148 | 11.6 | 312.557 | `XPRCe6penjU` |
+| 6 | GTA 5 vs GTA 6 Cops😭 | 4.617.347 | 19.8 | 233.438 | `O6cgHvq1Upw` |
+| 7 | Can My Brother Steal Billionaires' Cars in GTA 6 | 1.917.256 | 9.8 | 195.400 | `N2AlAt37g0w` |
+| 8 | gta gta6 shorts | 3.342.026 | 18.3 | 182.428 | `X2l_s9vNM0E` |
+| 9 | His Dad is in GTA VI shorts | 4.196.620 | 23.6 | 178.053 | `1mjvKEdq25Y` |
+| 10 | 我嘞个超级无敌多金币 gta gta6 shorts | 922.928 | 5.3 | 173.627 | `n3dP6sOowrw` |

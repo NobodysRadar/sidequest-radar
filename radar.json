@@ -1,153 +1,164 @@
 {
- "stand_utc": "2026-11-23T13:32:26Z",
- "gesichtet": 153,
- "median_vph": 18193.4,
+ "stand_utc": "2026-11-23T16:19:21Z",
+ "gesichtet": 164,
+ "median_vph": 19639.85,
  "trends": [
   {
-   "theme": "🗺️ Orte & Geheimnisse",
-   "videos": 11,
-   "channels": 10,
-   "vph_sum": 556563,
+   "theme": "🚗 Autos & Crashs",
+   "videos": 15,
+   "channels": 13,
+   "vph_sum": 506689,
    "top": {
-    "id": "6kL_SHjZ6YI",
-    "title": "GTA 6 Hidden Facts",
-    "vph": 266762.6
+    "id": "N2AlAt37g0w",
+    "title": "Can My Brother Steal Billionaires' Cars in GTA 6",
+    "vph": 195399.7
    }
   },
   {
    "theme": "🧑 Jason & Lucia",
-   "videos": 15,
-   "channels": 14,
-   "vph_sum": 449089,
+   "videos": 19,
+   "channels": 18,
+   "vph_sum": 478060,
    "top": {
-    "id": "8AwwTm5idCI",
-    "title": "BJ vs Jason vs Lucia! Who Escapes? 😱💦 gta6 shorts",
-    "vph": 77365.1
+    "id": "PJZpEUGv5i0",
+    "title": "Lock in lucia😭 - GTA 6 gta6 grandtheftauto6 gta grandtheftauto rockst…",
+    "vph": 87144.0
    }
   },
   {
-   "theme": "🚗 Autos & Crashs",
-   "videos": 14,
-   "channels": 12,
-   "vph_sum": 286240,
+   "theme": "🗺️ Orte & Geheimnisse",
+   "videos": 11,
+   "channels": 11,
+   "vph_sum": 380756,
    "top": {
-    "id": "vrSooRh2Lxo",
-    "title": "DON’T Finish Chapter 3 in GTA 6 Without Getting This FREE Car & Garag…",
-    "vph": 76227.1
+    "id": "cdK0oC40Sow",
+    "title": "Map of all GTA 6 Players",
+    "vph": 159333.8
    }
   },
   {
    "theme": "🚓 Polizei & Verfolgung",
-   "videos": 3,
-   "channels": 3,
-   "vph_sum": 212988,
+   "videos": 4,
+   "channels": 4,
+   "vph_sum": 276861,
    "top": {
     "id": "O6cgHvq1Upw",
     "title": "GTA 5 vs GTA 6 Cops😭",
-    "vph": 187151.8
-   }
-  },
-  {
-   "theme": "🧍 NPC-Reaktionen",
-   "videos": 12,
-   "channels": 10,
-   "vph_sum": 208824,
-   "top": {
-    "id": "untXqhAy03E",
-    "title": "Top 10 YouTubers Who Earned BIG From GTA 6! 😱",
-    "vph": 34342.0
-   }
-  },
-  {
-   "theme": "💥 Physik & Glitches",
-   "videos": 5,
-   "channels": 4,
-   "vph_sum": 93899,
-   "top": {
-    "id": "q9nTVt3bpDo",
-    "title": "GTA 6 gym physics are BROKEN 💀",
-    "vph": 40792.5
+    "vph": 233438.1
    }
   },
   {
    "theme": "🌴 Vice City & Leonida",
-   "videos": 5,
-   "channels": 5,
-   "vph_sum": 89807,
+   "videos": 7,
+   "channels": 7,
+   "vph_sum": 273908,
    "top": {
-    "id": "sZ5ufAnSU7A",
-    "title": "GTA 6 DAY 5 :THE VICE CITY TAKEOVER",
-    "vph": 33435.1
+    "id": "VxChUHDOOqg",
+    "title": "GTA 6 🛑 We Back in Vice City Live (Day 2)",
+    "vph": 129198.3
    }
   },
   {
    "theme": "📱 Handy & Social Media",
-   "videos": 6,
+   "videos": 7,
    "channels": 5,
-   "vph_sum": 70482,
+   "vph_sum": 115719,
    "top": {
-    "id": "YgcN3D3Hf-c",
-    "title": "Is GTA 6 The Best Game Ever Made?",
-    "vph": 26193.0
+    "id": "a-aXB-9JnUk",
+    "title": "ADA DRAMOK DI GTA VI😹 gta6 grandtheftauto ps5 games streamer momenkoc…",
+    "vph": 26144.7
+   }
+  },
+  {
+   "theme": "💥 Physik & Glitches",
+   "videos": 4,
+   "channels": 4,
+   "vph_sum": 102035,
+   "top": {
+    "id": "F_XO7yzLUy0",
+    "title": "I Found a Secret Scuba Gear Glitch in GTA 6 😱 gta",
+    "vph": 40613.3
+   }
+  },
+  {
+   "theme": "🧍 NPC-Reaktionen",
+   "videos": 6,
+   "channels": 4,
+   "vph_sum": 84517,
+   "top": {
+    "id": "5LUcpAGq6zw",
+    "title": "Cyberpunk Is Better Than GTA 6",
+    "vph": 28658.7
+   }
+  },
+  {
+   "theme": "🔫 Waffen & Überfälle",
+   "videos": 3,
+   "channels": 3,
+   "vph_sum": 57458,
+   "top": {
+    "id": "13x3enmFPM0",
+    "title": "GTA 6 vs RDR2 - Gun Strap Comparison🎯",
+    "vph": 30094.5
    }
   }
  ],
  "geruechte": [
   {
+   "id": "cG-cf7ajXFE",
+   "title": "gta gta6 shorts kpop",
+   "views": 9526488,
+   "likes": 118887,
+   "comments": 19,
+   "hours": 4.3,
+   "vph": 2206327.4,
+   "themes": []
+  },
+  {
+   "id": "Vx9C_SXLJUE",
+   "title": "一起舞动 gta gta6 shorts",
+   "views": 7701598,
+   "likes": 26474,
+   "comments": 4,
+   "hours": 4.3,
+   "vph": 1785407.2,
+   "themes": []
+  },
+  {
+   "id": "J9kL3lVfDjg",
+   "title": "gta gta6 shorts kpop",
+   "views": 3455740,
+   "likes": 43283,
+   "comments": 11,
+   "hours": 5.3,
+   "vph": 650149.2,
+   "themes": []
+  },
+  {
    "id": "8K1rsN2bNyg",
    "title": "总算是成功解救露西亚 gta gta6 shorts",
-   "views": 1220845,
-   "likes": 10689,
-   "comments": 10,
-   "hours": 3.5,
-   "vph": 345367.7,
+   "views": 2062868,
+   "likes": 14198,
+   "comments": 11,
+   "hours": 6.3,
+   "vph": 326574.1,
    "themes": []
   },
   {
    "id": "XPRCe6penjU",
    "title": "Bakar Mobil Si donnie Di GTA 6 shorts gta6",
-   "views": 2162394,
-   "likes": 13454,
-   "comments": 19,
-   "hours": 8.8,
-   "vph": 245442.3,
-   "themes": []
-  },
-  {
-   "id": "n3dP6sOowrw",
-   "title": "我嘞个超级无敌多金币 gta gta6 shorts",
-   "views": 536101,
-   "likes": 3440,
-   "comments": 4,
-   "hours": 2.5,
-   "vph": 211579.6,
-   "themes": []
-  },
-  {
-   "id": "HD-NNQr1cX8",
-   "title": "Cuando tu madre te borra el GTA VI 😂🚨",
-   "views": 4937617,
-   "likes": 63133,
-   "comments": 148,
-   "hours": 23.5,
-   "vph": 210492.8,
-   "themes": []
-  },
-  {
-   "id": "X2l_s9vNM0E",
-   "title": "gta gta6 shorts",
-   "views": 2798655,
-   "likes": 11062,
-   "comments": 2,
-   "hours": 15.5,
-   "vph": 180117.2,
+   "views": 3623148,
+   "likes": 15945,
+   "comments": 23,
+   "hours": 11.6,
+   "vph": 312556.7,
    "themes": []
   }
  ],
  "woerter": [
   [
    "gtavi",
-   6
+   11
   ],
   [
    "memes",
@@ -155,142 +166,140 @@
   ],
   [
    "gaming",
-   6
+   5
+  ],
+  [
+   "comedy",
+   5
   ],
   [
    "viral",
    5
   ],
   [
-   "grandtheftauto",
+   "playing",
    4
   ],
   [
-   "comedy",
+   "playstation",
    4
   ],
   [
-   "players",
+   "mandy",
+   4
+  ],
+  [
+   "than",
    3
   ],
   [
-   "getting",
-   3
-  ],
-  [
-   "jugar",
-   3
-  ],
-  [
-   "cuando",
+   "better",
    3
   ]
  ],
  "top10": [
   {
-   "id": "8K1rsN2bNyg",
-   "title": "总算是成功解救露西亚 gta gta6 shorts",
-   "views": 1220845,
-   "likes": 10689,
-   "comments": 10,
-   "hours": 3.5,
-   "vph": 345367.7,
+   "id": "cG-cf7ajXFE",
+   "title": "gta gta6 shorts kpop",
+   "views": 9526488,
+   "likes": 118887,
+   "comments": 19,
+   "hours": 4.3,
+   "vph": 2206327.4,
    "themes": []
   },
   {
-   "id": "6kL_SHjZ6YI",
-   "title": "GTA 6 Hidden Facts",
-   "views": 6065715,
-   "likes": 181532,
-   "comments": 664,
-   "hours": 22.7,
-   "vph": 266762.6,
-   "themes": [
-    "🗺️ Orte & Geheimnisse"
-   ]
+   "id": "Vx9C_SXLJUE",
+   "title": "一起舞动 gta gta6 shorts",
+   "views": 7701598,
+   "likes": 26474,
+   "comments": 4,
+   "hours": 4.3,
+   "vph": 1785407.2,
+   "themes": []
+  },
+  {
+   "id": "J9kL3lVfDjg",
+   "title": "gta gta6 shorts kpop",
+   "views": 3455740,
+   "likes": 43283,
+   "comments": 11,
+   "hours": 5.3,
+   "vph": 650149.2,
+   "themes": []
+  },
+  {
+   "id": "8K1rsN2bNyg",
+   "title": "总算是成功解救露西亚 gta gta6 shorts",
+   "views": 2062868,
+   "likes": 14198,
+   "comments": 11,
+   "hours": 6.3,
+   "vph": 326574.1,
+   "themes": []
   },
   {
    "id": "XPRCe6penjU",
    "title": "Bakar Mobil Si donnie Di GTA 6 shorts gta6",
-   "views": 2162394,
-   "likes": 13454,
-   "comments": 19,
-   "hours": 8.8,
-   "vph": 245442.3,
-   "themes": []
-  },
-  {
-   "id": "n3dP6sOowrw",
-   "title": "我嘞个超级无敌多金币 gta gta6 shorts",
-   "views": 536101,
-   "likes": 3440,
-   "comments": 4,
-   "hours": 2.5,
-   "vph": 211579.6,
-   "themes": []
-  },
-  {
-   "id": "HD-NNQr1cX8",
-   "title": "Cuando tu madre te borra el GTA VI 😂🚨",
-   "views": 4937617,
-   "likes": 63133,
-   "comments": 148,
-   "hours": 23.5,
-   "vph": 210492.8,
+   "views": 3623148,
+   "likes": 15945,
+   "comments": 23,
+   "hours": 11.6,
+   "vph": 312556.7,
    "themes": []
   },
   {
    "id": "O6cgHvq1Upw",
    "title": "GTA 5 vs GTA 6 Cops😭",
-   "views": 3181200,
-   "likes": 56325,
-   "comments": 340,
-   "hours": 17.0,
-   "vph": 187151.8,
+   "views": 4617347,
+   "likes": 74692,
+   "comments": 393,
+   "hours": 19.8,
+   "vph": 233438.1,
    "themes": [
     "🚓 Polizei & Verfolgung"
    ]
   },
   {
-   "id": "X2l_s9vNM0E",
-   "title": "gta gta6 shorts",
-   "views": 2798655,
-   "likes": 11062,
-   "comments": 2,
-   "hours": 15.5,
-   "vph": 180117.2,
-   "themes": []
-  },
-  {
-   "id": "zbTaETR99ho",
-   "title": "大家都喜欢吃些啥美食 gta gta6 shorts",
-   "views": 362919,
-   "likes": 2555,
-   "comments": 1,
-   "hours": 2.5,
-   "vph": 142855.1,
-   "themes": []
-  },
-  {
-   "id": "cdK0oC40Sow",
-   "title": "Map of all GTA 6 Players",
-   "views": 2177388,
-   "likes": 40859,
-   "comments": 1291,
-   "hours": 17.7,
-   "vph": 122749.1,
+   "id": "N2AlAt37g0w",
+   "title": "Can My Brother Steal Billionaires' Cars in GTA 6",
+   "views": 1917256,
+   "likes": 84078,
+   "comments": 2457,
+   "hours": 9.8,
+   "vph": 195399.7,
    "themes": [
-    "🗺️ Orte & Geheimnisse"
+    "🚗 Autos & Crashs"
    ]
   },
   {
-   "id": "TWrnDgY03Ew",
-   "title": "一起舞动，绽放光彩 gta gta6 shorts",
-   "views": 659324,
-   "likes": 3065,
+   "id": "X2l_s9vNM0E",
+   "title": "gta gta6 shorts",
+   "views": 3342026,
+   "likes": 12331,
    "comments": 3,
-   "hours": 5.5,
-   "vph": 119091.0,
+   "hours": 18.3,
+   "vph": 182427.5,
+   "themes": []
+  },
+  {
+   "id": "1mjvKEdq25Y",
+   "title": "His Dad is in GTA VI shorts",
+   "views": 4196620,
+   "likes": 92463,
+   "comments": 188,
+   "hours": 23.6,
+   "vph": 178053.2,
+   "themes": []
+  },
+  {
+   "id": "n3dP6sOowrw",
+   "title": "我嘞个超级无敌多金币 gta gta6 shorts",
+   "views": 922928,
+   "likes": 4752,
+   "comments": 6,
+   "hours": 5.3,
+   "vph": 173626.9,
    "themes": []
   }
  ],
