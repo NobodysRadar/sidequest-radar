@@ -1,144 +1,148 @@
 {
- "stand_utc": "2026-11-23T07:48:39Z",
- "gesichtet": 149,
- "median_vph": 19540.1,
+ "stand_utc": "2026-11-23T10:23:47Z",
+ "gesichtet": 155,
+ "median_vph": 19137.9,
  "trends": [
   {
    "theme": "🧑 Jason & Lucia",
-   "videos": 15,
-   "channels": 13,
-   "vph_sum": 611430,
+   "videos": 18,
+   "channels": 17,
+   "vph_sum": 660872,
    "top": {
     "id": "4iUgdGyhQYg",
     "title": "Bro Really Bought GTA 6 From TEMU 💀😭 memes maincharacterenergy",
-    "vph": 207532.5
+    "vph": 196949.2
    }
   },
   {
    "theme": "🗺️ Orte & Geheimnisse",
-   "videos": 11,
+   "videos": 10,
    "channels": 10,
-   "vph_sum": 474017,
+   "vph_sum": 493448,
    "top": {
     "id": "6kL_SHjZ6YI",
     "title": "GTA 6 Hidden Facts",
-    "vph": 166645.9
+    "vph": 196337.1
    }
   },
   {
    "theme": "🚗 Autos & Crashs",
-   "videos": 18,
-   "channels": 16,
-   "vph_sum": 276068,
+   "videos": 17,
+   "channels": 15,
+   "vph_sum": 368929,
    "top": {
-    "id": "b7e7GHaPQmU",
-    "title": "Get $50,000 AND a LEGENDARY AR in GTA 6! (Secret Location)",
-    "vph": 44514.4
+    "id": "vrSooRh2Lxo",
+    "title": "DON’T Finish Chapter 3 in GTA 6 Without Getting This FREE Car & Garag…",
+    "vph": 72764.1
    }
   },
   {
    "theme": "🧍 NPC-Reaktionen",
-   "videos": 9,
-   "channels": 6,
-   "vph_sum": 159180,
+   "videos": 12,
+   "channels": 10,
+   "vph_sum": 193720,
    "top": {
     "id": "5LUcpAGq6zw",
     "title": "Cyberpunk Is Better Than GTA 6",
-    "vph": 36433.4
+    "vph": 32412.2
    }
   },
   {
    "theme": "📱 Handy & Social Media",
-   "videos": 10,
-   "channels": 8,
-   "vph_sum": 115957,
+   "videos": 5,
+   "channels": 4,
+   "vph_sum": 86766,
    "top": {
     "id": "2_s1s8nujSI",
     "title": "GTA 6 Has Become A Meme",
-    "vph": 35394.1
+    "vph": 31981.7
    }
   },
   {
    "theme": "💥 Physik & Glitches",
-   "videos": 4,
+   "videos": 5,
    "channels": 4,
-   "vph_sum": 60741,
+   "vph_sum": 77484,
    "top": {
-    "id": "m15ICu5q-Tk",
-    "title": "3 Bug GTA 6 Paling diLuar Ekspektasi",
-    "vph": 52148.1
+    "id": "q9nTVt3bpDo",
+    "title": "GTA 6 gym physics are BROKEN 💀",
+    "vph": 44654.1
    }
   },
   {
    "theme": "🌴 Vice City & Leonida",
-   "videos": 5,
-   "channels": 5,
-   "vph_sum": 54797,
+   "videos": 3,
+   "channels": 3,
+   "vph_sum": 32494,
    "top": {
-    "id": "xASL_aDK_J8",
-    "title": "How to get the SECRET Tranquilizer Rifle in GTA 6 gta6 gaming",
-    "vph": 22763.5
+    "id": "sZ5ufAnSU7A",
+    "title": "GTA 6 DAY 5 :THE VICE CITY TAKEOVER",
+    "vph": 18250.2
    }
   }
  ],
  "geruechte": [
   {
+   "id": "TXYkiIRMzH8",
+   "title": "Mom Surprised Him With GTA 6 😱",
+   "views": 10444621,
+   "likes": 114943,
+   "comments": 796,
+   "hours": 21.4,
+   "vph": 488289.7,
+   "themes": []
+  },
+  {
    "id": "HD-NNQr1cX8",
    "title": "Cuando tu madre te borra el GTA VI 😂🚨",
-   "views": 4790689,
-   "likes": 59851,
-   "comments": 142,
-   "hours": 17.7,
-   "vph": 270237.2,
+   "views": 4875873,
+   "likes": 60185,
+   "comments": 143,
+   "hours": 20.3,
+   "vph": 240033.9,
    "themes": []
   },
   {
    "id": "X2l_s9vNM0E",
    "title": "gta gta6 shorts",
-   "views": 1784482,
-   "likes": 6837,
+   "views": 2103828,
+   "likes": 8391,
    "comments": 2,
-   "hours": 9.8,
-   "vph": 181936.4,
-   "themes": []
-  },
-  {
-   "id": "XNHtyvmDT10",
-   "title": "一起乐队一起舞 gta gta6 shorts",
-   "views": 3012331,
-   "likes": 12548,
-   "comments": 2,
-   "hours": 18.8,
-   "vph": 160181.2,
+   "hours": 12.4,
+   "vph": 169748.1,
    "themes": []
   },
   {
    "id": "O6cgHvq1Upw",
    "title": "GTA 5 vs GTA 6 Cops😭",
-   "views": 1620892,
-   "likes": 34159,
-   "comments": 263,
-   "hours": 11.3,
-   "vph": 143845.6,
+   "views": 2045637,
+   "likes": 41150,
+   "comments": 291,
+   "hours": 13.9,
+   "vph": 147658.6,
    "themes": [
     "🚓 Polizei & Verfolgung"
    ]
   },
   {
-   "id": "k_VU66qcgPg",
-   "title": "GTA 6 not launching on PC was a good idea..",
-   "views": 3224852,
-   "likes": 110873,
-   "comments": 2795,
-   "hours": 23.2,
-   "vph": 139202.6,
+   "id": "XNHtyvmDT10",
+   "title": "一起乐队一起舞 gta gta6 shorts",
+   "views": 3089888,
+   "likes": 12810,
+   "comments": 2,
+   "hours": 21.4,
+   "vph": 144445.8,
    "themes": []
   }
  ],
  "woerter": [
   [
    "memes",
-   7
+   6
+  ],
+  [
+   "viral",
+   6
   ],
   [
    "comedy",
@@ -149,141 +153,137 @@
    5
   ],
   [
-   "trending",
+   "gtavi",
    5
+  ],
+  [
+   "trending",
+   4
+  ],
+  [
+   "grandtheftauto",
+   4
   ],
   [
    "part",
    3
   ],
   [
-   "games",
-   3
-  ],
-  [
-   "grandtheftauto",
+   "chapter",
    3
   ],
   [
    "moments",
    3
-  ],
-  [
-   "viral",
-   3
-  ],
-  [
-   "relatable",
-   3
   ]
  ],
  "top10": [
   {
+   "id": "TXYkiIRMzH8",
+   "title": "Mom Surprised Him With GTA 6 😱",
+   "views": 10444621,
+   "likes": 114943,
+   "comments": 796,
+   "hours": 21.4,
+   "vph": 488289.7,
+   "themes": []
+  },
+  {
    "id": "HD-NNQr1cX8",
    "title": "Cuando tu madre te borra el GTA VI 😂🚨",
-   "views": 4790689,
-   "likes": 59851,
-   "comments": 142,
-   "hours": 17.7,
-   "vph": 270237.2,
+   "views": 4875873,
+   "likes": 60185,
+   "comments": 143,
+   "hours": 20.3,
+   "vph": 240033.9,
    "themes": []
   },
   {
    "id": "4iUgdGyhQYg",
    "title": "Bro Really Bought GTA 6 From TEMU 💀😭 memes maincharacterenergy",
-   "views": 4229501,
-   "likes": 40808,
-   "comments": 804,
-   "hours": 20.4,
-   "vph": 207532.5,
+   "views": 4523036,
+   "likes": 43189,
+   "comments": 885,
+   "hours": 23.0,
+   "vph": 196949.2,
    "themes": [
     "🧑 Jason & Lucia"
    ]
   },
   {
-   "id": "X2l_s9vNM0E",
-   "title": "gta gta6 shorts",
-   "views": 1784482,
-   "likes": 6837,
-   "comments": 2,
-   "hours": 9.8,
-   "vph": 181936.4,
-   "themes": []
-  },
-  {
    "id": "6kL_SHjZ6YI",
    "title": "GTA 6 Hidden Facts",
-   "views": 2834406,
-   "likes": 114790,
-   "comments": 526,
-   "hours": 17.0,
-   "vph": 166645.9,
+   "views": 3847049,
+   "likes": 147286,
+   "comments": 589,
+   "hours": 19.6,
+   "vph": 196337.1,
    "themes": [
     "🗺️ Orte & Geheimnisse"
    ]
   },
   {
-   "id": "XNHtyvmDT10",
-   "title": "一起乐队一起舞 gta gta6 shorts",
-   "views": 3012331,
-   "likes": 12548,
+   "id": "X2l_s9vNM0E",
+   "title": "gta gta6 shorts",
+   "views": 2103828,
+   "likes": 8391,
    "comments": 2,
-   "hours": 18.8,
-   "vph": 160181.2,
+   "hours": 12.4,
+   "vph": 169748.1,
    "themes": []
   },
   {
    "id": "O6cgHvq1Upw",
    "title": "GTA 5 vs GTA 6 Cops😭",
-   "views": 1620892,
-   "likes": 34159,
-   "comments": 263,
-   "hours": 11.3,
-   "vph": 143845.6,
+   "views": 2045637,
+   "likes": 41150,
+   "comments": 291,
+   "hours": 13.9,
+   "vph": 147658.6,
    "themes": [
     "🚓 Polizei & Verfolgung"
    ]
   },
   {
-   "id": "k_VU66qcgPg",
-   "title": "GTA 6 not launching on PC was a good idea..",
-   "views": 3224852,
-   "likes": 110873,
-   "comments": 2795,
-   "hours": 23.2,
-   "vph": 139202.6,
+   "id": "XNHtyvmDT10",
+   "title": "一起乐队一起舞 gta gta6 shorts",
+   "views": 3089888,
+   "likes": 12810,
+   "comments": 2,
+   "hours": 21.4,
+   "vph": 144445.8,
+   "themes": []
+  },
+  {
+   "id": "u_6X8oe3-i4",
+   "title": "3 HAL GABUT BERFAEDAH DI GTA 6 shorts",
+   "views": 2723835,
+   "likes": 36776,
+   "comments": 145,
+   "hours": 21.1,
+   "vph": 129049.6,
    "themes": []
   },
   {
    "id": "r430pddVmn0",
    "title": "好多好多 gta gta6 shorts",
-   "views": 2459499,
-   "likes": 11077,
+   "views": 2686013,
+   "likes": 11909,
    "comments": 6,
-   "hours": 20.8,
-   "vph": 118243.9,
+   "hours": 23.4,
+   "vph": 114856.7,
    "themes": []
   },
   {
-   "id": "8_pw3KkVRaU",
-   "title": "Mi Novia y GTA 6 🚨😭",
-   "views": 1677132,
-   "likes": 51455,
-   "comments": 542,
-   "hours": 15.3,
-   "vph": 109862.2,
-   "themes": []
-  },
-  {
-   "id": "7SH7W6JZQYk",
-   "title": "Cuando Juegas Demasiado GTA 6🤣⚠️ comedia",
-   "views": 1220693,
-   "likes": 13557,
-   "comments": 53,
-   "hours": 11.9,
-   "vph": 102450.6,
+   "id": "cdK0oC40Sow",
+   "title": "Map of all GTA 6 Players",
+   "views": 1508847,
+   "likes": 26660,
+   "comments": 951,
+   "hours": 14.6,
+   "vph": 103385.5,
    "themes": [
-    "🧑 Jason & Lucia"
+    "🗺️ Orte & Geheimnisse"
    ]
   }
  ],

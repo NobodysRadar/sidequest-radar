@@ -1,44 +1,44 @@
-# 🎮 Sidequest-Radar – Stand 23.11.2026, 08:48 Uhr
+# 🎮 Sidequest-Radar – Stand 23.11.2026, 11:23 Uhr
 
-Gesichtet: **149 GTA-6-Shorts** der letzten 24 Std. · Median 19.540 Aufrufe/Std. · Quelle: YouTube. Gespeichert werden nur Zahlen, gekürzte Titel und Video-IDs.
+Gesichtet: **155 GTA-6-Shorts** der letzten 24 Std. · Median 19.138 Aufrufe/Std. · Quelle: YouTube. Gespeichert werden nur Zahlen, gekürzte Titel und Video-IDs.
 
 ## ✅ Bestätigte Trends (mind. 3 Videos von 3 Kanälen)
 
 | Rang | Thema | Videos | Kanäle | Aufrufe/Std. gesamt | Spitzen-Video (Aufrufe/Std.) | Video-ID |
 |---|---|---|---|---|---|---|
-| 1 | 🧑 Jason & Lucia | 15 | 13 | 611.430 | Bro Really Bought GTA 6 From TEMU 💀😭 memes maincharacterenergy (207.532) | `4iUgdGyhQYg` |
-| 2 | 🗺️ Orte & Geheimnisse | 11 | 10 | 474.017 | GTA 6 Hidden Facts (166.646) | `6kL_SHjZ6YI` |
-| 3 | 🚗 Autos & Crashs | 18 | 16 | 276.068 | Get $50,000 AND a LEGENDARY AR in GTA 6! (Secret Location) (44.514) | `b7e7GHaPQmU` |
-| 4 | 🧍 NPC-Reaktionen | 9 | 6 | 159.180 | Cyberpunk Is Better Than GTA 6 (36.433) | `5LUcpAGq6zw` |
-| 5 | 📱 Handy & Social Media | 10 | 8 | 115.957 | GTA 6 Has Become A Meme (35.394) | `2_s1s8nujSI` |
-| 6 | 💥 Physik & Glitches | 4 | 4 | 60.741 | 3 Bug GTA 6 Paling diLuar Ekspektasi (52.148) | `m15ICu5q-Tk` |
-| 7 | 🌴 Vice City & Leonida | 5 | 5 | 54.797 | How to get the SECRET Tranquilizer Rifle in GTA 6 gta6 gaming (22.764) | `xASL_aDK_J8` |
+| 1 | 🧑 Jason & Lucia | 18 | 17 | 660.872 | Bro Really Bought GTA 6 From TEMU 💀😭 memes maincharacterenergy (196.949) | `4iUgdGyhQYg` |
+| 2 | 🗺️ Orte & Geheimnisse | 10 | 10 | 493.448 | GTA 6 Hidden Facts (196.337) | `6kL_SHjZ6YI` |
+| 3 | 🚗 Autos & Crashs | 17 | 15 | 368.929 | DON’T Finish Chapter 3 in GTA 6 Without Getting This FREE Car & Garag… (72.764) | `vrSooRh2Lxo` |
+| 4 | 🧍 NPC-Reaktionen | 12 | 10 | 193.720 | Cyberpunk Is Better Than GTA 6 (32.412) | `5LUcpAGq6zw` |
+| 5 | 📱 Handy & Social Media | 5 | 4 | 86.766 | GTA 6 Has Become A Meme (31.982) | `2_s1s8nujSI` |
+| 6 | 💥 Physik & Glitches | 5 | 4 | 77.484 | GTA 6 gym physics are BROKEN 💀 (44.654) | `q9nTVt3bpDo` |
+| 7 | 🌴 Vice City & Leonida | 3 | 3 | 32.494 | GTA 6 DAY 5 :THE VICE CITY TAKEOVER (18.250) | `sZ5ufAnSU7A` |
 
 ## 🔎 Gerüchte – unbestätigt, auf eigene Gefahr
 
 | Titel (gekürzt) | Aufrufe/Std. | Alter (Std.) | Video-ID |
 |---|---|---|---|
-| Cuando tu madre te borra el GTA VI 😂🚨 | 270.237 | 17.7 | `HD-NNQr1cX8` |
-| gta gta6 shorts | 181.936 | 9.8 | `X2l_s9vNM0E` |
-| 一起乐队一起舞 gta gta6 shorts | 160.181 | 18.8 | `XNHtyvmDT10` |
-| GTA 5 vs GTA 6 Cops😭 | 143.846 | 11.3 | `O6cgHvq1Upw` |
-| GTA 6 not launching on PC was a good idea.. | 139.203 | 23.2 | `k_VU66qcgPg` |
+| Mom Surprised Him With GTA 6 😱 | 488.290 | 21.4 | `TXYkiIRMzH8` |
+| Cuando tu madre te borra el GTA VI 😂🚨 | 240.034 | 20.3 | `HD-NNQr1cX8` |
+| gta gta6 shorts | 169.748 | 12.4 | `X2l_s9vNM0E` |
+| GTA 5 vs GTA 6 Cops😭 | 147.659 | 13.9 | `O6cgHvq1Upw` |
+| 一起乐队一起舞 gta gta6 shorts | 144.446 | 21.4 | `XNHtyvmDT10` |
 
 ## 🆕 Auffällige Wörter (mind. 3 Kanäle, noch keinem Thema zugeordnet)
 
-memes (7) · comedy (6) · gaming (5) · trending (5) · part (3) · games (3) · grandtheftauto (3) · moments (3) · viral (3) · relatable (3)
+memes (6) · viral (6) · comedy (6) · gaming (5) · gtavi (5) · trending (4) · grandtheftauto (4) · part (3) · chapter (3) · moments (3)
 
 ## 🏆 Top 10 nach Aufrufen pro Stunde
 
 | # | Titel (gekürzt) | Aufrufe | Alter (Std.) | Aufrufe/Std. | Video-ID |
 |---|---|---|---|---|---|
-| 1 | Cuando tu madre te borra el GTA VI 😂🚨 | 4.790.689 | 17.7 | 270.237 | `HD-NNQr1cX8` |
-| 2 | Bro Really Bought GTA 6 From TEMU 💀😭 memes maincharacterenergy | 4.229.501 | 20.4 | 207.532 | `4iUgdGyhQYg` |
-| 3 | gta gta6 shorts | 1.784.482 | 9.8 | 181.936 | `X2l_s9vNM0E` |
-| 4 | GTA 6 Hidden Facts | 2.834.406 | 17.0 | 166.646 | `6kL_SHjZ6YI` |
-| 5 | 一起乐队一起舞 gta gta6 shorts | 3.012.331 | 18.8 | 160.181 | `XNHtyvmDT10` |
-| 6 | GTA 5 vs GTA 6 Cops😭 | 1.620.892 | 11.3 | 143.846 | `O6cgHvq1Upw` |
-| 7 | GTA 6 not launching on PC was a good idea.. | 3.224.852 | 23.2 | 139.203 | `k_VU66qcgPg` |
-| 8 | 好多好多 gta gta6 shorts | 2.459.499 | 20.8 | 118.244 | `r430pddVmn0` |
-| 9 | Mi Novia y GTA 6 🚨😭 | 1.677.132 | 15.3 | 109.862 | `8_pw3KkVRaU` |
-| 10 | Cuando Juegas Demasiado GTA 6🤣⚠️ comedia | 1.220.693 | 11.9 | 102.451 | `7SH7W6JZQYk` |
+| 1 | Mom Surprised Him With GTA 6 😱 | 10.444.621 | 21.4 | 488.290 | `TXYkiIRMzH8` |
+| 2 | Cuando tu madre te borra el GTA VI 😂🚨 | 4.875.873 | 20.3 | 240.034 | `HD-NNQr1cX8` |
+| 3 | Bro Really Bought GTA 6 From TEMU 💀😭 memes maincharacterenergy | 4.523.036 | 23.0 | 196.949 | `4iUgdGyhQYg` |
+| 4 | GTA 6 Hidden Facts | 3.847.049 | 19.6 | 196.337 | `6kL_SHjZ6YI` |
+| 5 | gta gta6 shorts | 2.103.828 | 12.4 | 169.748 | `X2l_s9vNM0E` |
+| 6 | GTA 5 vs GTA 6 Cops😭 | 2.045.637 | 13.9 | 147.659 | `O6cgHvq1Upw` |
+| 7 | 一起乐队一起舞 gta gta6 shorts | 3.089.888 | 21.4 | 144.446 | `XNHtyvmDT10` |
+| 8 | 3 HAL GABUT BERFAEDAH DI GTA 6 shorts | 2.723.835 | 21.1 | 129.050 | `u_6X8oe3-i4` |
+| 9 | 好多好多 gta gta6 shorts | 2.686.013 | 23.4 | 114.857 | `r430pddVmn0` |
+| 10 | Map of all GTA 6 Players | 1.508.847 | 14.6 | 103.386 | `cdK0oC40Sow` |
