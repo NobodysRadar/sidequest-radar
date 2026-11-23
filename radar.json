@@ -1,72 +1,94 @@
 {
- "stand_utc": "2026-11-23T19:13:44Z",
- "gesichtet": 162,
- "median_vph": 23771.0,
+ "stand_utc": "2026-11-23T22:01:48Z",
+ "gesichtet": 154,
+ "median_vph": 25152.9,
  "trends": [
   {
    "theme": "🚗 Autos & Crashs",
-   "videos": 14,
+   "videos": 15,
    "channels": 12,
-   "vph_sum": 436561,
+   "vph_sum": 427826,
    "top": {
     "id": "N2AlAt37g0w",
     "title": "Can My Brother Steal Billionaires' Cars in GTA 6",
-    "vph": 180100.2
+    "vph": 151413.9
    }
   },
   {
-   "theme": "🗺️ Orte & Geheimnisse",
+   "theme": "📱 Handy & Social Media",
    "videos": 9,
-   "channels": 9,
-   "vph_sum": 375672,
+   "channels": 7,
+   "vph_sum": 352114,
    "top": {
-    "id": "cdK0oC40Sow",
-    "title": "Map of all GTA 6 Players",
-    "vph": 194896.6
+    "id": "pCRHYXz0lfE",
+    "title": "GTA VI...... 6",
+    "vph": 119986.5
    }
   },
   {
    "theme": "🧑 Jason & Lucia",
    "videos": 12,
-   "channels": 11,
-   "vph_sum": 367804,
+   "channels": 12,
+   "vph_sum": 287523,
    "top": {
-    "id": "7SH7W6JZQYk",
-    "title": "Cuando Juegas Demasiado GTA 6🤣⚠️ comedia",
-    "vph": 68213.6
+    "id": "YIORkvgLutM",
+    "title": "BJ vs Jason vs Lucia! Who Escapes? 😱💦 gta6 shorts",
+    "vph": 56851.3
    }
   },
   {
-   "theme": "🌴 Vice City & Leonida",
-   "videos": 7,
-   "channels": 6,
-   "vph_sum": 127932,
+   "theme": "🗺️ Orte & Geheimnisse",
+   "videos": 11,
+   "channels": 10,
+   "vph_sum": 249670,
    "top": {
-    "id": "DrmP7PC3USA",
-    "title": "Vimzz in Vice city🤩 Grand Theft Auto GTA 6 (60fps) Epi 07 Manguni Gam…",
-    "vph": 33631.7
-   }
-  },
-  {
-   "theme": "💥 Physik & Glitches",
-   "videos": 6,
-   "channels": 6,
-   "vph_sum": 111997,
-   "top": {
-    "id": "q9nTVt3bpDo",
-    "title": "GTA 6 gym physics are BROKEN 💀",
-    "vph": 36909.0
+    "id": "GY0kcmdkwU8",
+    "title": "GTA VI's Attention to Detail Is Absolutely INSANE! 3",
+    "vph": 47428.2
    }
   },
   {
    "theme": "🧍 NPC-Reaktionen",
-   "videos": 8,
+   "videos": 7,
    "channels": 5,
-   "vph_sum": 91627,
+   "vph_sum": 209637,
    "top": {
-    "id": "5LUcpAGq6zw",
-    "title": "Cyberpunk Is Better Than GTA 6",
-    "vph": 29627.5
+    "id": "pCRHYXz0lfE",
+    "title": "GTA VI...... 6",
+    "vph": 119986.5
+   }
+  },
+  {
+   "theme": "🌴 Vice City & Leonida",
+   "videos": 6,
+   "channels": 5,
+   "vph_sum": 125871,
+   "top": {
+    "id": "4BgvGC3R8Fs",
+    "title": "🔴DR DISRESPECT - GTA 6 - THE WILD ONE",
+    "vph": 45669.5
+   }
+  },
+  {
+   "theme": "🎱 Aktivitäten & Alltag",
+   "videos": 4,
+   "channels": 4,
+   "vph_sum": 106232,
+   "top": {
+    "id": "4BgvGC3R8Fs",
+    "title": "🔴DR DISRESPECT - GTA 6 - THE WILD ONE",
+    "vph": 45669.5
+   }
+  },
+  {
+   "theme": "💥 Physik & Glitches",
+   "videos": 3,
+   "channels": 3,
+   "vph_sum": 58073,
+   "top": {
+    "id": "GY0kcmdkwU8",
+    "title": "GTA VI's Attention to Detail Is Absolutely INSANE! 3",
+    "vph": 47428.2
    }
   }
  ],
@@ -74,71 +96,65 @@
   {
    "id": "cG-cf7ajXFE",
    "title": "gta gta6 shorts kpop",
-   "views": 22869346,
-   "likes": 151114,
-   "comments": 27,
-   "hours": 7.2,
-   "vph": 3165562.0,
+   "views": 26196123,
+   "likes": 165109,
+   "comments": 30,
+   "hours": 10.0,
+   "vph": 2612958.0,
    "themes": []
   },
   {
    "id": "J9kL3lVfDjg",
    "title": "gta gta6 shorts kpop",
-   "views": 8677012,
-   "likes": 56119,
-   "comments": 16,
-   "hours": 8.2,
-   "vph": 1055351.2,
+   "views": 10159483,
+   "likes": 61669,
+   "comments": 17,
+   "hours": 11.0,
+   "vph": 921665.0,
+   "themes": []
+  },
+  {
+   "id": "Vx9C_SXLJUE",
+   "title": "一起舞动 gta gta6 shorts",
+   "views": 8804604,
+   "likes": 27964,
+   "comments": 5,
+   "hours": 10.0,
+   "vph": 878589.0,
    "themes": []
   },
   {
    "id": "xzcLiBWKzXI",
    "title": "gta gta6 shorts kpop",
-   "views": 2122498,
-   "likes": 14500,
-   "comments": 10,
-   "hours": 5.7,
-   "vph": 370869.6,
+   "views": 3519492,
+   "likes": 17132,
+   "comments": 12,
+   "hours": 8.5,
+   "vph": 412888.3,
    "themes": []
   },
   {
    "id": "Yt4YuOycyls",
    "title": "gta gta6 shorts kpop",
-   "views": 1417489,
-   "likes": 15292,
-   "comments": 5,
-   "hours": 4.7,
-   "vph": 300352.4,
+   "views": 2470842,
+   "likes": 16058,
+   "comments": 6,
+   "hours": 7.5,
+   "vph": 328549.0,
    "themes": []
-  },
-  {
-   "id": "O6cgHvq1Upw",
-   "title": "GTA 5 vs GTA 6 Cops😭",
-   "views": 6744084,
-   "likes": 92542,
-   "comments": 454,
-   "hours": 22.7,
-   "vph": 297274.8,
-   "themes": [
-    "🚓 Polizei & Verfolgung"
-   ]
   }
  ],
  "woerter": [
   [
-   "gtavi",
-   6
-  ],
-  [
-   "viral",
-   6
-  ],
-  [
    "gaming",
+   5
+  ],
+  [
+   "gtavi",
    4
   ],
   [
-   "comedy",
+   "viral",
    4
   ],
   [
@@ -146,11 +162,15 @@
    3
   ],
   [
-   "players",
+   "mandy",
    3
   ],
   [
-   "playing",
+   "really",
+   3
+  ],
+  [
+   "meme",
    3
   ],
   [
@@ -158,11 +178,11 @@
    3
   ],
   [
-   "mandy",
+   "comedy",
    3
   ],
   [
-   "humor",
+   "family",
    3
   ]
  ],
@@ -170,107 +190,103 @@
   {
    "id": "cG-cf7ajXFE",
    "title": "gta gta6 shorts kpop",
-   "views": 22869346,
-   "likes": 151114,
-   "comments": 27,
-   "hours": 7.2,
-   "vph": 3165562.0,
+   "views": 26196123,
+   "likes": 165109,
+   "comments": 30,
+   "hours": 10.0,
+   "vph": 2612958.0,
    "themes": []
   },
   {
    "id": "J9kL3lVfDjg",
    "title": "gta gta6 shorts kpop",
-   "views": 8677012,
-   "likes": 56119,
-   "comments": 16,
-   "hours": 8.2,
-   "vph": 1055351.2,
+   "views": 10159483,
+   "likes": 61669,
+   "comments": 17,
+   "hours": 11.0,
+   "vph": 921665.0,
+   "themes": []
+  },
+  {
+   "id": "Vx9C_SXLJUE",
+   "title": "一起舞动 gta gta6 shorts",
+   "views": 8804604,
+   "likes": 27964,
+   "comments": 5,
+   "hours": 10.0,
+   "vph": 878589.0,
    "themes": []
   },
   {
    "id": "xzcLiBWKzXI",
    "title": "gta gta6 shorts kpop",
-   "views": 2122498,
-   "likes": 14500,
-   "comments": 10,
-   "hours": 5.7,
-   "vph": 370869.6,
+   "views": 3519492,
+   "likes": 17132,
+   "comments": 12,
+   "hours": 8.5,
+   "vph": 412888.3,
    "themes": []
   },
   {
    "id": "Yt4YuOycyls",
    "title": "gta gta6 shorts kpop",
-   "views": 1417489,
-   "likes": 15292,
-   "comments": 5,
-   "hours": 4.7,
-   "vph": 300352.4,
+   "views": 2470842,
+   "likes": 16058,
+   "comments": 6,
+   "hours": 7.5,
+   "vph": 328549.0,
    "themes": []
-  },
-  {
-   "id": "O6cgHvq1Upw",
-   "title": "GTA 5 vs GTA 6 Cops😭",
-   "views": 6744084,
-   "likes": 92542,
-   "comments": 454,
-   "hours": 22.7,
-   "vph": 297274.8,
-   "themes": [
-    "🚓 Polizei & Verfolgung"
-   ]
   },
   {
    "id": "XPRCe6penjU",
    "title": "Bakar Mobil Si donnie Di GTA 6 shorts gta6",
-   "views": 4138420,
-   "likes": 16251,
+   "views": 4196076,
+   "likes": 16526,
    "comments": 24,
-   "hours": 14.5,
-   "vph": 285436.1,
+   "hours": 17.3,
+   "vph": 242552.9,
    "themes": []
   },
   {
    "id": "8K1rsN2bNyg",
    "title": "总算是成功解救露西亚 gta gta6 shorts",
-   "views": 2411086,
-   "likes": 14888,
+   "views": 2514252,
+   "likes": 16230,
    "comments": 11,
-   "hours": 9.2,
-   "vph": 261412.3,
+   "hours": 12.0,
+   "vph": 209096.6,
    "themes": []
-  },
-  {
-   "id": "cdK0oC40Sow",
-   "title": "Map of all GTA 6 Players",
-   "views": 4565827,
-   "likes": 75431,
-   "comments": 2039,
-   "hours": 23.4,
-   "vph": 194896.6,
-   "themes": [
-    "🗺️ Orte & Geheimnisse"
-   ]
   },
   {
    "id": "N2AlAt37g0w",
    "title": "Can My Brother Steal Billionaires' Cars in GTA 6",
-   "views": 2290620,
-   "likes": 89515,
-   "comments": 2617,
-   "hours": 12.7,
-   "vph": 180100.2,
+   "views": 2349888,
+   "likes": 90109,
+   "comments": 2627,
+   "hours": 15.5,
+   "vph": 151413.9,
    "themes": [
     "🚗 Autos & Crashs"
    ]
   },
   {
-   "id": "X2l_s9vNM0E",
-   "title": "gta gta6 shorts",
-   "views": 3582942,
-   "likes": 12966,
-   "comments": 3,
-   "hours": 21.2,
-   "vph": 168796.8,
+   "id": "pqF9NnZyp-0",
+   "title": "GTA 6-Hulk Vs Spiderman Challenge 🤣 29 hulk spiderman gta",
+   "views": 2424657,
+   "likes": 5335,
+   "comments": 1,
+   "hours": 18.4,
+   "vph": 131481.7,
+   "themes": []
+  },
+  {
+   "id": "hRtboLdf3i8",
+   "title": "En GTA 6 sí arregla la casa pero en la vida real no 😂",
+   "views": 2748299,
+   "likes": 22225,
+   "comments": 151,
+   "hours": 22.5,
+   "vph": 122023.6,
    "themes": []
   }
  ],
