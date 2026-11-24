@@ -1,44 +1,44 @@
-# 🎮 Sidequest-Radar – Stand 24.11.2026, 17:23 Uhr
+# 🎮 Sidequest-Radar – Stand 24.11.2026, 20:12 Uhr
 
-Gesichtet: **147 GTA-6-Shorts** der letzten 24 Std. · Median 23.541 Aufrufe/Std. · Quelle: YouTube. Gespeichert werden nur Zahlen, gekürzte Titel und Video-IDs.
+Gesichtet: **151 GTA-6-Shorts** der letzten 24 Std. · Median 31.334 Aufrufe/Std. · Quelle: YouTube. Gespeichert werden nur Zahlen, gekürzte Titel und Video-IDs.
 
 ## ✅ Bestätigte Trends (mind. 3 Videos von 3 Kanälen)
 
 | Rang | Thema | Videos | Kanäle | Aufrufe/Std. gesamt | Spitzen-Video (Aufrufe/Std.) | Video-ID |
 |---|---|---|---|---|---|---|
-| 1 | 🧑 Jason & Lucia | 18 | 17 | 632.910 | GTA VI New Kiss or Save Run Spider-man vs Jason Duval Funny Epic Chal… (301.036) | `EJ-xEtOBGEQ` |
-| 2 | 🚗 Autos & Crashs | 18 | 18 | 555.495 | He Went to Play GTA 6 for Just ₹200... But One Crazy Mistake Got Him … (120.765) | `JRnE7cCk57M` |
-| 3 | 💥 Physik & Glitches | 4 | 4 | 261.729 | Cabinet Glitch 🗄️ For Free GTA 6 🎮 GTA GTA6 YouTubeShorts (228.551) | `5q7dwXo3R6w` |
-| 4 | 🧍 NPC-Reaktionen | 4 | 4 | 195.713 | GTA 6 NPCs better sleep with one eye open when he's around (137.120) | `Ys9RM6iGHI8` |
-| 5 | 🗺️ Orte & Geheimnisse | 4 | 4 | 130.372 | Jalanan Palsu di GTA VI, Referensi Kartun di Game GTA VI 😹 (48.378) | `KQ8X5A2HwsA` |
-| 6 | 📱 Handy & Social Media | 3 | 3 | 77.260 | Aaj Full Day Gta 6 Day 5 (35.025) | `4jQafTQ5zRI` |
-| 7 | 🌴 Vice City & Leonida | 4 | 4 | 45.981 | GTA 6 A 60 FPS ! gta6 ps5 flowgames (25.313) | `_WobhAZksOw` |
+| 1 | 🧑 Jason & Lucia | 11 | 11 | 577.323 | GTA VI New Kiss or Save Run Spider-man vs Jason Duval Funny Epic Chal… (338.587) | `EJ-xEtOBGEQ` |
+| 2 | 🌴 Vice City & Leonida | 10 | 9 | 471.051 | Gangnam style Trend VICE CITY GTA 6 GAMEPLAY shorts viral (190.197) | `eyWAfwCwVLI` |
+| 3 | 🚗 Autos & Crashs | 14 | 13 | 391.027 | Fastest $40,000 I've Made In GTA 6 gta6 gta (96.792) | `xEIkW7NvNIg` |
+| 4 | 🧍 NPC-Reaktionen | 6 | 5 | 325.903 | GTA 6 NPCs better sleep with one eye open when he's around (152.951) | `Ys9RM6iGHI8` |
+| 5 | 💥 Physik & Glitches | 3 | 3 | 216.960 | Cabinet Glitch 🗄️ For Free GTA 6 🎮 GTA GTA6 YouTubeShorts (208.813) | `5q7dwXo3R6w` |
+| 6 | 📱 Handy & Social Media | 4 | 4 | 170.140 | GTA VI...... 7 (113.046) | `xhaoXvuvcdk` |
+| 7 | 🗺️ Orte & Geheimnisse | 5 | 5 | 134.959 | Map of All GTA VI Players (50.858) | `ylhIfy4PJDU` |
 
 ## 🔎 Gerüchte – unbestätigt, auf eigene Gefahr
 
 | Titel (gekürzt) | Aufrufe/Std. | Alter (Std.) | Video-ID |
 |---|---|---|---|
-| 寻找自己的门 gta gta6 shorts kpop | 822.475 | 5.4 | `4N_8WzfVD8Y` |
-| PS5 मेरे लिए आया था, खेलने मम्मी लगी 😂 funny gta6 golu008 youtubeshor… | 796.906 | 11.7 | `GghFo7ae-LE` |
-| 选择喜欢的东西 gta gta6 shorts | 611.026 | 5.4 | `lQNnYNB7wl4` |
-| That One GTA 6 Paglu Friend🎮🤣 gta6 relatable comedy trending shorts | 351.161 | 10.8 | `PsgeDZfe4j0` |
-| I’m sleeping on the couch 😂 Gta6 Mandy Shorts | 226.989 | 17.9 | `gnCnc5bxViQ` |
+| PS5 मेरे लिए आया था, खेलने मम्मी लगी 😂 funny gta6 golu008 youtubeshor… | 1.029.482 | 14.6 | `GghFo7ae-LE` |
+| 选择喜欢的东西 gta gta6 shorts | 714.350 | 8.2 | `lQNnYNB7wl4` |
+| 寻找自己的门 gta gta6 shorts kpop | 682.843 | 8.2 | `4N_8WzfVD8Y` |
+| 鲁米的恐怖之旅 gta gta6 shorts kpop | 533.642 | 5.2 | `hNaoD-ljXgU` |
+| That One GTA 6 Paglu Friend🎮🤣 gta6 relatable comedy trending shorts | 415.380 | 13.6 | `PsgeDZfe4j0` |
 
 ## 🆕 Auffällige Wörter (mind. 3 Kanäle, noch keinem Thema zugeordnet)
 
-comedy (9) · relatable (5) · games (5) · gtavi (5) · life (5) · friend (4) · free (4) · comedia (4) · cuando (4) · humor (4)
+comedy (10) · viral (7) · games (6) · relatable (5) · gaming (5) · gangnam (4) · city (4) · trend (4) · vice (4) · playing (4)
 
 ## 🏆 Top 10 nach Aufrufen pro Stunde
 
 | # | Titel (gekürzt) | Aufrufe | Alter (Std.) | Aufrufe/Std. | Video-ID |
 |---|---|---|---|---|---|
-| 1 | 寻找自己的门 gta gta6 shorts kpop | 4.435.835 | 5.4 | 822.475 | `4N_8WzfVD8Y` |
-| 2 | PS5 मेरे लिए आया था, खेलने मम्मी लगी 😂 funny gta6 golu008 youtubeshor… | 9.359.833 | 11.7 | 796.906 | `GghFo7ae-LE` |
-| 3 | 选择喜欢的东西 gta gta6 shorts | 3.293.227 | 5.4 | 611.026 | `lQNnYNB7wl4` |
-| 4 | That One GTA 6 Paglu Friend🎮🤣 gta6 relatable comedy trending shorts | 3.776.131 | 10.8 | 351.161 | `PsgeDZfe4j0` |
-| 5 | GTA VI New Kiss or Save Run Spider-man vs Jason Duval Funny Epic Chal… | 3.430.450 | 11.4 | 301.036 | `EJ-xEtOBGEQ` |
-| 6 | Cabinet Glitch 🗄️ For Free GTA 6 🎮 GTA GTA6 YouTubeShorts | 3.464.818 | 15.2 | 228.551 | `5q7dwXo3R6w` |
-| 7 | I’m sleeping on the couch 😂 Gta6 Mandy Shorts | 4.061.199 | 17.9 | 226.989 | `gnCnc5bxViQ` |
-| 8 | 神奇的中线 gta gta6 shorts | 762.095 | 3.4 | 224.406 | `OCXdmuJeJBo` |
-| 9 | ¡CUANDO JUEGAS GTA 6! minecraft shorts minecraftshorts | 4.391.768 | 20.9 | 210.606 | `TTkoN9Ulbfk` |
-| 10 | 抢走他的物品 gta gta6 shorts | 974.896 | 4.9 | 199.232 | `nnOBOni866s` |
+| 1 | PS5 मेरे लिए आया था, खेलने मम्मी लगी 😂 funny gta6 golu008 youtubeshor… | 14.982.914 | 14.6 | 1.029.482 | `GghFo7ae-LE` |
+| 2 | 选择喜欢的东西 gta gta6 shorts | 5.856.443 | 8.2 | 714.350 | `lQNnYNB7wl4` |
+| 3 | 寻找自己的门 gta gta6 shorts kpop | 5.600.606 | 8.2 | 682.843 | `4N_8WzfVD8Y` |
+| 4 | 鲁米的恐怖之旅 gta gta6 shorts kpop | 2.776.100 | 5.2 | 533.642 | `hNaoD-ljXgU` |
+| 5 | That One GTA 6 Paglu Friend🎮🤣 gta6 relatable comedy trending shorts | 5.633.332 | 13.6 | 415.380 | `PsgeDZfe4j0` |
+| 6 | GTA VI New Kiss or Save Run Spider-man vs Jason Duval Funny Epic Chal… | 4.809.325 | 14.2 | 338.587 | `EJ-xEtOBGEQ` |
+| 7 | What Happens When I Try GTA 6 Lipstick?🤯🌴💄 | 2.902.010 | 9.8 | 295.723 | `LI-iJgAqbkw` |
+| 8 | I made GTA6 on Tshirt😱 shorts gta | 1.576.753 | 5.9 | 266.834 | `Ymsh2dayvDw` |
+| 9 | I’m sleeping on the couch 😂 Gta6 Mandy Shorts | 5.513.453 | 20.7 | 266.348 | `gnCnc5bxViQ` |
+| 10 | 神奇的中线 gta gta6 shorts | 1.314.261 | 6.2 | 211.818 | `OCXdmuJeJBo` |
