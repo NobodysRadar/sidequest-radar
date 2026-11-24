@@ -1,44 +1,44 @@
-# 🎮 Sidequest-Radar – Stand 24.11.2026, 08:32 Uhr
+# 🎮 Sidequest-Radar – Stand 24.11.2026, 11:21 Uhr
 
-Gesichtet: **154 GTA-6-Shorts** der letzten 24 Std. · Median 23.605 Aufrufe/Std. · Quelle: YouTube. Gespeichert werden nur Zahlen, gekürzte Titel und Video-IDs.
+Gesichtet: **164 GTA-6-Shorts** der letzten 24 Std. · Median 22.820 Aufrufe/Std. · Quelle: YouTube. Gespeichert werden nur Zahlen, gekürzte Titel und Video-IDs.
 
 ## ✅ Bestätigte Trends (mind. 3 Videos von 3 Kanälen)
 
 | Rang | Thema | Videos | Kanäle | Aufrufe/Std. gesamt | Spitzen-Video (Aufrufe/Std.) | Video-ID |
 |---|---|---|---|---|---|---|
-| 1 | 🚗 Autos & Crashs | 17 | 16 | 374.624 | POV: ESTAS JUGANDO GTA VI 😂 (81.005) | `ZsvMH89g0i4` |
-| 2 | 🧑 Jason & Lucia | 15 | 14 | 317.877 | Tu Padre Va al TACÓN del GTA 6👠🔥 comedia (87.746) | `RPb92VswmKE` |
-| 3 | 🧍 NPC-Reaktionen | 5 | 5 | 271.662 | GTA 6 NPCs better sleep with one eye open when he's around (130.910) | `Ys9RM6iGHI8` |
-| 4 | 🗺️ Orte & Geheimnisse | 5 | 5 | 199.127 | 🔴LIVE GTA 6 DAY 5 DIMENSIONAL RIFTS, DEMONS, SECRET MISSIONS BUNGULATE (129.236) | `ai39lbFr410` |
-| 5 | 💥 Physik & Glitches | 5 | 5 | 171.004 | Glitch Yang Paling di Cari Pemain di GTA 6 shorts (105.394) | `cIok1fEPsQU` |
-| 6 | 📱 Handy & Social Media | 3 | 3 | 122.091 | Jynxzi Reacts to NickEh30 Getting Out of Character in GTA 6! 😭💀 (75.518) | `E5oCohy69RE` |
-| 7 | 🌴 Vice City & Leonida | 5 | 4 | 31.883 | GTA 6 ന്റെ Map END!? 😱🔥 shorts gta6 funny games gta (13.636) | `JIk2U8N-AJg` |
+| 1 | 🧑 Jason & Lucia | 14 | 13 | 499.402 | GTA VI New Kiss or Save Run Spider-man vs Jason Duval Funny Epic Chal… (166.107) | `EJ-xEtOBGEQ` |
+| 2 | 🚗 Autos & Crashs | 19 | 18 | 339.165 | POV: ESTAS JUGANDO GTA VI 😂 (65.830) | `ZsvMH89g0i4` |
+| 3 | 💥 Physik & Glitches | 3 | 3 | 299.626 | Glitch Yang Paling di Cari Pemain di GTA 6 shorts (176.469) | `cIok1fEPsQU` |
+| 4 | 🧍 NPC-Reaktionen | 4 | 4 | 266.723 | GTA 6 NPCs better sleep with one eye open when he's around (131.130) | `Ys9RM6iGHI8` |
+| 5 | 📱 Handy & Social Media | 5 | 5 | 139.958 | Jynxzi Reacts to NickEh30 Getting Out of Character in GTA 6! 😭💀 (71.849) | `E5oCohy69RE` |
+| 6 | 🌴 Vice City & Leonida | 6 | 5 | 60.260 | GTA 6 FINAL DAY :THE VICE CITY TAKEOVER (28.277) | `bTE_5AuAAgk` |
+| 7 | 🗺️ Orte & Geheimnisse | 3 | 3 | 59.569 | GTA V LEGENDS Saying goodbye Easter egg gta gta6 rockstargames (25.712) | `me-pP-I_7q8` |
 
 ## 🔎 Gerüchte – unbestätigt, auf eigene Gefahr
 
 | Titel (gekürzt) | Aufrufe/Std. | Alter (Std.) | Video-ID |
 |---|---|---|---|
-| gta gta6 shorts kpop | 1.626.539 | 19.5 | `cG-cf7ajXFE` |
-| gta gta6 shorts kpop | 725.768 | 20.5 | `J9kL3lVfDjg` |
-| 一起舞动 gta gta6 shorts | 491.724 | 19.5 | `Vx9C_SXLJUE` |
-| ¡CUANDO JUEGAS GTA 6! minecraft shorts minecraftshorts | 339.203 | 12.0 | `TTkoN9Ulbfk` |
-| si el personaje come demasiado en gta6 | 268.265 | 13.2 | `j-px4QBZ-0o` |
+| gta gta6 shorts kpop | 1.522.249 | 22.4 | `cG-cf7ajXFE` |
+| gta gta6 shorts kpop | 663.701 | 23.4 | `J9kL3lVfDjg` |
+| 一起舞动 gta gta6 shorts | 437.930 | 22.3 | `Vx9C_SXLJUE` |
+| When you Finally take a Break from GTA 6 💀💔 Kuldeep Singhaniaa shorts… | 279.920 | 21.8 | `7kezYGQ_88Y` |
+| ¡CUANDO JUEGAS GTA 6! minecraft shorts minecraftshorts | 279.507 | 14.8 | `TTkoN9Ulbfk` |
 
 ## 🆕 Auffällige Wörter (mind. 3 Kanäle, noch keinem Thema zugeordnet)
 
-gaming (7) · gtavi (7) · cuando (5) · comedy (5) · comedia (4) · games (4) · kpop (3) · play (3) · live (3) · right (3)
+gtavi (9) · comedy (5) · games (5) · cuando (5) · viral (5) · life (4) · gaming (4) · play (4) · playing (4) · kpop (3)
 
 ## 🏆 Top 10 nach Aufrufen pro Stunde
 
 | # | Titel (gekürzt) | Aufrufe | Alter (Std.) | Aufrufe/Std. | Video-ID |
 |---|---|---|---|---|---|
-| 1 | gta gta6 shorts kpop | 31.777.386 | 19.5 | 1.626.539 | `cG-cf7ajXFE` |
-| 2 | gta gta6 shorts kpop | 14.903.139 | 20.5 | 725.768 | `J9kL3lVfDjg` |
-| 3 | 一起舞动 gta gta6 shorts | 9.604.671 | 19.5 | 491.724 | `Vx9C_SXLJUE` |
-| 4 | ¡CUANDO JUEGAS GTA 6! minecraft shorts minecraftshorts | 4.069.453 | 12.0 | 339.203 | `TTkoN9Ulbfk` |
-| 5 | si el personaje come demasiado en gta6 | 3.547.325 | 13.2 | 268.265 | `j-px4QBZ-0o` |
-| 6 | gta gta6 shorts kpop | 4.282.320 | 18.0 | 237.439 | `xzcLiBWKzXI` |
-| 7 | Cuando tu madre juega al GTA VI 😂 | 3.883.529 | 16.5 | 234.834 | `RZfcTlr8Xr4` |
-| 8 | Tree climbing in GTA 6 | 5.221.109 | 22.8 | 228.922 | `1mkoWN7Hamg` |
-| 9 | si caemos sobre el cableado electrico en gta6 | 1.849.383 | 8.1 | 228.409 | `wzjoW7wU6z4` |
-| 10 | GTA VI: O FINAL DIA 5 🔴 ESTAMOS COM 96% DO JOGO CORINGA AO VIVO | 2.141.044 | 10.1 | 211.935 | `FN-3R4bpfEw` |
+| 1 | gta gta6 shorts kpop | 34.027.323 | 22.4 | 1.522.249 | `cG-cf7ajXFE` |
+| 2 | gta gta6 shorts kpop | 15.497.959 | 23.4 | 663.701 | `J9kL3lVfDjg` |
+| 3 | 一起舞动 gta gta6 shorts | 9.787.372 | 22.3 | 437.930 | `Vx9C_SXLJUE` |
+| 4 | When you Finally take a Break from GTA 6 💀💔 Kuldeep Singhaniaa shorts… | 6.099.922 | 21.8 | 279.920 | `7kezYGQ_88Y` |
+| 5 | ¡CUANDO JUEGAS GTA 6! minecraft shorts minecraftshorts | 4.140.509 | 14.8 | 279.507 | `TTkoN9Ulbfk` |
+| 6 | si el personaje come demasiado en gta6 | 3.704.446 | 16.0 | 230.955 | `j-px4QBZ-0o` |
+| 7 | gta gta6 shorts kpop | 4.361.918 | 20.9 | 209.185 | `xzcLiBWKzXI` |
+| 8 | Cuando tu madre juega al GTA VI 😂 | 3.988.303 | 19.4 | 206.072 | `RZfcTlr8Xr4` |
+| 9 | I’m sleeping on the couch 😂 Gta6 Mandy Shorts | 2.401.363 | 11.9 | 202.609 | `gnCnc5bxViQ` |
+| 10 | si caemos sobre el cableado electrico en gta6 | 1.965.337 | 10.9 | 180.086 | `wzjoW7wU6z4` |
