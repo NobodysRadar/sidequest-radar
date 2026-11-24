@@ -1,44 +1,44 @@
-# 🎮 Sidequest-Radar – Stand 24.11.2026, 14:28 Uhr
+# 🎮 Sidequest-Radar – Stand 24.11.2026, 17:23 Uhr
 
-Gesichtet: **155 GTA-6-Shorts** der letzten 24 Std. · Median 20.623 Aufrufe/Std. · Quelle: YouTube. Gespeichert werden nur Zahlen, gekürzte Titel und Video-IDs.
+Gesichtet: **147 GTA-6-Shorts** der letzten 24 Std. · Median 23.541 Aufrufe/Std. · Quelle: YouTube. Gespeichert werden nur Zahlen, gekürzte Titel und Video-IDs.
 
 ## ✅ Bestätigte Trends (mind. 3 Videos von 3 Kanälen)
 
 | Rang | Thema | Videos | Kanäle | Aufrufe/Std. gesamt | Spitzen-Video (Aufrufe/Std.) | Video-ID |
 |---|---|---|---|---|---|---|
-| 1 | 🧑 Jason & Lucia | 20 | 19 | 595.652 | GTA VI New Kiss or Save Run Spider-man vs Jason Duval Funny Epic Chal… (238.652) | `EJ-xEtOBGEQ` |
-| 2 | 🚗 Autos & Crashs | 19 | 18 | 544.436 | KATANYA ADA MISTERI RITUAL SATANIS DI VICE CITY.... Grand Theft Auto … (122.323) | `zYTPbx83wCQ` |
-| 3 | 🧍 NPC-Reaktionen | 5 | 5 | 259.434 | GTA 6 NPCs better sleep with one eye open when he's around (129.926) | `Ys9RM6iGHI8` |
-| 4 | 💥 Physik & Glitches | 5 | 5 | 208.881 | Cabinet Glitch 🗄️ For Free GTA 6 🎮 GTA GTA6 YouTubeShorts (141.842) | `5q7dwXo3R6w` |
-| 5 | 🌴 Vice City & Leonida | 6 | 6 | 178.145 | KATANYA ADA MISTERI RITUAL SATANIS DI VICE CITY.... Grand Theft Auto … (122.323) | `zYTPbx83wCQ` |
-| 6 | 🗺️ Orte & Geheimnisse | 7 | 7 | 125.891 | Playing GTA 6 How do the escape IQs of Lucia and Jason differ (28.260) | `z5PoAPo7IKQ` |
-| 7 | 📱 Handy & Social Media | 6 | 6 | 123.343 | Jynxzi Reacts to NickEh30 Getting Out of Character in GTA 6! 😭💀 (67.119) | `E5oCohy69RE` |
+| 1 | 🧑 Jason & Lucia | 18 | 17 | 632.910 | GTA VI New Kiss or Save Run Spider-man vs Jason Duval Funny Epic Chal… (301.036) | `EJ-xEtOBGEQ` |
+| 2 | 🚗 Autos & Crashs | 18 | 18 | 555.495 | He Went to Play GTA 6 for Just ₹200... But One Crazy Mistake Got Him … (120.765) | `JRnE7cCk57M` |
+| 3 | 💥 Physik & Glitches | 4 | 4 | 261.729 | Cabinet Glitch 🗄️ For Free GTA 6 🎮 GTA GTA6 YouTubeShorts (228.551) | `5q7dwXo3R6w` |
+| 4 | 🧍 NPC-Reaktionen | 4 | 4 | 195.713 | GTA 6 NPCs better sleep with one eye open when he's around (137.120) | `Ys9RM6iGHI8` |
+| 5 | 🗺️ Orte & Geheimnisse | 4 | 4 | 130.372 | Jalanan Palsu di GTA VI, Referensi Kartun di Game GTA VI 😹 (48.378) | `KQ8X5A2HwsA` |
+| 6 | 📱 Handy & Social Media | 3 | 3 | 77.260 | Aaj Full Day Gta 6 Day 5 (35.025) | `4jQafTQ5zRI` |
+| 7 | 🌴 Vice City & Leonida | 4 | 4 | 45.981 | GTA 6 A 60 FPS ! gta6 ps5 flowgames (25.313) | `_WobhAZksOw` |
 
 ## 🔎 Gerüchte – unbestätigt, auf eigene Gefahr
 
 | Titel (gekürzt) | Aufrufe/Std. | Alter (Std.) | Video-ID |
 |---|---|---|---|
-| PS5 मेरे लिए आया था, खेलने मम्मी लगी 😂 funny gta6 golu008 youtubeshor… | 419.471 | 8.8 | `GghFo7ae-LE` |
-| That One GTA 6 Paglu Friend🎮🤣 gta6 relatable comedy trending shorts | 242.977 | 7.8 | `PsgeDZfe4j0` |
-| ¡CUANDO JUEGAS GTA 6! minecraft shorts minecraftshorts | 234.666 | 17.9 | `TTkoN9Ulbfk` |
-| I’m sleeping on the couch 😂 Gta6 Mandy Shorts | 205.787 | 15.0 | `gnCnc5bxViQ` |
-| si el personaje come demasiado en gta6 | 196.793 | 19.2 | `j-px4QBZ-0o` |
+| 寻找自己的门 gta gta6 shorts kpop | 822.475 | 5.4 | `4N_8WzfVD8Y` |
+| PS5 मेरे लिए आया था, खेलने मम्मी लगी 😂 funny gta6 golu008 youtubeshor… | 796.906 | 11.7 | `GghFo7ae-LE` |
+| 选择喜欢的东西 gta gta6 shorts | 611.026 | 5.4 | `lQNnYNB7wl4` |
+| That One GTA 6 Paglu Friend🎮🤣 gta6 relatable comedy trending shorts | 351.161 | 10.8 | `PsgeDZfe4j0` |
+| I’m sleeping on the couch 😂 Gta6 Mandy Shorts | 226.989 | 17.9 | `gnCnc5bxViQ` |
 
 ## 🆕 Auffällige Wörter (mind. 3 Kanäle, noch keinem Thema zugeordnet)
 
-comedy (7) · gtavi (7) · play (5) · cuando (5) · relatable (4) · games (4) · viral (4) · character (3) · comedia (3) · memes (3)
+comedy (9) · relatable (5) · games (5) · gtavi (5) · life (5) · friend (4) · free (4) · comedia (4) · cuando (4) · humor (4)
 
 ## 🏆 Top 10 nach Aufrufen pro Stunde
 
 | # | Titel (gekürzt) | Aufrufe | Alter (Std.) | Aufrufe/Std. | Video-ID |
 |---|---|---|---|---|---|
-| 1 | PS5 मेरे लिए आया था, खेलने मम्मी लगी 😂 funny gta6 golu008 youtubeshor… | 3.702.673 | 8.8 | 419.471 | `GghFo7ae-LE` |
-| 2 | That One GTA 6 Paglu Friend🎮🤣 gta6 relatable comedy trending shorts | 1.903.742 | 7.8 | 242.977 | `PsgeDZfe4j0` |
-| 3 | GTA VI New Kiss or Save Run Spider-man vs Jason Duval Funny Epic Chal… | 2.023.117 | 8.5 | 238.652 | `EJ-xEtOBGEQ` |
-| 4 | ¡CUANDO JUEGAS GTA 6! minecraft shorts minecraftshorts | 4.208.686 | 17.9 | 234.666 | `TTkoN9Ulbfk` |
-| 5 | I’m sleeping on the couch 😂 Gta6 Mandy Shorts | 3.081.336 | 15.0 | 205.787 | `gnCnc5bxViQ` |
-| 6 | si el personaje come demasiado en gta6 | 3.770.731 | 19.2 | 196.793 | `j-px4QBZ-0o` |
-| 7 | gta gta6 shorts kpop | 4.441.871 | 24.0 | 185.286 | `xzcLiBWKzXI` |
-| 8 | Cuando tu madre juega al GTA VI 😂 | 4.068.493 | 22.5 | 181.023 | `RZfcTlr8Xr4` |
-| 9 | GTA 6 FILES ARE NOW ON PC shorts | 2.475.337 | 14.0 | 176.459 | `xVx-k3hXTlA` |
-| 10 | Roblox GTA 6 Bundle Troll 😨 | 3.904.012 | 22.8 | 171.579 | `yuw8_flkzEk` |
+| 1 | 寻找自己的门 gta gta6 shorts kpop | 4.435.835 | 5.4 | 822.475 | `4N_8WzfVD8Y` |
+| 2 | PS5 मेरे लिए आया था, खेलने मम्मी लगी 😂 funny gta6 golu008 youtubeshor… | 9.359.833 | 11.7 | 796.906 | `GghFo7ae-LE` |
+| 3 | 选择喜欢的东西 gta gta6 shorts | 3.293.227 | 5.4 | 611.026 | `lQNnYNB7wl4` |
+| 4 | That One GTA 6 Paglu Friend🎮🤣 gta6 relatable comedy trending shorts | 3.776.131 | 10.8 | 351.161 | `PsgeDZfe4j0` |
+| 5 | GTA VI New Kiss or Save Run Spider-man vs Jason Duval Funny Epic Chal… | 3.430.450 | 11.4 | 301.036 | `EJ-xEtOBGEQ` |
+| 6 | Cabinet Glitch 🗄️ For Free GTA 6 🎮 GTA GTA6 YouTubeShorts | 3.464.818 | 15.2 | 228.551 | `5q7dwXo3R6w` |
+| 7 | I’m sleeping on the couch 😂 Gta6 Mandy Shorts | 4.061.199 | 17.9 | 226.989 | `gnCnc5bxViQ` |
+| 8 | 神奇的中线 gta gta6 shorts | 762.095 | 3.4 | 224.406 | `OCXdmuJeJBo` |
+| 9 | ¡CUANDO JUEGAS GTA 6! minecraft shorts minecraftshorts | 4.391.768 | 20.9 | 210.606 | `TTkoN9Ulbfk` |
+| 10 | 抢走他的物品 gta gta6 shorts | 974.896 | 4.9 | 199.232 | `nnOBOni866s` |
