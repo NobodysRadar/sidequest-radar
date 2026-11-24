@@ -1,61 +1,72 @@
 {
- "stand_utc": "2026-11-24T01:25:47Z",
- "gesichtet": 155,
- "median_vph": 26697.9,
+ "stand_utc": "2026-11-24T04:12:24Z",
+ "gesichtet": 153,
+ "median_vph": 25416.2,
  "trends": [
   {
    "theme": "🚗 Autos & Crashs",
    "videos": 14,
-   "channels": 12,
-   "vph_sum": 346148,
+   "channels": 13,
+   "vph_sum": 412887,
    "top": {
     "id": "N2AlAt37g0w",
     "title": "Can My Brother Steal Billionaires' Cars in GTA 6",
-    "vph": 124755.0
+    "vph": 113143.7
+   }
+  },
+  {
+   "theme": "🧑 Jason & Lucia",
+   "videos": 11,
+   "channels": 10,
+   "vph_sum": 281646,
+   "top": {
+    "id": "RPb92VswmKE",
+    "title": "Tu Padre Va al TACÓN del GTA 6👠🔥 comedia",
+    "vph": 109052.6
    }
   },
   {
    "theme": "🗺️ Orte & Geheimnisse",
-   "videos": 8,
-   "channels": 8,
-   "vph_sum": 262758,
+   "videos": 6,
+   "channels": 6,
+   "vph_sum": 236637,
    "top": {
     "id": "ai39lbFr410",
     "title": "🔴LIVE GTA 6 DAY 5 DIMENSIONAL RIFTS, DEMONS, SECRET MISSIONS BUNGULATE",
-    "vph": 86144.3
+    "vph": 116920.6
    }
   },
   {
    "theme": "🌴 Vice City & Leonida",
    "videos": 5,
    "channels": 4,
-   "vph_sum": 212719,
+   "vph_sum": 226112,
    "top": {
     "id": "dVFOcOqV1dk",
     "title": "Gangnam styleTrend VICE CITY GTA 6 GAMEPLAY shorts viral",
-    "vph": 114749.8
-   }
-  },
-  {
-   "theme": "🧑 Jason & Lucia",
-   "videos": 7,
-   "channels": 7,
-   "vph_sum": 195899,
-   "top": {
-    "id": "RPb92VswmKE",
-    "title": "Tu Padre Va al TACÓN del GTA 6👠🔥 comedia",
-    "vph": 123543.7
+    "vph": 119854.7
    }
   },
   {
    "theme": "📱 Handy & Social Media",
    "videos": 5,
-   "channels": 3,
-   "vph_sum": 186205,
+   "channels": 4,
+   "vph_sum": 183429,
    "top": {
     "id": "7VF65rqTRpE",
     "title": "Thoughts and prayers for the single people playing gta 6....",
-    "vph": 108320.0
+    "vph": 106954.3
+   }
+  },
+  {
+   "theme": "💥 Physik & Glitches",
+   "videos": 6,
+   "channels": 6,
+   "vph_sum": 161423,
+   "top": {
+    "id": "GY0kcmdkwU8",
+    "title": "GTA VI's Attention to Detail Is Absolutely INSANE! 3",
+    "vph": 74534.5
    }
   }
  ],
@@ -63,65 +74,69 @@
   {
    "id": "cG-cf7ajXFE",
    "title": "gta gta6 shorts kpop",
-   "views": 27957021,
-   "likes": 172945,
+   "views": 29204849,
+   "likes": 187832,
    "comments": 36,
-   "hours": 13.4,
-   "vph": 2082428.0,
+   "hours": 16.2,
+   "vph": 1802532.6,
    "themes": []
   },
   {
    "id": "J9kL3lVfDjg",
    "title": "gta gta6 shorts kpop",
-   "views": 11132747,
-   "likes": 69648,
-   "comments": 17,
-   "hours": 14.4,
-   "vph": 771890.4,
+   "views": 12755007,
+   "likes": 83278,
+   "comments": 19,
+   "hours": 17.2,
+   "vph": 741586.6,
    "themes": []
   },
   {
    "id": "Vx9C_SXLJUE",
    "title": "一起舞动 gta gta6 shorts",
-   "views": 9066013,
-   "likes": 28740,
+   "views": 9278167,
+   "likes": 29656,
    "comments": 5,
-   "hours": 13.4,
-   "vph": 675507.6,
+   "hours": 16.2,
+   "vph": 572798.7,
    "themes": []
   },
   {
    "id": "TTkoN9Ulbfk",
    "title": "¡CUANDO JUEGAS GTA 6! minecraft shorts minecraftshorts",
-   "views": 2400581,
-   "likes": 113143,
-   "comments": 2244,
-   "hours": 5.9,
-   "vph": 407881.8,
+   "views": 3542348,
+   "likes": 136938,
+   "comments": 2572,
+   "hours": 8.7,
+   "vph": 408933.9,
    "themes": []
   },
   {
-   "id": "xzcLiBWKzXI",
-   "title": "gta gta6 shorts kpop",
-   "views": 4120251,
-   "likes": 18505,
-   "comments": 12,
-   "hours": 11.9,
-   "vph": 345548.0,
+   "id": "j-px4QBZ-0o",
+   "title": "si el personaje come demasiado en gta6",
+   "views": 2923242,
+   "likes": 103992,
+   "comments": 497,
+   "hours": 9.9,
+   "vph": 295620.1,
    "themes": []
   }
  ],
  "woerter": [
   [
-   "playing",
-   5
-  ],
-  [
    "gtavi",
-   5
+   7
   ],
   [
    "gaming",
+   6
+  ],
+  [
+   "comedy",
+   6
+  ],
+  [
+   "cuando",
    5
   ],
   [
@@ -129,11 +144,7 @@
    4
   ],
   [
-   "cuando",
-   4
-  ],
-  [
-   "comedy",
+   "games",
    4
   ],
   [
@@ -145,11 +156,11 @@
    3
   ],
   [
-   "finally",
+   "playing",
    3
   ],
   [
-   "family",
+   "comedia",
    3
   ]
  ],
@@ -157,101 +168,101 @@
   {
    "id": "cG-cf7ajXFE",
    "title": "gta gta6 shorts kpop",
-   "views": 27957021,
-   "likes": 172945,
+   "views": 29204849,
+   "likes": 187832,
    "comments": 36,
-   "hours": 13.4,
-   "vph": 2082428.0,
+   "hours": 16.2,
+   "vph": 1802532.6,
    "themes": []
   },
   {
    "id": "J9kL3lVfDjg",
    "title": "gta gta6 shorts kpop",
-   "views": 11132747,
-   "likes": 69648,
-   "comments": 17,
-   "hours": 14.4,
-   "vph": 771890.4,
+   "views": 12755007,
+   "likes": 83278,
+   "comments": 19,
+   "hours": 17.2,
+   "vph": 741586.6,
    "themes": []
   },
   {
    "id": "Vx9C_SXLJUE",
    "title": "一起舞动 gta gta6 shorts",
-   "views": 9066013,
-   "likes": 28740,
+   "views": 9278167,
+   "likes": 29656,
    "comments": 5,
-   "hours": 13.4,
-   "vph": 675507.6,
+   "hours": 16.2,
+   "vph": 572798.7,
    "themes": []
   },
   {
    "id": "TTkoN9Ulbfk",
    "title": "¡CUANDO JUEGAS GTA 6! minecraft shorts minecraftshorts",
-   "views": 2400581,
-   "likes": 113143,
-   "comments": 2244,
-   "hours": 5.9,
-   "vph": 407881.8,
+   "views": 3542348,
+   "likes": 136938,
+   "comments": 2572,
+   "hours": 8.7,
+   "vph": 408933.9,
+   "themes": []
+  },
+  {
+   "id": "j-px4QBZ-0o",
+   "title": "si el personaje come demasiado en gta6",
+   "views": 2923242,
+   "likes": 103992,
+   "comments": 497,
+   "hours": 9.9,
+   "vph": 295620.1,
    "themes": []
   },
   {
    "id": "xzcLiBWKzXI",
    "title": "gta gta6 shorts kpop",
-   "views": 4120251,
-   "likes": 18505,
+   "views": 4204839,
+   "likes": 18790,
    "comments": 12,
-   "hours": 11.9,
-   "vph": 345548.0,
-   "themes": []
-  },
-  {
-   "id": "Yt4YuOycyls",
-   "title": "gta gta6 shorts kpop",
-   "views": 2504591,
-   "likes": 16405,
-   "comments": 7,
-   "hours": 10.9,
-   "vph": 229353.9,
+   "hours": 14.7,
+   "vph": 286029.3,
    "themes": []
   },
   {
    "id": "RZfcTlr8Xr4",
    "title": "Cuando tu madre juega al GTA VI 😂",
-   "views": 2258230,
-   "likes": 45827,
-   "comments": 144,
-   "hours": 10.4,
-   "vph": 216601.0,
+   "views": 3322450,
+   "likes": 55513,
+   "comments": 178,
+   "hours": 13.2,
+   "vph": 251649.8,
    "themes": []
   },
   {
-   "id": "XPRCe6penjU",
-   "title": "Bakar Mobil Si donnie Di GTA 6 shorts gta6",
-   "views": 4432456,
-   "likes": 18270,
-   "comments": 26,
-   "hours": 20.7,
-   "vph": 214134.8,
-   "themes": []
-  },
-  {
-   "id": "8K1rsN2bNyg",
-   "title": "总算是成功解救露西亚 gta gta6 shorts",
-   "views": 2833473,
-   "likes": 18684,
-   "comments": 13,
-   "hours": 15.4,
-   "vph": 183704.4,
+   "id": "1mkoWN7Hamg",
+   "title": "Tree climbing in GTA 6",
+   "views": 4841613,
+   "likes": 83271,
+   "comments": 1136,
+   "hours": 19.5,
+   "vph": 248636.3,
    "themes": []
   },
   {
    "id": "FN-3R4bpfEw",
    "title": "GTA VI: O FINAL DIA 5 🔴 ESTAMOS COM 96% DO JOGO CORINGA AO VIVO",
-   "views": 684093,
-   "likes": 35762,
+   "views": 1582366,
+   "likes": 54098,
    "comments": 0,
-   "hours": 4.0,
-   "vph": 171419.2,
+   "hours": 6.8,
+   "vph": 233812.4,
+   "themes": []
+  },
+  {
+   "id": "XPRCe6penjU",
+   "title": "Bakar Mobil Si donnie Di GTA 6 shorts gta6",
+   "views": 4799630,
+   "likes": 20190,
+   "comments": 29,
+   "hours": 23.5,
+   "vph": 204445.9,
    "themes": []
   }
  ],
