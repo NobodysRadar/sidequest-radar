@@ -1,43 +1,44 @@
-# 🎮 Sidequest-Radar – Stand 25.11.2026, 08:37 Uhr
+# 🎮 Sidequest-Radar – Stand 25.11.2026, 11:22 Uhr
 
-Gesichtet: **152 GTA-6-Shorts** der letzten 24 Std. · Median 25.124 Aufrufe/Std. · Quelle: YouTube. Gespeichert werden nur Zahlen, gekürzte Titel und Video-IDs.
+Gesichtet: **152 GTA-6-Shorts** der letzten 24 Std. · Median 21.845 Aufrufe/Std. · Quelle: YouTube. Gespeichert werden nur Zahlen, gekürzte Titel und Video-IDs.
 
 ## ✅ Bestätigte Trends (mind. 3 Videos von 3 Kanälen)
 
 | Rang | Thema | Videos | Kanäle | Aufrufe/Std. gesamt | Spitzen-Video (Aufrufe/Std.) | Video-ID |
 |---|---|---|---|---|---|---|
-| 1 | 🌴 Vice City & Leonida | 8 | 7 | 1.153.290 | Gangnam style Trend VICE CITY GTA 6 GAMEPLAY shorts viral (444.165) | `JPb-J63VnEc` |
-| 2 | 🧑 Jason & Lucia | 7 | 7 | 312.665 | NUNCA MOLESTES A LUCIA EN GTA 6! (117.130) | `nPZryV_HW1k` |
-| 3 | 🚗 Autos & Crashs | 11 | 10 | 183.903 | How to Permanently BUFF All Stats in GTA 6! (43.626) | `hP75ltm7pNg` |
-| 4 | 🗺️ Orte & Geheimnisse | 3 | 3 | 150.019 | This GTA 6 Portal Takes You Back to Vice City 2002 (76.446) | `8EbwurmrhwY` |
-| 5 | 🚤 Boote & Wasser | 3 | 3 | 91.093 | Get Stranded at Sea in GTA 6 and a Dog on a Jet Ski Saves You 💀 gta6 … (43.914) | `5AlfaKtYEDo` |
-| 6 | 📱 Handy & Social Media | 4 | 4 | 55.371 | ¿EL MEME DE OLA OLA PASA PASA ESTÁ EN GTA VI? 💀 (32.464) | `fMXwSd0QlXo` |
+| 1 | 🌴 Vice City & Leonida | 9 | 8 | 867.058 | Gangnam style Trend VICE CITY GTA 6 GAMEPLAY shorts viral (636.447) | `JPb-J63VnEc` |
+| 2 | 🧑 Jason & Lucia | 12 | 12 | 378.904 | NUNCA MOLESTES A LUCIA EN GTA 6! (103.956) | `nPZryV_HW1k` |
+| 3 | 🚗 Autos & Crashs | 14 | 13 | 203.562 | How to Permanently BUFF All Stats in GTA 6! (41.855) | `hP75ltm7pNg` |
+| 4 | 🗺️ Orte & Geheimnisse | 7 | 7 | 176.416 | This GTA 6 Portal Takes You Back to Vice City 2002 (94.708) | `8EbwurmrhwY` |
+| 5 | 💥 Physik & Glitches | 8 | 8 | 60.474 | Evolution of Physics: GTA 6 VS GTA 4 VS GTA 5 (29.636) | `EV6Z6aEHdWM` |
+| 6 | 📱 Handy & Social Media | 4 | 4 | 54.462 | ¿EL MEME DE OLA OLA PASA PASA ESTÁ EN GTA VI? 💀 (27.627) | `fMXwSd0QlXo` |
+| 7 | 🧍 NPC-Reaktionen | 4 | 4 | 28.378 | GTA 6 NPCs GOT IT😭 (9.983) | `TRk8TS8ezvg` |
 
 ## 🔎 Gerüchte – unbestätigt, auf eigene Gefahr
 
 | Titel (gekürzt) | Aufrufe/Std. | Alter (Std.) | Video-ID |
 |---|---|---|---|
-| 选择喜欢的东西 gta gta6 shorts | 515.113 | 20.6 | `lQNnYNB7wl4` |
-| 寻找自己的门 gta gta6 shorts kpop | 318.516 | 20.6 | `4N_8WzfVD8Y` |
-| What Happens When I Try GTA 6 Lipstick?🤯🌴💄 | 259.673 | 22.2 | `LI-iJgAqbkw` |
-| 鲁米的恐怖之旅 gta gta6 shorts kpop | 228.749 | 17.6 | `hNaoD-ljXgU` |
-| gta gta6 shorts | 227.255 | 11.6 | `YdQtn2q-vzk` |
+| 选择喜欢的东西 gta gta6 shorts | 556.860 | 23.4 | `lQNnYNB7wl4` |
+| 寻找自己的门 gta gta6 shorts kpop | 299.862 | 23.4 | `4N_8WzfVD8Y` |
+| gta gta6 shorts | 261.195 | 14.4 | `YdQtn2q-vzk` |
+| 什么在叫 gta gta6 shorts | 259.745 | 23.4 | `Lu2rCLq89G8` |
+| 鲁米的恐怖之旅 gta gta6 shorts kpop | 225.586 | 20.4 | `hNaoD-ljXgU` |
 
 ## 🆕 Auffällige Wörter (mind. 3 Kanäle, noch keinem Thema zugeordnet)
 
-gtavi (8) · viral (6) · vice (5) · city (5) · games (5) · gangnam (4) · gaming (4) · comedy (4) · comedia (3) · meme (3)
+gtavi (8) · gaming (7) · viral (6) · part (6) · city (5) · vice (5) · games (4) · gangnam (3) · comedia (3) · animation (3)
 
 ## 🏆 Top 10 nach Aufrufen pro Stunde
 
 | # | Titel (gekürzt) | Aufrufe | Alter (Std.) | Aufrufe/Std. | Video-ID |
 |---|---|---|---|---|---|
-| 1 | 选择喜欢的东西 gta gta6 shorts | 10.617.978 | 20.6 | 515.113 | `lQNnYNB7wl4` |
-| 2 | Gangnam style Trend VICE CITY GTA 6 GAMEPLAY shorts viral | 8.713.346 | 19.6 | 444.165 | `JPb-J63VnEc` |
-| 3 | Gangnam style Trend VICE CITY GTA 6 GAMEPLAY shorts viral | 7.483.698 | 22.6 | 330.875 | `eyWAfwCwVLI` |
-| 4 | 寻找自己的门 gta gta6 shorts kpop | 6.566.680 | 20.6 | 318.516 | `4N_8WzfVD8Y` |
-| 5 | What Happens When I Try GTA 6 Lipstick?🤯🌴💄 | 5.771.980 | 22.2 | 259.673 | `LI-iJgAqbkw` |
-| 6 | Gangnam styleTrend VICE CITY GTA 6 GAMEPLAY shorts viral | 4.953.487 | 21.6 | 229.209 | `Mbs-k7mA7Xk` |
-| 7 | 鲁米的恐怖之旅 gta gta6 shorts kpop | 4.029.827 | 17.6 | 228.749 | `hNaoD-ljXgU` |
-| 8 | gta gta6 shorts | 2.640.098 | 11.6 | 227.255 | `YdQtn2q-vzk` |
-| 9 | GTA V vs GTA 6... PT. 2 | 2.159.983 | 12.6 | 171.169 | `wI-3hGr1QHA` |
-| 10 | 什么在叫 gta gta6 shorts | 2.576.256 | 20.6 | 124.993 | `Lu2rCLq89G8` |
+| 1 | Gangnam style Trend VICE CITY GTA 6 GAMEPLAY shorts viral | 14.234.176 | 22.4 | 636.447 | `JPb-J63VnEc` |
+| 2 | 选择喜欢的东西 gta gta6 shorts | 13.008.599 | 23.4 | 556.860 | `lQNnYNB7wl4` |
+| 3 | 寻找自己的门 gta gta6 shorts kpop | 7.006.031 | 23.4 | 299.862 | `4N_8WzfVD8Y` |
+| 4 | gta gta6 shorts | 3.752.085 | 14.4 | 261.195 | `YdQtn2q-vzk` |
+| 5 | 什么在叫 gta gta6 shorts | 6.067.376 | 23.4 | 259.745 | `Lu2rCLq89G8` |
+| 6 | 鲁米的恐怖之旅 gta gta6 shorts kpop | 4.593.957 | 20.4 | 225.586 | `hNaoD-ljXgU` |
+| 7 | Togi plays GTA6 🎮 togi | 1.915.691 | 13.8 | 138.402 | `wPgZXwW_dhI` |
+| 8 | gta gta6 shorts | 2.572.050 | 22.4 | 115.019 | `4smNEN2wNSs` |
+| 9 | 🔴 LIVE! - BEATING GTA 6 RIGHT NOW! (PS5 PRO) | 1.115.404 | 9.7 | 114.504 | `6r62rTzESks` |
+| 10 | Why PlayStation WON’T Refund GTA 6 ❌ | 1.715.681 | 16.4 | 104.703 | `CKMpFGnL7PE` |
