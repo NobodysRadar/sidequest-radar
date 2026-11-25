@@ -1,295 +1,299 @@
 {
- "stand_utc": "2026-11-25T19:06:17Z",
+ "stand_utc": "2026-11-25T22:07:55Z",
  "gesichtet": 149,
- "median_vph": 24234.0,
+ "median_vph": 23646.2,
  "trends": [
   {
    "theme": "🌴 Vice City & Leonida",
-   "videos": 5,
-   "channels": 5,
-   "vph_sum": 342470,
+   "videos": 10,
+   "channels": 9,
+   "vph_sum": 473155,
    "top": {
     "id": "OXZ0JI_doSI",
     "title": "Gangnam style Trend VICE CITY GTA 6 GAMEPLAY shorts viral",
-    "vph": 251415.8
-   }
-  },
-  {
-   "theme": "🧍 NPC-Reaktionen",
-   "videos": 8,
-   "channels": 8,
-   "vph_sum": 249682,
-   "top": {
-    "id": "B0759p1B6HA",
-    "title": "GTA VI...... 8",
-    "vph": 106034.4
-   }
-  },
-  {
-   "theme": "🧑 Jason & Lucia",
-   "videos": 9,
-   "channels": 9,
-   "vph_sum": 248447,
-   "top": {
-    "id": "nPZryV_HW1k",
-    "title": "NUNCA MOLESTES A LUCIA EN GTA 6!",
-    "vph": 93172.3
-   }
-  },
-  {
-   "theme": "🚗 Autos & Crashs",
-   "videos": 11,
-   "channels": 11,
-   "vph_sum": 216337,
-   "top": {
-    "id": "fLFPFcOKVEg",
-    "title": "САМЫЕ БЫСТРЫЕ $40 000 В GTA 6🤯 shorts",
-    "vph": 49022.0
+    "vph": 212896.7
    }
   },
   {
    "theme": "🗺️ Orte & Geheimnisse",
    "videos": 9,
-   "channels": 9,
-   "vph_sum": 211880,
+   "channels": 8,
+   "vph_sum": 465658,
+   "top": {
+    "id": "qn0LRedbWG0",
+    "title": "NickEh30 plays GTA 6! (Day 8)",
+    "vph": 215938.3
+   }
+  },
+  {
+   "theme": "🧑 Jason & Lucia",
+   "videos": 14,
+   "channels": 14,
+   "vph_sum": 456940,
+   "top": {
+    "id": "nPZryV_HW1k",
+    "title": "NUNCA MOLESTES A LUCIA EN GTA 6!",
+    "vph": 111428.2
+   }
+  },
+  {
+   "theme": "🚗 Autos & Crashs",
+   "videos": 14,
+   "channels": 13,
+   "vph_sum": 304790,
    "top": {
     "id": "fLFPFcOKVEg",
     "title": "САМЫЕ БЫСТРЫЕ $40 000 В GTA 6🤯 shorts",
-    "vph": 49022.0
-   }
-  },
-  {
-   "theme": "💥 Physik & Glitches",
-   "videos": 7,
-   "channels": 7,
-   "vph_sum": 194631,
-   "top": {
-    "id": "EV6Z6aEHdWM",
-    "title": "Evolution of Physics: GTA 6 VS GTA 4 VS GTA 5",
-    "vph": 97046.7
-   }
-  },
-  {
-   "theme": "📱 Handy & Social Media",
-   "videos": 5,
-   "channels": 5,
-   "vph_sum": 143455,
-   "top": {
-    "id": "B0759p1B6HA",
-    "title": "GTA VI...... 8",
-    "vph": 106034.4
+    "vph": 56201.5
    }
   },
   {
    "theme": "🎱 Aktivitäten & Alltag",
    "videos": 3,
    "channels": 3,
-   "vph_sum": 40750,
+   "vph_sum": 276035,
    "top": {
-    "id": "RqoxdIh-Low",
-    "title": "THE FINAL DAY in GTA 6 VICE CITY Jokerkihaveli",
-    "vph": 19916.2
+    "id": "qn0LRedbWG0",
+    "title": "NickEh30 plays GTA 6! (Day 8)",
+    "vph": 215938.3
+   }
+  },
+  {
+   "theme": "💥 Physik & Glitches",
+   "videos": 6,
+   "channels": 6,
+   "vph_sum": 160532,
+   "top": {
+    "id": "E_HDseY0tQ4",
+    "title": "This GTA 6 Glitch Breaks Lucia's Outfit shorts",
+    "vph": 51363.8
+   }
+  },
+  {
+   "theme": "📱 Handy & Social Media",
+   "videos": 5,
+   "channels": 5,
+   "vph_sum": 96296,
+   "top": {
+    "id": "fMXwSd0QlXo",
+    "title": "¿EL MEME DE OLA OLA PASA PASA ESTÁ EN GTA VI? 💀",
+    "vph": 29151.5
+   }
+  },
+  {
+   "theme": "🧍 NPC-Reaktionen",
+   "videos": 5,
+   "channels": 5,
+   "vph_sum": 58154,
+   "top": {
+    "id": "NIQlsQ9UcPE",
+    "title": "NPC GTA 6 INI UDAH TAU SEGALANYA!!",
+    "vph": 30149.4
    }
   }
  ],
  "geruechte": [
   {
-   "id": "wPgZXwW_dhI",
-   "title": "Togi plays GTA6 🎮 togi",
-   "views": 6705801,
-   "likes": 128077,
-   "comments": 519,
-   "hours": 22.6,
-   "vph": 297006.3,
-   "themes": []
-  },
-  {
-   "id": "YdQtn2q-vzk",
-   "title": "gta gta6 shorts",
-   "views": 5934923,
-   "likes": 19869,
-   "comments": 7,
-   "hours": 23.1,
-   "vph": 256905.5,
+   "id": "rlUImhfIOQg",
+   "title": "中线舞 gta gta6 shorts",
+   "views": 23292950,
+   "likes": 76674,
+   "comments": 27,
+   "hours": 15.1,
+   "vph": 1539868.4,
    "themes": []
   },
   {
    "id": "JLOVODlu2LM",
    "title": "Será la Canción de GTA 6 ?🚗🚨😱 gta6 gta",
-   "views": 991846,
-   "likes": 5239,
-   "comments": 12,
-   "hours": 3.9,
-   "vph": 255124.5,
+   "views": 1552539,
+   "likes": 6338,
+   "comments": 16,
+   "hours": 6.9,
+   "vph": 224520.2,
+   "themes": []
+  },
+  {
+   "id": "gKsWRFipinw",
+   "title": "When Your Own Dad Is In GTA 6 😱🎮",
+   "views": 1474548,
+   "likes": 21601,
+   "comments": 91,
+   "hours": 9.1,
+   "vph": 161551.5,
+   "themes": []
+  },
+  {
+   "id": "beA2qX2P2TY",
+   "title": "Can I Pet a Lion at the GTA 6 Zoo 😱",
+   "views": 2507605,
+   "likes": 98644,
+   "comments": 2183,
+   "hours": 15.6,
+   "vph": 160521.8,
    "themes": []
   },
   {
    "id": "twPK-RRlwM8",
    "title": "哒哒哒 gta gta6 shorts",
-   "views": 1145903,
-   "likes": 4633,
+   "views": 1278579,
+   "likes": 4740,
    "comments": 5,
-   "hours": 6.6,
-   "vph": 173580.0,
-   "themes": []
-  },
-  {
-   "id": "Zoaw8GKF9Q8",
-   "title": "GTA 6 Online better come out fast",
-   "views": 3744618,
-   "likes": 58158,
-   "comments": 1093,
-   "hours": 23.8,
-   "vph": 157352.1,
+   "hours": 9.6,
+   "vph": 132786.9,
    "themes": []
   }
  ],
  "woerter": [
   [
-   "gtavi",
-   8
-  ],
-  [
    "viral",
-   6
+   10
   ],
   [
-   "final",
+   "style",
+   5
+  ],
+  [
+   "vice",
+   5
+  ],
+  [
+   "city",
+   5
+  ],
+  [
+   "gtavi",
+   5
+  ],
+  [
+   "gangnam",
    4
   ],
   [
-   "gaming",
+   "trend",
    4
   ],
   [
-   "meme",
+   "moments",
    4
-  ],
-  [
-   "comedia",
-   3
-  ],
-  [
-   "gtaonline",
-   3
   ],
   [
    "trending",
-   3
+   4
   ],
   [
-   "playing",
-   3
-  ],
-  [
-   "games",
+   "final",
    3
   ]
  ],
  "top10": [
   {
-   "id": "wPgZXwW_dhI",
-   "title": "Togi plays GTA6 🎮 togi",
-   "views": 6705801,
-   "likes": 128077,
-   "comments": 519,
-   "hours": 22.6,
-   "vph": 297006.3,
-   "themes": []
-  },
-  {
-   "id": "YdQtn2q-vzk",
-   "title": "gta gta6 shorts",
-   "views": 5934923,
-   "likes": 19869,
-   "comments": 7,
-   "hours": 23.1,
-   "vph": 256905.5,
+   "id": "rlUImhfIOQg",
+   "title": "中线舞 gta gta6 shorts",
+   "views": 23292950,
+   "likes": 76674,
+   "comments": 27,
+   "hours": 15.1,
+   "vph": 1539868.4,
    "themes": []
   },
   {
    "id": "JLOVODlu2LM",
    "title": "Será la Canción de GTA 6 ?🚗🚨😱 gta6 gta",
-   "views": 991846,
-   "likes": 5239,
-   "comments": 12,
-   "hours": 3.9,
-   "vph": 255124.5,
+   "views": 1552539,
+   "likes": 6338,
+   "comments": 16,
+   "hours": 6.9,
+   "vph": 224520.2,
    "themes": []
+  },
+  {
+   "id": "qn0LRedbWG0",
+   "title": "NickEh30 plays GTA 6! (Day 8)",
+   "views": 1559237,
+   "likes": 3617,
+   "comments": 0,
+   "hours": 7.2,
+   "vph": 215938.3,
+   "themes": [
+    "🗺️ Orte & Geheimnisse",
+    "🎱 Aktivitäten & Alltag"
+   ]
   },
   {
    "id": "OXZ0JI_doSI",
    "title": "Gangnam style Trend VICE CITY GTA 6 GAMEPLAY shorts viral",
-   "views": 2789437,
+   "views": 3006557,
    "likes": 0,
    "comments": 2,
-   "hours": 11.1,
-   "vph": 251415.8,
+   "hours": 14.1,
+   "vph": 212896.7,
    "themes": [
     "🌴 Vice City & Leonida"
    ]
   },
   {
+   "id": "gKsWRFipinw",
+   "title": "When Your Own Dad Is In GTA 6 😱🎮",
+   "views": 1474548,
+   "likes": 21601,
+   "comments": 91,
+   "hours": 9.1,
+   "vph": 161551.5,
+   "themes": []
+  },
+  {
+   "id": "beA2qX2P2TY",
+   "title": "Can I Pet a Lion at the GTA 6 Zoo 😱",
+   "views": 2507605,
+   "likes": 98644,
+   "comments": 2183,
+   "hours": 15.6,
+   "vph": 160521.8,
+   "themes": []
+  },
+  {
    "id": "twPK-RRlwM8",
    "title": "哒哒哒 gta gta6 shorts",
-   "views": 1145903,
-   "likes": 4633,
+   "views": 1278579,
+   "likes": 4740,
    "comments": 5,
-   "hours": 6.6,
-   "vph": 173580.0,
+   "hours": 9.6,
+   "vph": 132786.9,
    "themes": []
   },
   {
-   "id": "Zoaw8GKF9Q8",
-   "title": "GTA 6 Online better come out fast",
-   "views": 3744618,
-   "likes": 58158,
-   "comments": 1093,
-   "hours": 23.8,
-   "vph": 157352.1,
-   "themes": []
-  },
-  {
-   "id": "Uijn4YUljbU",
-   "title": "露西亚好想逃 gta gta6 shorts",
-   "views": 750450,
-   "likes": 6928,
-   "comments": 3,
-   "hours": 5.6,
-   "vph": 133957.8,
-   "themes": []
-  },
-  {
-   "id": "oBwWhoxb2JQ",
-   "title": "中线舞蹈 gta gta6 shorts",
-   "views": 592908,
-   "likes": 2280,
-   "comments": 3,
-   "hours": 5.1,
-   "vph": 116239.4,
-   "themes": []
-  },
-  {
-   "id": "iHWAFWl1hac",
-   "title": "寻找属于自己的门 gta gta6 shorts kpop",
-   "views": 994371,
-   "likes": 4334,
-   "comments": 3,
-   "hours": 9.1,
-   "vph": 109329.3,
-   "themes": []
-  },
-  {
-   "id": "B0759p1B6HA",
-   "title": "GTA VI...... 8",
-   "views": 401950,
-   "likes": 4561,
-   "comments": 0,
-   "hours": 3.8,
-   "vph": 106034.4,
+   "id": "nPZryV_HW1k",
+   "title": "NUNCA MOLESTES A LUCIA EN GTA 6!",
+   "views": 2642324,
+   "likes": 88425,
+   "comments": 233,
+   "hours": 23.7,
+   "vph": 111428.2,
    "themes": [
-    "🧍 NPC-Reaktionen",
-    "📱 Handy & Social Media"
+    "🧑 Jason & Lucia"
+   ]
+  },
+  {
+   "id": "koI3FSCeNqU",
+   "title": "CaseOh is a menace in GTA 6 😭✌",
+   "views": 1180974,
+   "likes": 35480,
+   "comments": 215,
+   "hours": 11.1,
+   "vph": 106182.3,
+   "themes": []
+  },
+  {
+   "id": "9usTMpvFb0k",
+   "title": "si quebramos el ala force del jet en gta6",
+   "views": 2290877,
+   "likes": 63229,
+   "comments": 347,
+   "hours": 22.4,
+   "vph": 102134.9,
+   "themes": [
+    "✈️ Kampfjets & Militär"
    ]
   }
  ],
