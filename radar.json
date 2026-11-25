@@ -1,146 +1,124 @@
 {
- "stand_utc": "2026-11-25T04:20:54Z",
- "gesichtet": 148,
- "median_vph": 22715.15,
+ "stand_utc": "2026-11-25T07:37:14Z",
+ "gesichtet": 152,
+ "median_vph": 25124.4,
  "trends": [
   {
    "theme": "🌴 Vice City & Leonida",
-   "videos": 12,
-   "channels": 11,
-   "vph_sum": 1144702,
+   "videos": 8,
+   "channels": 7,
+   "vph_sum": 1153290,
    "top": {
-    "id": "eyWAfwCwVLI",
+    "id": "JPb-J63VnEc",
     "title": "Gangnam style Trend VICE CITY GTA 6 GAMEPLAY shorts viral",
-    "vph": 357355.3
+    "vph": 444165.3
    }
   },
   {
    "theme": "🧑 Jason & Lucia",
-   "videos": 10,
-   "channels": 10,
-   "vph_sum": 598522,
+   "videos": 7,
+   "channels": 7,
+   "vph_sum": 312665,
    "top": {
-    "id": "EJ-xEtOBGEQ",
-    "title": "GTA VI New Kiss or Save Run Spider-man vs Jason Duval Funny Epic Chal…",
-    "vph": 312079.8
+    "id": "nPZryV_HW1k",
+    "title": "NUNCA MOLESTES A LUCIA EN GTA 6!",
+    "vph": 117130.5
    }
   },
   {
    "theme": "🚗 Autos & Crashs",
-   "videos": 12,
+   "videos": 11,
    "channels": 10,
-   "vph_sum": 170919,
+   "vph_sum": 183903,
    "top": {
     "id": "hP75ltm7pNg",
     "title": "How to Permanently BUFF All Stats in GTA 6!",
-    "vph": 45939.2
+    "vph": 43626.5
    }
   },
   {
    "theme": "🗺️ Orte & Geheimnisse",
-   "videos": 7,
-   "channels": 6,
-   "vph_sum": 115686,
+   "videos": 3,
+   "channels": 3,
+   "vph_sum": 150019,
    "top": {
-    "id": "hP75ltm7pNg",
-    "title": "How to Permanently BUFF All Stats in GTA 6!",
-    "vph": 45939.2
+    "id": "8EbwurmrhwY",
+    "title": "This GTA 6 Portal Takes You Back to Vice City 2002",
+    "vph": 76445.8
    }
   },
   {
-   "theme": "✈️ Kampfjets & Militär",
+   "theme": "🚤 Boote & Wasser",
    "videos": 3,
    "channels": 3,
-   "vph_sum": 62083,
+   "vph_sum": 91093,
    "top": {
     "id": "5AlfaKtYEDo",
     "title": "Get Stranded at Sea in GTA 6 and a Dog on a Jet Ski Saves You 💀 gta6 …",
-    "vph": 40948.5
+    "vph": 43914.0
    }
   },
   {
-   "theme": "🧍 NPC-Reaktionen",
-   "videos": 5,
-   "channels": 5,
-   "vph_sum": 61649,
+   "theme": "📱 Handy & Social Media",
+   "videos": 4,
+   "channels": 4,
+   "vph_sum": 55371,
    "top": {
-    "id": "I1GgjStT98o",
-    "title": "Eksperimen Ikutin NPC Membawa Harimau di GTA 6 shorts",
-    "vph": 36387.3
-   }
-  },
-  {
-   "theme": "💥 Physik & Glitches",
-   "videos": 3,
-   "channels": 3,
-   "vph_sum": 28084,
-   "top": {
-    "id": "y_O-viU6-Qc",
-    "title": "GTA 6 FAILS AND FUNNY MOMENTS gta gta6 funnyvideo games",
-    "vph": 17272.9
-   }
-  },
-  {
-   "theme": "🚓 Polizei & Verfolgung",
-   "videos": 3,
-   "channels": 3,
-   "vph_sum": 23813,
-   "top": {
-    "id": "fB6E1z9tbbg",
-    "title": "RDR2 Is STILL Better Than GTA 6?! Part-2",
-    "vph": 19842.4
+    "id": "fMXwSd0QlXo",
+    "title": "¿EL MEME DE OLA OLA PASA PASA ESTÁ EN GTA VI? 💀",
+    "vph": 32464.3
    }
   }
  ],
  "geruechte": [
   {
-   "id": "GghFo7ae-LE",
-   "title": "PS5 मेरे लिए आया था, खेलने मम्मी लगी 😂 funny gta6 golu008 youtubeshor…",
-   "views": 19343149,
-   "likes": 205181,
-   "comments": 141,
-   "hours": 23.7,
-   "vph": 816297.3,
-   "themes": []
-  },
-  {
    "id": "lQNnYNB7wl4",
    "title": "选择喜欢的东西 gta gta6 shorts",
-   "views": 8636742,
-   "likes": 71864,
-   "comments": 21,
-   "hours": 17.3,
-   "vph": 498063.3,
+   "views": 10617978,
+   "likes": 86399,
+   "comments": 24,
+   "hours": 20.6,
+   "vph": 515113.1,
    "themes": []
   },
   {
    "id": "4N_8WzfVD8Y",
    "title": "寻找自己的门 gta gta6 shorts kpop",
-   "views": 6272926,
-   "likes": 29900,
-   "comments": 7,
-   "hours": 17.3,
-   "vph": 361671.6,
-   "themes": []
-  },
-  {
-   "id": "PsgeDZfe4j0",
-   "title": "That One GTA 6 Paglu Friend🎮🤣 gta6 relatable comedy trending shorts",
-   "views": 7409363,
-   "likes": 74944,
-   "comments": 176,
-   "hours": 22.7,
-   "vph": 326342.4,
+   "views": 6566680,
+   "likes": 31579,
+   "comments": 8,
+   "hours": 20.6,
+   "vph": 318515.5,
    "themes": []
   },
   {
    "id": "LI-iJgAqbkw",
    "title": "What Happens When I Try GTA 6 Lipstick?🤯🌴💄",
-   "views": 5343015,
-   "likes": 18459,
-   "comments": 44,
-   "hours": 19.0,
-   "vph": 281869.3,
+   "views": 5771980,
+   "likes": 19495,
+   "comments": 49,
+   "hours": 22.2,
+   "vph": 259672.7,
+   "themes": []
+  },
+  {
+   "id": "hNaoD-ljXgU",
+   "title": "鲁米的恐怖之旅 gta gta6 shorts kpop",
+   "views": 4029827,
+   "likes": 25380,
+   "comments": 8,
+   "hours": 17.6,
+   "vph": 228749.2,
+   "themes": []
+  },
+  {
+   "id": "YdQtn2q-vzk",
+   "title": "gta gta6 shorts",
+   "views": 2640098,
+   "likes": 11120,
+   "comments": 5,
+   "hours": 11.6,
+   "vph": 227254.7,
    "themes": []
   }
  ],
@@ -150,149 +128,147 @@
    8
   ],
   [
-   "comedy",
-   7
+   "viral",
+   6
   ],
   [
    "vice",
-   7
-  ],
-  [
-   "viral",
-   7
+   5
   ],
   [
    "city",
-   7
-  ],
-  [
-   "gangnam",
-   6
+   5
   ],
   [
    "games",
    5
   ],
   [
-   "style",
-   4
-  ],
-  [
-   "trend",
+   "gangnam",
    4
   ],
   [
    "gaming",
    4
+  ],
+  [
+   "comedy",
+   4
+  ],
+  [
+   "comedia",
+   3
+  ],
+  [
+   "meme",
+   3
   ]
  ],
  "top10": [
   {
-   "id": "GghFo7ae-LE",
-   "title": "PS5 मेरे लिए आया था, खेलने मम्मी लगी 😂 funny gta6 golu008 youtubeshor…",
-   "views": 19343149,
-   "likes": 205181,
-   "comments": 141,
-   "hours": 23.7,
-   "vph": 816297.3,
-   "themes": []
-  },
-  {
    "id": "lQNnYNB7wl4",
    "title": "选择喜欢的东西 gta gta6 shorts",
-   "views": 8636742,
-   "likes": 71864,
-   "comments": 21,
-   "hours": 17.3,
-   "vph": 498063.3,
-   "themes": []
-  },
-  {
-   "id": "4N_8WzfVD8Y",
-   "title": "寻找自己的门 gta gta6 shorts kpop",
-   "views": 6272926,
-   "likes": 29900,
-   "comments": 7,
-   "hours": 17.3,
-   "vph": 361671.6,
-   "themes": []
-  },
-  {
-   "id": "eyWAfwCwVLI",
-   "title": "Gangnam style Trend VICE CITY GTA 6 GAMEPLAY shorts viral",
-   "views": 6913271,
-   "likes": 19791,
-   "comments": 21,
-   "hours": 19.3,
-   "vph": 357355.3,
-   "themes": [
-    "🌴 Vice City & Leonida"
-   ]
-  },
-  {
-   "id": "PsgeDZfe4j0",
-   "title": "That One GTA 6 Paglu Friend🎮🤣 gta6 relatable comedy trending shorts",
-   "views": 7409363,
-   "likes": 74944,
-   "comments": 176,
-   "hours": 22.7,
-   "vph": 326342.4,
+   "views": 10617978,
+   "likes": 86399,
+   "comments": 24,
+   "hours": 20.6,
+   "vph": 515113.1,
    "themes": []
   },
   {
    "id": "JPb-J63VnEc",
    "title": "Gangnam style Trend VICE CITY GTA 6 GAMEPLAY shorts viral",
-   "views": 5234481,
+   "views": 8713346,
    "likes": 0,
-   "comments": 16,
-   "hours": 16.3,
-   "vph": 320247.8,
+   "comments": 34,
+   "hours": 19.6,
+   "vph": 444165.3,
    "themes": [
     "🌴 Vice City & Leonida"
    ]
   },
   {
-   "id": "EJ-xEtOBGEQ",
-   "title": "GTA VI New Kiss or Save Run Spider-man vs Jason Duval Funny Epic Chal…",
-   "views": 7285967,
-   "likes": 50376,
-   "comments": 22,
-   "hours": 23.3,
-   "vph": 312079.8,
+   "id": "eyWAfwCwVLI",
+   "title": "Gangnam style Trend VICE CITY GTA 6 GAMEPLAY shorts viral",
+   "views": 7483698,
+   "likes": 21190,
+   "comments": 24,
+   "hours": 22.6,
+   "vph": 330874.9,
    "themes": [
-    "🧑 Jason & Lucia"
+    "🌴 Vice City & Leonida"
    ]
+  },
+  {
+   "id": "4N_8WzfVD8Y",
+   "title": "寻找自己的门 gta gta6 shorts kpop",
+   "views": 6566680,
+   "likes": 31579,
+   "comments": 8,
+   "hours": 20.6,
+   "vph": 318515.5,
+   "themes": []
   },
   {
    "id": "LI-iJgAqbkw",
    "title": "What Happens When I Try GTA 6 Lipstick?🤯🌴💄",
-   "views": 5343015,
-   "likes": 18459,
-   "comments": 44,
-   "hours": 19.0,
-   "vph": 281869.3,
+   "views": 5771980,
+   "likes": 19495,
+   "comments": 49,
+   "hours": 22.2,
+   "vph": 259672.7,
    "themes": []
   },
   {
    "id": "Mbs-k7mA7Xk",
    "title": "Gangnam styleTrend VICE CITY GTA 6 GAMEPLAY shorts viral",
-   "views": 4459633,
-   "likes": 14569,
+   "views": 4953487,
+   "likes": 16348,
    "comments": 8,
-   "hours": 18.3,
-   "vph": 243177.8,
+   "hours": 21.6,
+   "vph": 229208.8,
    "themes": [
     "🌴 Vice City & Leonida"
    ]
   },
   {
+   "id": "hNaoD-ljXgU",
+   "title": "鲁米的恐怖之旅 gta gta6 shorts kpop",
+   "views": 4029827,
+   "likes": 25380,
+   "comments": 8,
+   "hours": 17.6,
+   "vph": 228749.2,
+   "themes": []
+  },
+  {
+   "id": "YdQtn2q-vzk",
+   "title": "gta gta6 shorts",
+   "views": 2640098,
+   "likes": 11120,
+   "comments": 5,
+   "hours": 11.6,
+   "vph": 227254.7,
+   "themes": []
+  },
+  {
    "id": "wI-3hGr1QHA",
    "title": "GTA V vs GTA 6... PT. 2",
-   "views": 1745875,
-   "likes": 40132,
-   "comments": 171,
-   "hours": 9.3,
-   "vph": 186789.3,
+   "views": 2159983,
+   "likes": 50483,
+   "comments": 211,
+   "hours": 12.6,
+   "vph": 171168.9,
+   "themes": []
+  },
+  {
+   "id": "Lu2rCLq89G8",
+   "title": "什么在叫 gta gta6 shorts",
+   "views": 2576256,
+   "likes": 32215,
+   "comments": 14,
+   "hours": 20.6,
+   "vph": 124992.8,
    "themes": []
   }
  ],
