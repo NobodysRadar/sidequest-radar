@@ -1,135 +1,146 @@
 {
- "stand_utc": "2026-11-25T10:22:06Z",
- "gesichtet": 152,
- "median_vph": 21845.45,
+ "stand_utc": "2026-11-25T13:35:53Z",
+ "gesichtet": 157,
+ "median_vph": 18559.8,
  "trends": [
   {
-   "theme": "🌴 Vice City & Leonida",
-   "videos": 9,
-   "channels": 8,
-   "vph_sum": 867058,
-   "top": {
-    "id": "JPb-J63VnEc",
-    "title": "Gangnam style Trend VICE CITY GTA 6 GAMEPLAY shorts viral",
-    "vph": 636447.1
-   }
-  },
-  {
    "theme": "🧑 Jason & Lucia",
-   "videos": 12,
-   "channels": 12,
-   "vph_sum": 378904,
+   "videos": 11,
+   "channels": 11,
+   "vph_sum": 386164,
    "top": {
     "id": "nPZryV_HW1k",
     "title": "NUNCA MOLESTES A LUCIA EN GTA 6!",
-    "vph": 103956.3
+    "vph": 92900.7
    }
   },
   {
    "theme": "🚗 Autos & Crashs",
-   "videos": 14,
-   "channels": 13,
-   "vph_sum": 203562,
+   "videos": 16,
+   "channels": 16,
+   "vph_sum": 381227,
    "top": {
-    "id": "hP75ltm7pNg",
-    "title": "How to Permanently BUFF All Stats in GTA 6!",
-    "vph": 41854.8
+    "id": "-ZiJ0-ePdec",
+    "title": "GTA 6 LIVE 🔴GAMEPLAY ON PS5! 😎 Los Santos (Nov 25, 2026) ZRX LIVE",
+    "vph": 110848.6
    }
   },
   {
    "theme": "🗺️ Orte & Geheimnisse",
-   "videos": 7,
-   "channels": 7,
-   "vph_sum": 176416,
+   "videos": 11,
+   "channels": 11,
+   "vph_sum": 276136,
    "top": {
     "id": "8EbwurmrhwY",
     "title": "This GTA 6 Portal Takes You Back to Vice City 2002",
-    "vph": 94708.0
+    "vph": 105168.9
    }
   },
   {
-   "theme": "💥 Physik & Glitches",
-   "videos": 8,
-   "channels": 8,
-   "vph_sum": 60474,
+   "theme": "🌴 Vice City & Leonida",
+   "videos": 6,
+   "channels": 6,
+   "vph_sum": 207326,
    "top": {
-    "id": "EV6Z6aEHdWM",
-    "title": "Evolution of Physics: GTA 6 VS GTA 4 VS GTA 5",
-    "vph": 29636.4
+    "id": "8EbwurmrhwY",
+    "title": "This GTA 6 Portal Takes You Back to Vice City 2002",
+    "vph": 105168.9
    }
   },
   {
    "theme": "📱 Handy & Social Media",
-   "videos": 4,
-   "channels": 4,
-   "vph_sum": 54462,
+   "videos": 8,
+   "channels": 8,
+   "vph_sum": 169362,
    "top": {
-    "id": "fMXwSd0QlXo",
-    "title": "¿EL MEME DE OLA OLA PASA PASA ESTÁ EN GTA VI? 💀",
-    "vph": 27626.6
+    "id": "-ZiJ0-ePdec",
+    "title": "GTA 6 LIVE 🔴GAMEPLAY ON PS5! 😎 Los Santos (Nov 25, 2026) ZRX LIVE",
+    "vph": 110848.6
+   }
+  },
+  {
+   "theme": "💥 Physik & Glitches",
+   "videos": 10,
+   "channels": 10,
+   "vph_sum": 136262,
+   "top": {
+    "id": "EV6Z6aEHdWM",
+    "title": "Evolution of Physics: GTA 6 VS GTA 4 VS GTA 5",
+    "vph": 41478.9
    }
   },
   {
    "theme": "🧍 NPC-Reaktionen",
-   "videos": 4,
-   "channels": 4,
-   "vph_sum": 28378,
+   "videos": 8,
+   "channels": 8,
+   "vph_sum": 108472,
    "top": {
-    "id": "TRk8TS8ezvg",
-    "title": "GTA 6 NPCs GOT IT😭",
-    "vph": 9982.8
+    "id": "J40ocUQ88pA",
+    "title": "GTA 5 VS GTA 6 NPC’s😭",
+    "vph": 61588.2
+   }
+  },
+  {
+   "theme": "🚓 Polizei & Verfolgung",
+   "videos": 3,
+   "channels": 3,
+   "vph_sum": 40988,
+   "top": {
+    "id": "2GQdvm-STS8",
+    "title": "The PERFECT Heist Guide (No Cops, No Alarms) 🤯👀 GTA 6",
+    "vph": 28053.8
    }
   }
  ],
  "geruechte": [
   {
-   "id": "lQNnYNB7wl4",
-   "title": "选择喜欢的东西 gta gta6 shorts",
-   "views": 13008599,
-   "likes": 104786,
-   "comments": 28,
-   "hours": 23.4,
-   "vph": 556860.4,
-   "themes": []
-  },
-  {
-   "id": "4N_8WzfVD8Y",
-   "title": "寻找自己的门 gta gta6 shorts kpop",
-   "views": 7006031,
-   "likes": 33558,
-   "comments": 9,
-   "hours": 23.4,
-   "vph": 299861.5,
-   "themes": []
-  },
-  {
    "id": "YdQtn2q-vzk",
    "title": "gta gta6 shorts",
-   "views": 3752085,
-   "likes": 14217,
-   "comments": 6,
-   "hours": 14.4,
-   "vph": 261195.3,
-   "themes": []
-  },
-  {
-   "id": "Lu2rCLq89G8",
-   "title": "什么在叫 gta gta6 shorts",
-   "views": 6067376,
-   "likes": 55499,
-   "comments": 18,
-   "hours": 23.4,
-   "vph": 259745.3,
+   "views": 4699978,
+   "likes": 17205,
+   "comments": 7,
+   "hours": 17.6,
+   "vph": 267121.7,
    "themes": []
   },
   {
    "id": "hNaoD-ljXgU",
    "title": "鲁米的恐怖之旅 gta gta6 shorts kpop",
-   "views": 4593957,
-   "likes": 28238,
-   "comments": 9,
-   "hours": 20.4,
-   "vph": 225586.5,
+   "views": 5205121,
+   "likes": 31467,
+   "comments": 10,
+   "hours": 23.6,
+   "vph": 220608.9,
+   "themes": []
+  },
+  {
+   "id": "wPgZXwW_dhI",
+   "title": "Togi plays GTA6 🎮 togi",
+   "views": 2951082,
+   "likes": 57109,
+   "comments": 256,
+   "hours": 17.1,
+   "vph": 172868.2,
+   "themes": []
+  },
+  {
+   "id": "wI-3hGr1QHA",
+   "title": "GTA V vs GTA 6... PT. 2",
+   "views": 3043444,
+   "likes": 68863,
+   "comments": 292,
+   "hours": 18.6,
+   "vph": 163656.3,
+   "themes": []
+  },
+  {
+   "id": "iHWAFWl1hac",
+   "title": "寻找属于自己的门 gta gta6 shorts kpop",
+   "views": 551200,
+   "likes": 2930,
+   "comments": 3,
+   "hours": 3.6,
+   "vph": 153601.6,
    "themes": []
   }
  ],
@@ -140,30 +151,30 @@
   ],
   [
    "gaming",
-   7
+   6
   ],
   [
    "viral",
-   6
+   5
   ],
   [
    "part",
-   6
-  ],
-  [
-   "city",
-   5
-  ],
-  [
-   "vice",
-   5
-  ],
-  [
-   "games",
    4
   ],
   [
-   "gangnam",
+   "moments",
+   4
+  ],
+  [
+   "city",
+   3
+  ],
+  [
+   "vice",
+   3
+  ],
+  [
+   "roblox",
    3
   ],
   [
@@ -171,112 +182,120 @@
    3
   ],
   [
-   "animation",
+   "games",
    3
   ]
  ],
  "top10": [
   {
-   "id": "JPb-J63VnEc",
-   "title": "Gangnam style Trend VICE CITY GTA 6 GAMEPLAY shorts viral",
-   "views": 14234176,
-   "likes": 0,
-   "comments": 43,
-   "hours": 22.4,
-   "vph": 636447.1,
-   "themes": [
-    "🌴 Vice City & Leonida"
-   ]
-  },
-  {
-   "id": "lQNnYNB7wl4",
-   "title": "选择喜欢的东西 gta gta6 shorts",
-   "views": 13008599,
-   "likes": 104786,
-   "comments": 28,
-   "hours": 23.4,
-   "vph": 556860.4,
-   "themes": []
-  },
-  {
-   "id": "4N_8WzfVD8Y",
-   "title": "寻找自己的门 gta gta6 shorts kpop",
-   "views": 7006031,
-   "likes": 33558,
-   "comments": 9,
-   "hours": 23.4,
-   "vph": 299861.5,
-   "themes": []
-  },
-  {
    "id": "YdQtn2q-vzk",
    "title": "gta gta6 shorts",
-   "views": 3752085,
-   "likes": 14217,
-   "comments": 6,
-   "hours": 14.4,
-   "vph": 261195.3,
-   "themes": []
-  },
-  {
-   "id": "Lu2rCLq89G8",
-   "title": "什么在叫 gta gta6 shorts",
-   "views": 6067376,
-   "likes": 55499,
-   "comments": 18,
-   "hours": 23.4,
-   "vph": 259745.3,
+   "views": 4699978,
+   "likes": 17205,
+   "comments": 7,
+   "hours": 17.6,
+   "vph": 267121.7,
    "themes": []
   },
   {
    "id": "hNaoD-ljXgU",
    "title": "鲁米的恐怖之旅 gta gta6 shorts kpop",
-   "views": 4593957,
-   "likes": 28238,
-   "comments": 9,
-   "hours": 20.4,
-   "vph": 225586.5,
+   "views": 5205121,
+   "likes": 31467,
+   "comments": 10,
+   "hours": 23.6,
+   "vph": 220608.9,
    "themes": []
   },
   {
    "id": "wPgZXwW_dhI",
    "title": "Togi plays GTA6 🎮 togi",
-   "views": 1915691,
-   "likes": 30685,
-   "comments": 169,
-   "hours": 13.8,
-   "vph": 138402.5,
+   "views": 2951082,
+   "likes": 57109,
+   "comments": 256,
+   "hours": 17.1,
+   "vph": 172868.2,
    "themes": []
   },
   {
-   "id": "4smNEN2wNSs",
-   "title": "gta gta6 shorts",
-   "views": 2572050,
-   "likes": 20727,
-   "comments": 5,
-   "hours": 22.4,
-   "vph": 115018.8,
+   "id": "wI-3hGr1QHA",
+   "title": "GTA V vs GTA 6... PT. 2",
+   "views": 3043444,
+   "likes": 68863,
+   "comments": 292,
+   "hours": 18.6,
+   "vph": 163656.3,
    "themes": []
   },
   {
-   "id": "6r62rTzESks",
-   "title": "🔴 LIVE! - BEATING GTA 6 RIGHT NOW! (PS5 PRO)",
-   "views": 1115404,
-   "likes": 5539,
+   "id": "iHWAFWl1hac",
+   "title": "寻找属于自己的门 gta gta6 shorts kpop",
+   "views": 551200,
+   "likes": 2930,
+   "comments": 3,
+   "hours": 3.6,
+   "vph": 153601.6,
+   "themes": []
+  },
+  {
+   "id": "-ZiJ0-ePdec",
+   "title": "GTA 6 LIVE 🔴GAMEPLAY ON PS5! 😎 Los Santos (Nov 25, 2026) ZRX LIVE",
+   "views": 703969,
+   "likes": 269,
    "comments": 0,
-   "hours": 9.7,
-   "vph": 114504.1,
-   "themes": []
+   "hours": 6.4,
+   "vph": 110848.6,
+   "themes": [
+    "🚗 Autos & Crashs",
+    "📱 Handy & Social Media"
+   ]
+  },
+  {
+   "id": "8EbwurmrhwY",
+   "title": "This GTA 6 Portal Takes You Back to Vice City 2002",
+   "views": 2375521,
+   "likes": 89217,
+   "comments": 1089,
+   "hours": 22.6,
+   "vph": 105168.9,
+   "themes": [
+    "🗺️ Orte & Geheimnisse",
+    "🌴 Vice City & Leonida"
+   ]
   },
   {
    "id": "CKMpFGnL7PE",
    "title": "Why PlayStation WON’T Refund GTA 6 ❌",
-   "views": 1715681,
-   "likes": 102512,
-   "comments": 4677,
-   "hours": 16.4,
-   "vph": 104703.0,
+   "views": 1960763,
+   "likes": 114532,
+   "comments": 5242,
+   "hours": 19.6,
+   "vph": 99957.3,
    "themes": []
+  },
+  {
+   "id": "nPZryV_HW1k",
+   "title": "NUNCA MOLESTES A LUCIA EN GTA 6!",
+   "views": 1410171,
+   "likes": 47940,
+   "comments": 158,
+   "hours": 15.2,
+   "vph": 92900.7,
+   "themes": [
+    "🧑 Jason & Lucia"
+   ]
+  },
+  {
+   "id": "5m-Xi8lgvWY",
+   "title": "GTA VI MENUJU 100% APA YANG AKAN TERJADI KEPADA JASON DAN LUCIA.... G…",
+   "views": 215023,
+   "likes": 9903,
+   "comments": 0,
+   "hours": 2.5,
+   "vph": 87530.1,
+   "themes": [
+    "🧑 Jason & Lucia"
+   ]
   }
  ],
  "stoerungen": []
