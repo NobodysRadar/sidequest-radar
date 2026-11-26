@@ -1,45 +1,44 @@
-# 🎮 Sidequest-Radar – Stand 26.11.2026, 20:13 Uhr
+# 🎮 Sidequest-Radar – Stand 26.11.2026, 23:06 Uhr
 
-Gesichtet: **153 GTA-6-Shorts** der letzten 24 Std. · Median 20.611 Aufrufe/Std. · Quelle: YouTube. Gespeichert werden nur Zahlen, gekürzte Titel und Video-IDs.
+Gesichtet: **144 GTA-6-Shorts** der letzten 24 Std. · Median 19.326 Aufrufe/Std. · Quelle: YouTube. Gespeichert werden nur Zahlen, gekürzte Titel und Video-IDs.
 
 ## ✅ Bestätigte Trends (mind. 3 Videos von 3 Kanälen)
 
 | Rang | Thema | Videos | Kanäle | Aufrufe/Std. gesamt | Spitzen-Video (Aufrufe/Std.) | Video-ID |
 |---|---|---|---|---|---|---|
-| 1 | 🌴 Vice City & Leonida | 9 | 9 | 1.093.139 | Gangnam style Trend VICE CITY GTA 6 GAMEPLAY shorts viral (722.349) | `gK-j8AbxGHI` |
-| 2 | 🗺️ Orte & Geheimnisse | 10 | 10 | 495.962 | NickEh30 plays GTA 6! (Day 9) (288.805) | `qtFLh4z7AnE` |
-| 3 | 🎱 Aktivitäten & Alltag | 3 | 3 | 325.846 | NickEh30 plays GTA 6! (Day 9) (288.805) | `qtFLh4z7AnE` |
-| 4 | 📱 Handy & Social Media | 6 | 6 | 192.224 | GTA VI...... 9 (95.787) | `pz85Ae3oKoA` |
-| 5 | 🧑 Jason & Lucia | 12 | 12 | 147.741 | I Tested Lucia’s Patience in GTA 6 😭 (35.532) | `id5k0b0jMsQ` |
-| 6 | 🚗 Autos & Crashs | 14 | 14 | 134.232 | How to REMOVE Trackers in GTA 6 🤯 (40.518) | `gAjSfgqnbG4` |
-| 7 | 🧍 NPC-Reaktionen | 8 | 8 | 129.193 | GTA VI...... 9 (95.787) | `pz85Ae3oKoA` |
-| 8 | 💥 Physik & Glitches | 5 | 5 | 39.768 | НЕ ПРОПУСТИ ЭТО В GTA 6🤯 shorts (22.380) | `qhveHpoopCg` |
+| 1 | 🌴 Vice City & Leonida | 11 | 11 | 996.644 | Gangnam style Trend VICE CITY GTA 6 GAMEPLAY shorts viral (655.320) | `gK-j8AbxGHI` |
+| 2 | 🗺️ Orte & Geheimnisse | 9 | 9 | 492.233 | NickEh30 plays GTA 6! (Day 9) (342.410) | `qtFLh4z7AnE` |
+| 3 | 📱 Handy & Social Media | 4 | 4 | 169.685 | GTA VI...... 9 (86.619) | `pz85Ae3oKoA` |
+| 4 | 🚗 Autos & Crashs | 9 | 9 | 169.389 | How to REMOVE Trackers in GTA 6 🤯 (53.615) | `gAjSfgqnbG4` |
+| 5 | 🧑 Jason & Lucia | 8 | 8 | 129.922 | I Tested Lucia’s Patience in GTA 6 😭 (50.983) | `id5k0b0jMsQ` |
+| 6 | 🧍 NPC-Reaktionen | 3 | 3 | 105.803 | GTA VI...... 9 (86.619) | `pz85Ae3oKoA` |
+| 7 | 💥 Physik & Glitches | 3 | 3 | 58.438 | GTA 4 vs GTA 5 vs GTA 6 – Physics Evolution (30.068) | `7NaKA1ZWkrc` |
 
 ## 🔎 Gerüchte – unbestätigt, auf eigene Gefahr
 
 | Titel (gekürzt) | Aufrufe/Std. | Alter (Std.) | Video-ID |
 |---|---|---|---|
-| GTA 6 на ПК раньше срока: Почему Rockstar в панике сносит интернет | 328.209 | 5.1 | `h9XMDL1K1P0` |
-| Ps5 tod diya😭 Gta 6 gameplay kanjoos dad chetanmonga comedy shorts | 268.249 | 10.0 | `0m13sHrPARw` |
-| 选择你最喜欢最满意的吧 gta gta6 shorts | 155.210 | 13.2 | `OiuvmoIuBwE` |
-| GTA 6 PLAYS BEST ON XBOX shorts | 129.735 | 19.7 | `wBssKsgKBdU` |
-| 这也太有趣啦 gta gta6 shorts kpop | 126.596 | 6.2 | `AyMrFZRNJiA` |
+| GTA 6 на ПК раньше срока: Почему Rockstar в панике сносит интернет | 315.109 | 8.0 | `h9XMDL1K1P0` |
+| Ps5 tod diya😭 Gta 6 gameplay kanjoos dad chetanmonga comedy shorts | 232.713 | 12.9 | `0m13sHrPARw` |
+| 等等我呀。 gta gta6 shorts | 174.320 | 15.1 | `yMwQ36T4Um4` |
+| 选择你最喜欢最满意的吧 gta gta6 shorts | 144.171 | 16.1 | `OiuvmoIuBwE` |
+| GTA 6 PLAYS BEST ON XBOX shorts | 126.256 | 22.6 | `wBssKsgKBdU` |
 
 ## 🆕 Auffällige Wörter (mind. 3 Kanäle, noch keinem Thema zugeordnet)
 
-viral (10) · trend (6) · city (6) · vice (6) · style (6) · gangnam (6) · gtavi (6) · comedy (5) · nickeh (4) · gaming (4)
+comedy (9) · viral (8) · gtavi (8) · vice (6) · city (6) · style (5) · trend (5) · gangnam (5) · trending (5) · gaming (4)
 
 ## 🏆 Top 10 nach Aufrufen pro Stunde
 
 | # | Titel (gekürzt) | Aufrufe | Alter (Std.) | Aufrufe/Std. | Video-ID |
 |---|---|---|---|---|---|
-| 1 | Gangnam style Trend VICE CITY GTA 6 GAMEPLAY shorts viral | 8.105.256 | 11.2 | 722.349 | `gK-j8AbxGHI` |
-| 2 | GTA 6 на ПК раньше срока: Почему Rockstar в панике сносит интернет | 1.688.043 | 5.1 | 328.209 | `h9XMDL1K1P0` |
-| 3 | NickEh30 plays GTA 6! (Day 9) | 1.659.383 | 5.7 | 288.805 | `qtFLh4z7AnE` |
-| 4 | Ps5 tod diya😭 Gta 6 gameplay kanjoos dad chetanmonga comedy shorts | 2.681.406 | 10.0 | 268.249 | `0m13sHrPARw` |
-| 5 | Gangnam style Trend VICE CITY GTA 6 GAMEPLAY shorts viral | 2.148.325 | 11.2 | 191.565 | `J_qXdC33nF0` |
-| 6 | 选择你最喜欢最满意的吧 gta gta6 shorts | 2.051.206 | 13.2 | 155.210 | `OiuvmoIuBwE` |
-| 7 | GTA 6 PLAYS BEST ON XBOX shorts | 2.554.280 | 19.7 | 129.735 | `wBssKsgKBdU` |
-| 8 | 这也太有趣啦 gta gta6 shorts kpop | 786.667 | 6.2 | 126.596 | `AyMrFZRNJiA` |
-| 9 | Absolute MENACE in GTA 6 😭 | 2.182.176 | 19.8 | 109.963 | `vPscuQHjgLw` |
-| 10 | 怎么了 gta GTA6 shorts | 2.509.605 | 23.2 | 108.087 | `fOcoiLq-nr0` |
+| 1 | Gangnam style Trend VICE CITY GTA 6 GAMEPLAY shorts viral | 9.245.437 | 14.1 | 655.320 | `gK-j8AbxGHI` |
+| 2 | NickEh30 plays GTA 6! (Day 9) | 2.956.116 | 8.6 | 342.410 | `qtFLh4z7AnE` |
+| 3 | GTA 6 на ПК раньше срока: Почему Rockstar в панике сносит интернет | 2.530.567 | 8.0 | 315.109 | `h9XMDL1K1P0` |
+| 4 | Ps5 tod diya😭 Gta 6 gameplay kanjoos dad chetanmonga comedy shorts | 2.998.174 | 12.9 | 232.713 | `0m13sHrPARw` |
+| 5 | Gangnam style Trend VICE CITY GTA 6 GAMEPLAY shorts viral | 2.467.673 | 14.1 | 174.986 | `J_qXdC33nF0` |
+| 6 | 等等我呀。 gta gta6 shorts | 2.632.126 | 15.1 | 174.320 | `yMwQ36T4Um4` |
+| 7 | 选择你最喜欢最满意的吧 gta gta6 shorts | 2.321.626 | 16.1 | 144.171 | `OiuvmoIuBwE` |
+| 8 | GTA 6 PLAYS BEST ON XBOX shorts | 2.850.354 | 22.6 | 126.256 | `wBssKsgKBdU` |
+| 9 | When You Love GTA 6 More Than Your Own Mom 😂🎮 | 1.145.037 | 9.1 | 125.737 | `23_m98RDNck` |
+| 10 | Peanut’s HONEST Review of GTA VI After 100% Completion... | 1.215.507 | 11.3 | 107.920 | `zf2aKusfbtE` |

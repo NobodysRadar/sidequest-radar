@@ -1,94 +1,83 @@
 {
- "stand_utc": "2026-11-26T19:13:15Z",
- "gesichtet": 153,
- "median_vph": 20611.2,
+ "stand_utc": "2026-11-26T22:06:30Z",
+ "gesichtet": 144,
+ "median_vph": 19326.4,
  "trends": [
   {
    "theme": "🌴 Vice City & Leonida",
-   "videos": 9,
-   "channels": 9,
-   "vph_sum": 1093139,
+   "videos": 11,
+   "channels": 11,
+   "vph_sum": 996644,
    "top": {
     "id": "gK-j8AbxGHI",
     "title": "Gangnam style Trend VICE CITY GTA 6 GAMEPLAY shorts viral",
-    "vph": 722349.3
+    "vph": 655320.3
    }
   },
   {
    "theme": "🗺️ Orte & Geheimnisse",
-   "videos": 10,
-   "channels": 10,
-   "vph_sum": 495962,
+   "videos": 9,
+   "channels": 9,
+   "vph_sum": 492233,
    "top": {
     "id": "qtFLh4z7AnE",
     "title": "NickEh30 plays GTA 6! (Day 9)",
-    "vph": 288804.9
-   }
-  },
-  {
-   "theme": "🎱 Aktivitäten & Alltag",
-   "videos": 3,
-   "channels": 3,
-   "vph_sum": 325846,
-   "top": {
-    "id": "qtFLh4z7AnE",
-    "title": "NickEh30 plays GTA 6! (Day 9)",
-    "vph": 288804.9
+    "vph": 342409.7
    }
   },
   {
    "theme": "📱 Handy & Social Media",
-   "videos": 6,
-   "channels": 6,
-   "vph_sum": 192224,
+   "videos": 4,
+   "channels": 4,
+   "vph_sum": 169685,
    "top": {
     "id": "pz85Ae3oKoA",
     "title": "GTA VI...... 9",
-    "vph": 95787.2
-   }
-  },
-  {
-   "theme": "🧑 Jason & Lucia",
-   "videos": 12,
-   "channels": 12,
-   "vph_sum": 147741,
-   "top": {
-    "id": "id5k0b0jMsQ",
-    "title": "I Tested Lucia’s Patience in GTA 6 😭",
-    "vph": 35531.9
+    "vph": 86619.4
    }
   },
   {
    "theme": "🚗 Autos & Crashs",
-   "videos": 14,
-   "channels": 14,
-   "vph_sum": 134232,
+   "videos": 9,
+   "channels": 9,
+   "vph_sum": 169389,
    "top": {
     "id": "gAjSfgqnbG4",
     "title": "How to REMOVE Trackers in GTA 6 🤯",
-    "vph": 40518.2
+    "vph": 53615.0
+   }
+  },
+  {
+   "theme": "🧑 Jason & Lucia",
+   "videos": 8,
+   "channels": 8,
+   "vph_sum": 129922,
+   "top": {
+    "id": "id5k0b0jMsQ",
+    "title": "I Tested Lucia’s Patience in GTA 6 😭",
+    "vph": 50983.1
    }
   },
   {
    "theme": "🧍 NPC-Reaktionen",
-   "videos": 8,
-   "channels": 8,
-   "vph_sum": 129193,
+   "videos": 3,
+   "channels": 3,
+   "vph_sum": 105803,
    "top": {
     "id": "pz85Ae3oKoA",
     "title": "GTA VI...... 9",
-    "vph": 95787.2
+    "vph": 86619.4
    }
   },
   {
    "theme": "💥 Physik & Glitches",
-   "videos": 5,
-   "channels": 5,
-   "vph_sum": 39768,
+   "videos": 3,
+   "channels": 3,
+   "vph_sum": 58438,
    "top": {
-    "id": "qhveHpoopCg",
-    "title": "НЕ ПРОПУСТИ ЭТО В GTA 6🤯 shorts",
-    "vph": 22379.5
+    "id": "7NaKA1ZWkrc",
+    "title": "GTA 4 vs GTA 5 vs GTA 6 – Physics Evolution",
+    "vph": 30067.5
    }
   }
  ],
@@ -96,61 +85,69 @@
   {
    "id": "h9XMDL1K1P0",
    "title": "GTA 6 на ПК раньше срока: Почему Rockstar в панике сносит интернет",
-   "views": 1688043,
-   "likes": 89801,
-   "comments": 2154,
-   "hours": 5.1,
-   "vph": 328209.4,
+   "views": 2530567,
+   "likes": 108676,
+   "comments": 2573,
+   "hours": 8.0,
+   "vph": 315108.8,
    "themes": []
   },
   {
    "id": "0m13sHrPARw",
    "title": "Ps5 tod diya😭 Gta 6 gameplay kanjoos dad chetanmonga comedy shorts",
-   "views": 2681406,
-   "likes": 54114,
-   "comments": 235,
-   "hours": 10.0,
-   "vph": 268248.8,
+   "views": 2998174,
+   "likes": 55917,
+   "comments": 244,
+   "hours": 12.9,
+   "vph": 232713.3,
+   "themes": []
+  },
+  {
+   "id": "yMwQ36T4Um4",
+   "title": "等等我呀。 gta gta6 shorts",
+   "views": 2632126,
+   "likes": 9989,
+   "comments": 1,
+   "hours": 15.1,
+   "vph": 174320.1,
    "themes": []
   },
   {
    "id": "OiuvmoIuBwE",
    "title": "选择你最喜欢最满意的吧 gta gta6 shorts",
-   "views": 2051206,
-   "likes": 15419,
-   "comments": 6,
-   "hours": 13.2,
-   "vph": 155209.9,
+   "views": 2321626,
+   "likes": 16934,
+   "comments": 7,
+   "hours": 16.1,
+   "vph": 144171.1,
    "themes": []
   },
   {
    "id": "wBssKsgKBdU",
    "title": "GTA 6 PLAYS BEST ON XBOX shorts",
-   "views": 2554280,
-   "likes": 134835,
-   "comments": 4925,
-   "hours": 19.7,
-   "vph": 129734.8,
-   "themes": []
-  },
-  {
-   "id": "AyMrFZRNJiA",
-   "title": "这也太有趣啦 gta gta6 shorts kpop",
-   "views": 786667,
-   "likes": 5451,
-   "comments": 3,
-   "hours": 6.2,
-   "vph": 126595.5,
+   "views": 2850354,
+   "likes": 146417,
+   "comments": 5294,
+   "hours": 22.6,
+   "vph": 126255.7,
    "themes": []
   }
  ],
  "woerter": [
   [
-   "viral",
-   10
+   "comedy",
+   9
   ],
   [
-   "trend",
+   "viral",
+   8
+  ],
+  [
+   "gtavi",
+   8
+  ],
+  [
+   "vice",
    6
   ],
   [
@@ -158,28 +155,20 @@
    6
   ],
   [
-   "vice",
-   6
-  ],
-  [
    "style",
-   6
-  ],
-  [
-   "gangnam",
-   6
-  ],
-  [
-   "gtavi",
-   6
-  ],
-  [
-   "comedy",
    5
   ],
   [
-   "nickeh",
-   4
+   "trend",
+   5
+  ],
+  [
+   "gangnam",
+   5
+  ],
+  [
+   "trending",
+   5
   ],
   [
    "gaming",
@@ -190,108 +179,108 @@
   {
    "id": "gK-j8AbxGHI",
    "title": "Gangnam style Trend VICE CITY GTA 6 GAMEPLAY shorts viral",
-   "views": 8105256,
+   "views": 9245437,
    "likes": 0,
-   "comments": 24,
-   "hours": 11.2,
-   "vph": 722349.3,
+   "comments": 41,
+   "hours": 14.1,
+   "vph": 655320.3,
    "themes": [
     "🌴 Vice City & Leonida"
    ]
   },
   {
-   "id": "h9XMDL1K1P0",
-   "title": "GTA 6 на ПК раньше срока: Почему Rockstar в панике сносит интернет",
-   "views": 1688043,
-   "likes": 89801,
-   "comments": 2154,
-   "hours": 5.1,
-   "vph": 328209.4,
-   "themes": []
-  },
-  {
    "id": "qtFLh4z7AnE",
    "title": "NickEh30 plays GTA 6! (Day 9)",
-   "views": 1659383,
-   "likes": 2736,
+   "views": 2956116,
+   "likes": 4469,
    "comments": 0,
-   "hours": 5.7,
-   "vph": 288804.9,
+   "hours": 8.6,
+   "vph": 342409.7,
    "themes": [
     "🗺️ Orte & Geheimnisse",
     "🎱 Aktivitäten & Alltag"
    ]
   },
   {
+   "id": "h9XMDL1K1P0",
+   "title": "GTA 6 на ПК раньше срока: Почему Rockstar в панике сносит интернет",
+   "views": 2530567,
+   "likes": 108676,
+   "comments": 2573,
+   "hours": 8.0,
+   "vph": 315108.8,
+   "themes": []
+  },
+  {
    "id": "0m13sHrPARw",
    "title": "Ps5 tod diya😭 Gta 6 gameplay kanjoos dad chetanmonga comedy shorts",
-   "views": 2681406,
-   "likes": 54114,
-   "comments": 235,
-   "hours": 10.0,
-   "vph": 268248.8,
+   "views": 2998174,
+   "likes": 55917,
+   "comments": 244,
+   "hours": 12.9,
+   "vph": 232713.3,
    "themes": []
   },
   {
    "id": "J_qXdC33nF0",
    "title": "Gangnam style Trend VICE CITY GTA 6 GAMEPLAY shorts viral",
-   "views": 2148325,
+   "views": 2467673,
    "likes": 0,
-   "comments": 17,
-   "hours": 11.2,
-   "vph": 191565.4,
+   "comments": 30,
+   "hours": 14.1,
+   "vph": 174985.5,
    "themes": [
     "🌴 Vice City & Leonida"
    ]
   },
   {
+   "id": "yMwQ36T4Um4",
+   "title": "等等我呀。 gta gta6 shorts",
+   "views": 2632126,
+   "likes": 9989,
+   "comments": 1,
+   "hours": 15.1,
+   "vph": 174320.1,
+   "themes": []
+  },
+  {
    "id": "OiuvmoIuBwE",
    "title": "选择你最喜欢最满意的吧 gta gta6 shorts",
-   "views": 2051206,
-   "likes": 15419,
-   "comments": 6,
-   "hours": 13.2,
-   "vph": 155209.9,
+   "views": 2321626,
+   "likes": 16934,
+   "comments": 7,
+   "hours": 16.1,
+   "vph": 144171.1,
    "themes": []
   },
   {
    "id": "wBssKsgKBdU",
    "title": "GTA 6 PLAYS BEST ON XBOX shorts",
-   "views": 2554280,
-   "likes": 134835,
-   "comments": 4925,
-   "hours": 19.7,
-   "vph": 129734.8,
+   "views": 2850354,
+   "likes": 146417,
+   "comments": 5294,
+   "hours": 22.6,
+   "vph": 126255.7,
    "themes": []
   },
   {
-   "id": "AyMrFZRNJiA",
-   "title": "这也太有趣啦 gta gta6 shorts kpop",
-   "views": 786667,
-   "likes": 5451,
-   "comments": 3,
-   "hours": 6.2,
-   "vph": 126595.5,
+   "id": "23_m98RDNck",
+   "title": "When You Love GTA 6 More Than Your Own Mom 😂🎮",
+   "views": 1145037,
+   "likes": 10189,
+   "comments": 93,
+   "hours": 9.1,
+   "vph": 125737.0,
    "themes": []
   },
   {
-   "id": "vPscuQHjgLw",
-   "title": "Absolute MENACE in GTA 6 😭",
-   "views": 2182176,
-   "likes": 94960,
-   "comments": 677,
-   "hours": 19.8,
-   "vph": 109963.3,
-   "themes": []
-  },
-  {
-   "id": "fOcoiLq-nr0",
-   "title": "怎么了 gta GTA6 shorts",
-   "views": 2509605,
-   "likes": 12593,
-   "comments": 6,
-   "hours": 23.2,
-   "vph": 108086.6,
+   "id": "zf2aKusfbtE",
+   "title": "Peanut’s HONEST Review of GTA VI After 100% Completion...",
+   "views": 1215507,
+   "likes": 33924,
+   "comments": 5727,
+   "hours": 11.3,
+   "vph": 107920.4,
    "themes": []
   }
  ],
