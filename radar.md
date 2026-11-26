@@ -1,44 +1,44 @@
-# 🎮 Sidequest-Radar – Stand 26.11.2026, 02:29 Uhr
+# 🎮 Sidequest-Radar – Stand 26.11.2026, 05:16 Uhr
 
-Gesichtet: **144 GTA-6-Shorts** der letzten 24 Std. · Median 25.525 Aufrufe/Std. · Quelle: YouTube. Gespeichert werden nur Zahlen, gekürzte Titel und Video-IDs.
+Gesichtet: **152 GTA-6-Shorts** der letzten 24 Std. · Median 18.468 Aufrufe/Std. · Quelle: YouTube. Gespeichert werden nur Zahlen, gekürzte Titel und Video-IDs.
 
 ## ✅ Bestätigte Trends (mind. 3 Videos von 3 Kanälen)
 
 | Rang | Thema | Videos | Kanäle | Aufrufe/Std. gesamt | Spitzen-Video (Aufrufe/Std.) | Video-ID |
 |---|---|---|---|---|---|---|
-| 1 | 🌴 Vice City & Leonida | 15 | 13 | 837.331 | Gangnam style Trend VICE CITY GTA 6 GAMEPLAY shorts viral (194.466) | `OXZ0JI_doSI` |
-| 2 | 🧑 Jason & Lucia | 10 | 10 | 463.852 | POV: One Of The Best Side Missions (GTA 6) 💀 shorts gta6 (99.588) | `wwxZzQPrYgk` |
-| 3 | 🗺️ Orte & Geheimnisse | 13 | 12 | 417.425 | This GTA 6 Glitch Breaks Lucia's Outfit shorts (75.610) | `E_HDseY0tQ4` |
-| 4 | 🚗 Autos & Crashs | 12 | 11 | 382.073 | POV: One Of The Best Side Missions (GTA 6) 💀 shorts gta6 (99.588) | `wwxZzQPrYgk` |
-| 5 | 💥 Physik & Glitches | 7 | 7 | 196.413 | This GTA 6 Glitch Breaks Lucia's Outfit shorts (75.610) | `E_HDseY0tQ4` |
-| 6 | 📱 Handy & Social Media | 3 | 3 | 75.549 | Gta v Live Panther Fire Attack 243 gta5 gtav gta6 (63.678) | `TA_lBs8W41k` |
-| 7 | 🧍 NPC-Reaktionen | 5 | 5 | 46.196 | NPC GTA 6 INI UDAH TAU SEGALANYA!! (27.358) | `NIQlsQ9UcPE` |
+| 1 | 🌴 Vice City & Leonida | 14 | 12 | 795.418 | Gangnam style Trend VICE CITY GTA 6 GAMEPLAY shorts viral (238.956) | `OXZ0JI_doSI` |
+| 2 | 🧑 Jason & Lucia | 12 | 12 | 469.167 | POV: One Of The Best Side Missions (GTA 6) 💀 shorts gta6 (168.511) | `wwxZzQPrYgk` |
+| 3 | 🚗 Autos & Crashs | 13 | 12 | 455.980 | POV: One Of The Best Side Missions (GTA 6) 💀 shorts gta6 (168.511) | `wwxZzQPrYgk` |
+| 4 | 🗺️ Orte & Geheimnisse | 10 | 9 | 321.552 | This GTA 6 Glitch Breaks Lucia's Outfit shorts (90.708) | `E_HDseY0tQ4` |
+| 5 | 💥 Physik & Glitches | 7 | 7 | 192.251 | This GTA 6 Glitch Breaks Lucia's Outfit shorts (90.708) | `E_HDseY0tQ4` |
+| 6 | 📱 Handy & Social Media | 3 | 3 | 38.386 | GTA 6 até o kur fazer bico (20.824) | `O8-eWuiKlD4` |
+| 7 | 🧍 NPC-Reaktionen | 4 | 4 | 23.684 | Things You Never Thought to Try in GTA VI! (7.908) | `961gWH7P4IA` |
 
 ## 🔎 Gerüchte – unbestätigt, auf eigene Gefahr
 
 | Titel (gekürzt) | Aufrufe/Std. | Alter (Std.) | Video-ID |
 |---|---|---|---|
-| 中线舞 gta gta6 shorts | 1.290.842 | 18.5 | `rlUImhfIOQg` |
-| Será la Canción de GTA 6 ?🚗🚨😱 gta6 gta | 177.590 | 10.3 | `JLOVODlu2LM` |
-| When Your Own Dad Is In GTA 6 😱🎮 | 158.458 | 12.5 | `gKsWRFipinw` |
-| Bro thinks he’s in GTA VI 💀 | 141.844 | 18.5 | `5Xob-VC_bkY` |
-| Can I Pet a Lion at the GTA 6 Zoo 😱 | 132.876 | 19.0 | `beA2qX2P2TY` |
+| 中线舞 gta gta6 shorts | 1.151.848 | 21.3 | `rlUImhfIOQg` |
+| Bro thinks he’s in GTA VI 💀 | 176.516 | 21.3 | `5Xob-VC_bkY` |
+| When Your Own Dad Is In GTA 6 😱🎮 | 144.485 | 15.3 | `gKsWRFipinw` |
+| POV:Cuando JUEGAS a GTA VI con TU MADRE...😡🎮 humor comedia gtavi | 132.306 | 8.5 | `D5hx7VdBunU` |
+| Can I Pet a Lion at the GTA 6 Zoo 😱 | 122.864 | 21.8 | `beA2qX2P2TY` |
 
 ## 🆕 Auffällige Wörter (mind. 3 Kanäle, noch keinem Thema zugeordnet)
 
-viral (10) · city (7) · vice (7) · style (5) · trend (5) · gangnam (5) · gtavi (5) · trending (4) · gtaonline (4) · spiderman (3)
+viral (9) · vice (7) · gangnam (7) · city (7) · style (7) · trend (6) · gtavi (6) · gaming (5) · games (4) · trending (3)
 
 ## 🏆 Top 10 nach Aufrufen pro Stunde
 
 | # | Titel (gekürzt) | Aufrufe | Alter (Std.) | Aufrufe/Std. | Video-ID |
 |---|---|---|---|---|---|
-| 1 | 中线舞 gta gta6 shorts | 23.865.481 | 18.5 | 1.290.842 | `rlUImhfIOQg` |
-| 2 | Gangnam style Trend VICE CITY GTA 6 GAMEPLAY shorts viral | 3.400.022 | 17.5 | 194.466 | `OXZ0JI_doSI` |
-| 3 | Será la Canción de GTA 6 ?🚗🚨😱 gta6 gta | 1.825.027 | 10.3 | 177.590 | `JLOVODlu2LM` |
-| 4 | GTA 6 IS FINALLY HERE! 😱 GAMEPLAY Welcome to Vice City | 745.895 | 4.6 | 163.147 | `0DjIgKLqUKs` |
-| 5 | When Your Own Dad Is In GTA 6 😱🎮 | 1.979.007 | 12.5 | 158.458 | `gKsWRFipinw` |
-| 6 | Bro thinks he’s in GTA VI 💀 | 2.625.656 | 18.5 | 141.844 | `5Xob-VC_bkY` |
-| 7 | Can I Pet a Lion at the GTA 6 Zoo 😱 | 2.522.434 | 19.0 | 132.876 | `beA2qX2P2TY` |
-| 8 | POV:Cuando JUEGAS a GTA VI con TU MADRE...😡🎮 humor comedia gtavi | 738.318 | 5.8 | 128.379 | `D5hx7VdBunU` |
-| 9 | COMPRANDO MI PRIMER SUPER COCHE EN GTA 6 !! 🔵 - TheDonato | 688.354 | 6.0 | 115.335 | `DEe4Qo0m9mc` |
-| 10 | 哒哒哒 gta gta6 shorts | 1.313.248 | 13.0 | 101.093 | `twPK-RRlwM8` |
+| 1 | 中线舞 gta gta6 shorts | 24.494.900 | 21.3 | 1.151.848 | `rlUImhfIOQg` |
+| 2 | Gangnam style Trend VICE CITY GTA 6 GAMEPLAY shorts viral | 4.841.559 | 20.3 | 238.956 | `OXZ0JI_doSI` |
+| 3 | Bro thinks he’s in GTA VI 💀 | 3.757.723 | 21.3 | 176.516 | `5Xob-VC_bkY` |
+| 4 | POV: One Of The Best Side Missions (GTA 6) 💀 shorts gta6 | 2.333.253 | 13.8 | 168.511 | `wwxZzQPrYgk` |
+| 5 | When Your Own Dad Is In GTA 6 😱🎮 | 2.205.790 | 15.3 | 144.485 | `gKsWRFipinw` |
+| 6 | POV:Cuando JUEGAS a GTA VI con TU MADRE...😡🎮 humor comedia gtavi | 1.128.373 | 8.5 | 132.306 | `D5hx7VdBunU` |
+| 7 | Can I Pet a Lion at the GTA 6 Zoo 😱 | 2.673.618 | 21.8 | 122.864 | `beA2qX2P2TY` |
+| 8 | gta6 vanillamace twitch vanilla funny gta trending | 1.783.409 | 18.7 | 95.420 | `oYfODaLDgvI` |
+| 9 | This GTA 6 Glitch Breaks Lucia's Outfit shorts | 2.069.570 | 22.8 | 90.708 | `E_HDseY0tQ4` |
+| 10 | 哒哒哒 gta gta6 shorts | 1.324.519 | 15.8 | 84.001 | `twPK-RRlwM8` |

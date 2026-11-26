@@ -1,83 +1,83 @@
 {
- "stand_utc": "2026-11-26T01:29:37Z",
- "gesichtet": 144,
- "median_vph": 25525.0,
+ "stand_utc": "2026-11-26T04:16:16Z",
+ "gesichtet": 152,
+ "median_vph": 18467.800000000003,
  "trends": [
   {
    "theme": "🌴 Vice City & Leonida",
-   "videos": 15,
-   "channels": 13,
-   "vph_sum": 837331,
+   "videos": 14,
+   "channels": 12,
+   "vph_sum": 795418,
    "top": {
     "id": "OXZ0JI_doSI",
     "title": "Gangnam style Trend VICE CITY GTA 6 GAMEPLAY shorts viral",
-    "vph": 194466.3
+    "vph": 238956.0
    }
   },
   {
    "theme": "🧑 Jason & Lucia",
-   "videos": 10,
-   "channels": 10,
-   "vph_sum": 463852,
+   "videos": 12,
+   "channels": 12,
+   "vph_sum": 469167,
    "top": {
     "id": "wwxZzQPrYgk",
     "title": "POV: One Of The Best Side Missions (GTA 6) 💀 shorts gta6",
-    "vph": 99587.9
-   }
-  },
-  {
-   "theme": "🗺️ Orte & Geheimnisse",
-   "videos": 13,
-   "channels": 12,
-   "vph_sum": 417425,
-   "top": {
-    "id": "E_HDseY0tQ4",
-    "title": "This GTA 6 Glitch Breaks Lucia's Outfit shorts",
-    "vph": 75609.8
+    "vph": 168511.0
    }
   },
   {
    "theme": "🚗 Autos & Crashs",
-   "videos": 12,
-   "channels": 11,
-   "vph_sum": 382073,
+   "videos": 13,
+   "channels": 12,
+   "vph_sum": 455980,
    "top": {
     "id": "wwxZzQPrYgk",
     "title": "POV: One Of The Best Side Missions (GTA 6) 💀 shorts gta6",
-    "vph": 99587.9
+    "vph": 168511.0
+   }
+  },
+  {
+   "theme": "🗺️ Orte & Geheimnisse",
+   "videos": 10,
+   "channels": 9,
+   "vph_sum": 321552,
+   "top": {
+    "id": "E_HDseY0tQ4",
+    "title": "This GTA 6 Glitch Breaks Lucia's Outfit shorts",
+    "vph": 90708.0
    }
   },
   {
    "theme": "💥 Physik & Glitches",
    "videos": 7,
    "channels": 7,
-   "vph_sum": 196413,
+   "vph_sum": 192251,
    "top": {
     "id": "E_HDseY0tQ4",
     "title": "This GTA 6 Glitch Breaks Lucia's Outfit shorts",
-    "vph": 75609.8
+    "vph": 90708.0
    }
   },
   {
    "theme": "📱 Handy & Social Media",
    "videos": 3,
    "channels": 3,
-   "vph_sum": 75549,
+   "vph_sum": 38386,
    "top": {
-    "id": "TA_lBs8W41k",
-    "title": "Gta v Live Panther Fire Attack 243 gta5 gtav gta6",
-    "vph": 63678.2
+    "id": "O8-eWuiKlD4",
+    "title": "GTA 6 até o kur fazer bico",
+    "vph": 20824.0
    }
   },
   {
    "theme": "🧍 NPC-Reaktionen",
-   "videos": 5,
-   "channels": 5,
-   "vph_sum": 46196,
+   "videos": 4,
+   "channels": 4,
+   "vph_sum": 23684,
    "top": {
-    "id": "NIQlsQ9UcPE",
-    "title": "NPC GTA 6 INI UDAH TAU SEGALANYA!!",
-    "vph": 27357.9
+    "id": "961gWH7P4IA",
+    "title": "Things You Never Thought to Try in GTA VI!",
+    "vph": 7907.9
    }
   }
  ],
@@ -85,93 +85,93 @@
   {
    "id": "rlUImhfIOQg",
    "title": "中线舞 gta gta6 shorts",
-   "views": 23865481,
-   "likes": 79159,
+   "views": 24494900,
+   "likes": 81673,
    "comments": 28,
-   "hours": 18.5,
-   "vph": 1290842.0,
-   "themes": []
-  },
-  {
-   "id": "JLOVODlu2LM",
-   "title": "Será la Canción de GTA 6 ?🚗🚨😱 gta6 gta",
-   "views": 1825027,
-   "likes": 7223,
-   "comments": 17,
-   "hours": 10.3,
-   "vph": 177589.9,
-   "themes": []
-  },
-  {
-   "id": "gKsWRFipinw",
-   "title": "When Your Own Dad Is In GTA 6 😱🎮",
-   "views": 1979007,
-   "likes": 24859,
-   "comments": 106,
-   "hours": 12.5,
-   "vph": 158458.2,
+   "hours": 21.3,
+   "vph": 1151847.9,
    "themes": []
   },
   {
    "id": "5Xob-VC_bkY",
    "title": "Bro thinks he’s in GTA VI 💀",
-   "views": 2625656,
-   "likes": 64018,
-   "comments": 364,
-   "hours": 18.5,
-   "vph": 141844.5,
+   "views": 3757723,
+   "likes": 85110,
+   "comments": 467,
+   "hours": 21.3,
+   "vph": 176516.4,
+   "themes": []
+  },
+  {
+   "id": "gKsWRFipinw",
+   "title": "When Your Own Dad Is In GTA 6 😱🎮",
+   "views": 2205790,
+   "likes": 28224,
+   "comments": 120,
+   "hours": 15.3,
+   "vph": 144484.9,
+   "themes": []
+  },
+  {
+   "id": "D5hx7VdBunU",
+   "title": "POV:Cuando JUEGAS a GTA VI con TU MADRE...😡🎮 humor comedia gtavi",
+   "views": 1128373,
+   "likes": 18146,
+   "comments": 43,
+   "hours": 8.5,
+   "vph": 132305.9,
    "themes": []
   },
   {
    "id": "beA2qX2P2TY",
    "title": "Can I Pet a Lion at the GTA 6 Zoo 😱",
-   "views": 2522434,
-   "likes": 101472,
-   "comments": 2214,
-   "hours": 19.0,
-   "vph": 132876.4,
+   "views": 2673618,
+   "likes": 109593,
+   "comments": 2363,
+   "hours": 21.8,
+   "vph": 122864.3,
    "themes": []
   }
  ],
  "woerter": [
   [
    "viral",
-   10
-  ],
-  [
-   "city",
-   7
+   9
   ],
   [
    "vice",
    7
   ],
   [
+   "gangnam",
+   7
+  ],
+  [
+   "city",
+   7
+  ],
+  [
    "style",
-   5
+   7
   ],
   [
    "trend",
-   5
-  ],
-  [
-   "gangnam",
-   5
+   6
   ],
   [
    "gtavi",
+   6
+  ],
+  [
+   "gaming",
    5
   ],
   [
+   "games",
+   4
+  ],
+  [
    "trending",
-   4
-  ],
-  [
-   "gtaonline",
-   4
-  ],
-  [
-   "spiderman",
    3
   ]
  ],
@@ -179,105 +179,112 @@
   {
    "id": "rlUImhfIOQg",
    "title": "中线舞 gta gta6 shorts",
-   "views": 23865481,
-   "likes": 79159,
+   "views": 24494900,
+   "likes": 81673,
    "comments": 28,
-   "hours": 18.5,
-   "vph": 1290842.0,
+   "hours": 21.3,
+   "vph": 1151847.9,
    "themes": []
   },
   {
    "id": "OXZ0JI_doSI",
    "title": "Gangnam style Trend VICE CITY GTA 6 GAMEPLAY shorts viral",
-   "views": 3400022,
+   "views": 4841559,
    "likes": 0,
-   "comments": 5,
-   "hours": 17.5,
-   "vph": 194466.3,
+   "comments": 7,
+   "hours": 20.3,
+   "vph": 238956.0,
    "themes": [
     "🌴 Vice City & Leonida"
    ]
   },
   {
-   "id": "JLOVODlu2LM",
-   "title": "Será la Canción de GTA 6 ?🚗🚨😱 gta6 gta",
-   "views": 1825027,
-   "likes": 7223,
-   "comments": 17,
-   "hours": 10.3,
-   "vph": 177589.9,
+   "id": "5Xob-VC_bkY",
+   "title": "Bro thinks he’s in GTA VI 💀",
+   "views": 3757723,
+   "likes": 85110,
+   "comments": 467,
+   "hours": 21.3,
+   "vph": 176516.4,
    "themes": []
   },
   {
-   "id": "0DjIgKLqUKs",
-   "title": "GTA 6 IS FINALLY HERE! 😱 GAMEPLAY Welcome to Vice City",
-   "views": 745895,
-   "likes": 661,
-   "comments": 0,
-   "hours": 4.6,
-   "vph": 163147.1,
+   "id": "wwxZzQPrYgk",
+   "title": "POV: One Of The Best Side Missions (GTA 6) 💀 shorts gta6",
+   "views": 2333253,
+   "likes": 75152,
+   "comments": 1067,
+   "hours": 13.8,
+   "vph": 168511.0,
    "themes": [
+    "🚗 Autos & Crashs",
+    "🧑 Jason & Lucia",
     "🌴 Vice City & Leonida"
    ]
   },
   {
    "id": "gKsWRFipinw",
    "title": "When Your Own Dad Is In GTA 6 😱🎮",
-   "views": 1979007,
-   "likes": 24859,
-   "comments": 106,
-   "hours": 12.5,
-   "vph": 158458.2,
-   "themes": []
-  },
-  {
-   "id": "5Xob-VC_bkY",
-   "title": "Bro thinks he’s in GTA VI 💀",
-   "views": 2625656,
-   "likes": 64018,
-   "comments": 364,
-   "hours": 18.5,
-   "vph": 141844.5,
-   "themes": []
-  },
-  {
-   "id": "beA2qX2P2TY",
-   "title": "Can I Pet a Lion at the GTA 6 Zoo 😱",
-   "views": 2522434,
-   "likes": 101472,
-   "comments": 2214,
-   "hours": 19.0,
-   "vph": 132876.4,
+   "views": 2205790,
+   "likes": 28224,
+   "comments": 120,
+   "hours": 15.3,
+   "vph": 144484.9,
    "themes": []
   },
   {
    "id": "D5hx7VdBunU",
    "title": "POV:Cuando JUEGAS a GTA VI con TU MADRE...😡🎮 humor comedia gtavi",
-   "views": 738318,
-   "likes": 15544,
-   "comments": 38,
-   "hours": 5.8,
-   "vph": 128379.0,
+   "views": 1128373,
+   "likes": 18146,
+   "comments": 43,
+   "hours": 8.5,
+   "vph": 132305.9,
    "themes": []
   },
   {
-   "id": "DEe4Qo0m9mc",
-   "title": "COMPRANDO MI PRIMER SUPER COCHE EN GTA 6 !! 🔵 - TheDonato",
-   "views": 688354,
-   "likes": 4014,
-   "comments": 0,
-   "hours": 6.0,
-   "vph": 115334.9,
+   "id": "beA2qX2P2TY",
+   "title": "Can I Pet a Lion at the GTA 6 Zoo 😱",
+   "views": 2673618,
+   "likes": 109593,
+   "comments": 2363,
+   "hours": 21.8,
+   "vph": 122864.3,
    "themes": []
+  },
+  {
+   "id": "oYfODaLDgvI",
+   "title": "gta6 vanillamace twitch vanilla funny gta trending",
+   "views": 1783409,
+   "likes": 80348,
+   "comments": 641,
+   "hours": 18.7,
+   "vph": 95419.5,
+   "themes": []
+  },
+  {
+   "id": "E_HDseY0tQ4",
+   "title": "This GTA 6 Glitch Breaks Lucia's Outfit shorts",
+   "views": 2069570,
+   "likes": 42491,
+   "comments": 757,
+   "hours": 22.8,
+   "vph": 90708.0,
+   "themes": [
+    "🚗 Autos & Crashs",
+    "💥 Physik & Glitches",
+    "🗺️ Orte & Geheimnisse",
+    "🧑 Jason & Lucia"
+   ]
   },
   {
    "id": "twPK-RRlwM8",
    "title": "哒哒哒 gta gta6 shorts",
-   "views": 1313248,
-   "likes": 4824,
+   "views": 1324519,
+   "likes": 4835,
    "comments": 5,
-   "hours": 13.0,
-   "vph": 101092.7,
+   "hours": 15.8,
+   "vph": 84000.6,
    "themes": []
   }
  ],
