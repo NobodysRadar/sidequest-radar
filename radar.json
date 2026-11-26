@@ -1,233 +1,274 @@
 {
- "stand_utc": "2026-11-26T13:34:07Z",
- "gesichtet": 148,
- "median_vph": 14366.7,
+ "stand_utc": "2026-11-26T16:18:06Z",
+ "gesichtet": 157,
+ "median_vph": 13017.2,
  "trends": [
   {
-   "theme": "🧑 Jason & Lucia",
-   "videos": 22,
-   "channels": 22,
-   "vph_sum": 589204,
-   "top": {
-    "id": "wwxZzQPrYgk",
-    "title": "POV: One Of The Best Side Missions (GTA 6) 💀 shorts gta6",
-    "vph": 234180.7
-   }
-  },
-  {
-   "theme": "🚗 Autos & Crashs",
-   "videos": 13,
-   "channels": 13,
-   "vph_sum": 399111,
-   "top": {
-    "id": "wwxZzQPrYgk",
-    "title": "POV: One Of The Best Side Missions (GTA 6) 💀 shorts gta6",
-    "vph": 234180.7
-   }
-  },
-  {
    "theme": "🌴 Vice City & Leonida",
-   "videos": 4,
-   "channels": 4,
-   "vph_sum": 341099,
+   "videos": 5,
+   "channels": 5,
+   "vph_sum": 761339,
    "top": {
-    "id": "wwxZzQPrYgk",
-    "title": "POV: One Of The Best Side Missions (GTA 6) 💀 shorts gta6",
-    "vph": 234180.7
+    "id": "gK-j8AbxGHI",
+    "title": "Gangnam style Trend VICE CITY GTA 6 GAMEPLAY shorts viral",
+    "vph": 528223.5
+   }
+  },
+  {
+   "theme": "🧑 Jason & Lucia",
+   "videos": 15,
+   "channels": 15,
+   "vph_sum": 256198,
+   "top": {
+    "id": "6JyDxdQ0mEs",
+    "title": "LUCIA Y LA MALA SUERTE EN GTA 6 gta6",
+    "vph": 107679.3
    }
   },
   {
    "theme": "💥 Physik & Glitches",
    "videos": 6,
    "channels": 6,
-   "vph_sum": 198252,
+   "vph_sum": 153689,
    "top": {
     "id": "VkjAW6oztks",
     "title": "Couch Glitch For New GTA 6 😂🎮 Target Couch GTA6 GTA YouTubeShorts",
-    "vph": 112686.4
+    "vph": 117021.1
    }
   },
   {
-   "theme": "🗺️ Orte & Geheimnisse",
-   "videos": 6,
-   "channels": 6,
-   "vph_sum": 124623,
+   "theme": "🚗 Autos & Crashs",
+   "videos": 17,
+   "channels": 17,
+   "vph_sum": 132563,
    "top": {
-    "id": "n9lm8h8CU3M",
-    "title": "ЭТО МОЖНО ДЕЛАТЬ В GTA VI, НО ТЫ НЕ ЗНАЛ🤯 shorts",
-    "vph": 54726.6
+    "id": "gAjSfgqnbG4",
+    "title": "How to REMOVE Trackers in GTA 6 🤯",
+    "vph": 24592.0
    }
   },
   {
    "theme": "📱 Handy & Social Media",
    "videos": 6,
    "channels": 6,
-   "vph_sum": 103078,
+   "vph_sum": 97235,
    "top": {
     "id": "kj0erOGWbyo",
     "title": "TECHNO BHAI MIMIC IS BEST technogamerz ujjwal techno gta6 gta5",
-    "vph": 59224.7
+    "vph": 74399.1
+   }
+  },
+  {
+   "theme": "🗺️ Orte & Geheimnisse",
+   "videos": 5,
+   "channels": 5,
+   "vph_sum": 50082,
+   "top": {
+    "id": "qhveHpoopCg",
+    "title": "НЕ ПРОПУСТИ ЭТО В GTA 6🤯 shorts",
+    "vph": 17320.3
    }
   },
   {
    "theme": "🧍 NPC-Reaktionen",
    "videos": 8,
    "channels": 8,
-   "vph_sum": 38658,
+   "vph_sum": 43036,
    "top": {
-    "id": "K0fj0m75qsI",
-    "title": "O NPC do GTA 6 que descobriu que vive em um jogo!",
-    "vph": 11653.8
+    "id": "NxPJBroHFNY",
+    "title": "NPC Di GTA 6 Kayaknya Orang Beneran 😭🍺",
+    "vph": 23854.3
+   }
+  },
+  {
+   "theme": "🎱 Aktivitäten & Alltag",
+   "videos": 4,
+   "channels": 4,
+   "vph_sum": 28807,
+   "top": {
+    "id": "qtFLh4z7AnE",
+    "title": "NickEh30 plays GTA 6! (Day 9)",
+    "vph": 13758.6
    }
   }
  ],
  "geruechte": [
   {
+   "id": "0m13sHrPARw",
+   "title": "Ps5 tod diya😭 Gta 6 gameplay kanjoos dad chetanmonga comedy shorts",
+   "views": 1914491,
+   "likes": 43481,
+   "comments": 199,
+   "hours": 7.1,
+   "vph": 270530.8,
+   "themes": []
+  },
+  {
+   "id": "yMwQ36T4Um4",
+   "title": "等等我呀。 gta gta6 shorts",
+   "views": 1748186,
+   "likes": 8126,
+   "comments": 1,
+   "hours": 9.3,
+   "vph": 188126.1,
+   "themes": []
+  },
+  {
+   "id": "AyMrFZRNJiA",
+   "title": "这也太有趣啦 gta gta6 shorts kpop",
+   "views": 479234,
+   "likes": 4236,
+   "comments": 2,
+   "hours": 3.3,
+   "vph": 145449.4,
+   "themes": []
+  },
+  {
+   "id": "OiuvmoIuBwE",
+   "title": "选择你最喜欢最满意的吧 gta gta6 shorts",
+   "views": 1336806,
+   "likes": 12666,
+   "comments": 6,
+   "hours": 10.3,
+   "vph": 129830.9,
+   "themes": []
+  },
+  {
    "id": "wBssKsgKBdU",
    "title": "GTA 6 PLAYS BEST ON XBOX shorts",
-   "views": 1796702,
-   "likes": 100232,
-   "comments": 3740,
-   "hours": 14.0,
-   "vph": 128005.4,
-   "themes": []
-  },
-  {
-   "id": "oZnTu3Tm9tE",
-   "title": "【GTA6】善良な市民 ヒカキンのグラセフ6実況生配信 【Day2】死んだらアマギフ1万円",
-   "views": 569213,
-   "likes": 5379,
-   "comments": 0,
-   "hours": 4.8,
-   "vph": 117510.9,
-   "themes": []
-  },
-  {
-   "id": "hBx4cBlm2EQ",
-   "title": "\" YOU FINALLY FINISHED GTA 6 \"",
-   "views": 2719918,
-   "likes": 0,
-   "comments": 3259,
-   "hours": 23.5,
-   "vph": 115806.8,
-   "themes": []
-  },
-  {
-   "id": "ua4XI3jEwn4",
-   "title": "谈恋爱不如跳舞 gta gta6 shorts",
-   "views": 586630,
-   "likes": 3020,
-   "comments": 2,
-   "hours": 5.6,
-   "vph": 105550.6,
-   "themes": []
-  },
-  {
-   "id": "JLOVODlu2LM",
-   "title": "Será la Canción de GTA 6 ?🚗🚨😱 gta6 gta",
-   "views": 2257398,
-   "likes": 8609,
-   "comments": 18,
-   "hours": 22.4,
-   "vph": 100995.7,
+   "views": 2154866,
+   "likes": 118108,
+   "comments": 4357,
+   "hours": 16.8,
+   "vph": 128500.7,
    "themes": []
   }
  ],
  "woerter": [
   [
-   "gtavi",
+   "viral",
    7
   ],
   [
-   "lipstick",
-   5
+   "gaming",
+   6
   ],
   [
-   "viral",
-   5
+   "gtavi",
+   6
+  ],
+  [
+   "nickeh",
+   4
   ],
   [
    "youtubeshorts",
-   4
-  ],
-  [
-   "gaming",
-   4
-  ],
-  [
-   "comedia",
    3
   ],
   [
-   "cuando",
+   "comedy",
    3
   ],
   [
-   "happens",
+   "plays",
    3
   ],
   [
-   "games",
+   "play",
    3
   ],
   [
-   "humor",
+   "edit",
+   3
+  ],
+  [
+   "rockstar",
    3
   ]
  ],
  "top10": [
   {
-   "id": "wwxZzQPrYgk",
-   "title": "POV: One Of The Best Side Missions (GTA 6) 💀 shorts gta6",
-   "views": 5419794,
-   "likes": 142488,
-   "comments": 1991,
-   "hours": 23.1,
-   "vph": 234180.7,
+   "id": "gK-j8AbxGHI",
+   "title": "Gangnam style Trend VICE CITY GTA 6 GAMEPLAY shorts viral",
+   "views": 4385056,
+   "likes": 0,
+   "comments": 15,
+   "hours": 8.3,
+   "vph": 528223.5,
    "themes": [
-    "🚗 Autos & Crashs",
-    "🧑 Jason & Lucia",
     "🌴 Vice City & Leonida"
    ]
   },
   {
+   "id": "0m13sHrPARw",
+   "title": "Ps5 tod diya😭 Gta 6 gameplay kanjoos dad chetanmonga comedy shorts",
+   "views": 1914491,
+   "likes": 43481,
+   "comments": 199,
+   "hours": 7.1,
+   "vph": 270530.8,
+   "themes": []
+  },
+  {
+   "id": "J_qXdC33nF0",
+   "title": "Gangnam style Trend VICE CITY GTA 6 GAMEPLAY shorts viral",
+   "views": 1773883,
+   "likes": 0,
+   "comments": 16,
+   "hours": 8.3,
+   "vph": 213839.2,
+   "themes": [
+    "🌴 Vice City & Leonida"
+   ]
+  },
+  {
+   "id": "yMwQ36T4Um4",
+   "title": "等等我呀。 gta gta6 shorts",
+   "views": 1748186,
+   "likes": 8126,
+   "comments": 1,
+   "hours": 9.3,
+   "vph": 188126.1,
+   "themes": []
+  },
+  {
+   "id": "AyMrFZRNJiA",
+   "title": "这也太有趣啦 gta gta6 shorts kpop",
+   "views": 479234,
+   "likes": 4236,
+   "comments": 2,
+   "hours": 3.3,
+   "vph": 145449.4,
+   "themes": []
+  },
+  {
+   "id": "OiuvmoIuBwE",
+   "title": "选择你最喜欢最满意的吧 gta gta6 shorts",
+   "views": 1336806,
+   "likes": 12666,
+   "comments": 6,
+   "hours": 10.3,
+   "vph": 129830.9,
+   "themes": []
+  },
+  {
    "id": "wBssKsgKBdU",
    "title": "GTA 6 PLAYS BEST ON XBOX shorts",
-   "views": 1796702,
-   "likes": 100232,
-   "comments": 3740,
-   "hours": 14.0,
-   "vph": 128005.4,
-   "themes": []
-  },
-  {
-   "id": "oZnTu3Tm9tE",
-   "title": "【GTA6】善良な市民 ヒカキンのグラセフ6実況生配信 【Day2】死んだらアマギフ1万円",
-   "views": 569213,
-   "likes": 5379,
-   "comments": 0,
-   "hours": 4.8,
-   "vph": 117510.9,
-   "themes": []
-  },
-  {
-   "id": "hBx4cBlm2EQ",
-   "title": "\" YOU FINALLY FINISHED GTA 6 \"",
-   "views": 2719918,
-   "likes": 0,
-   "comments": 3259,
-   "hours": 23.5,
-   "vph": 115806.8,
+   "views": 2154866,
+   "likes": 118108,
+   "comments": 4357,
+   "hours": 16.8,
+   "vph": 128500.7,
    "themes": []
   },
   {
    "id": "VkjAW6oztks",
    "title": "Couch Glitch For New GTA 6 😂🎮 Target Couch GTA6 GTA YouTubeShorts",
-   "views": 2354491,
-   "likes": 20889,
-   "comments": 160,
-   "hours": 20.9,
-   "vph": 112686.4,
+   "views": 2764899,
+   "likes": 24864,
+   "comments": 176,
+   "hours": 23.6,
+   "vph": 117021.1,
    "themes": [
     "💥 Physik & Glitches"
    ]
@@ -235,52 +276,24 @@
   {
    "id": "ua4XI3jEwn4",
    "title": "谈恋爱不如跳舞 gta gta6 shorts",
-   "views": 586630,
-   "likes": 3020,
+   "views": 913749,
+   "likes": 3683,
    "comments": 2,
-   "hours": 5.6,
-   "vph": 105550.6,
+   "hours": 8.3,
+   "vph": 110210.3,
    "themes": []
   },
   {
-   "id": "JLOVODlu2LM",
-   "title": "Será la Canción de GTA 6 ?🚗🚨😱 gta6 gta",
-   "views": 2257398,
-   "likes": 8609,
-   "comments": 18,
-   "hours": 22.4,
-   "vph": 100995.7,
-   "themes": []
-  },
-  {
-   "id": "OiuvmoIuBwE",
-   "title": "选择你最喜欢最满意的吧 gta gta6 shorts",
-   "views": 637400,
-   "likes": 7223,
-   "comments": 5,
-   "hours": 7.6,
-   "vph": 84274.7,
-   "themes": []
-  },
-  {
-   "id": "D5hx7VdBunU",
-   "title": "POV:Cuando JUEGAS a GTA VI con TU MADRE...😡🎮 humor comedia gtavi",
-   "views": 1375711,
-   "likes": 20607,
-   "comments": 53,
-   "hours": 17.8,
-   "vph": 77175.0,
-   "themes": []
-  },
-  {
-   "id": "uqqosyYK_tE",
-   "title": "Playing GTA 6 brings back Traumatic Memories... gta6 gta5",
-   "views": 1421838,
-   "likes": 20166,
-   "comments": 901,
-   "hours": 21.3,
-   "vph": 66708.5,
-   "themes": []
+   "id": "6JyDxdQ0mEs",
+   "title": "LUCIA Y LA MALA SUERTE EN GTA 6 gta6",
+   "views": 2110109,
+   "likes": 55693,
+   "comments": 425,
+   "hours": 19.6,
+   "vph": 107679.3,
+   "themes": [
+    "🧑 Jason & Lucia"
+   ]
   }
  ],
  "stoerungen": []
