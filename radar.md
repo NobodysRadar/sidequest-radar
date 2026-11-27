@@ -1,43 +1,44 @@
-# 🎮 Sidequest-Radar – Stand 27.11.2026, 05:20 Uhr
+# 🎮 Sidequest-Radar – Stand 27.11.2026, 08:34 Uhr
 
-Gesichtet: **142 GTA-6-Shorts** der letzten 24 Std. · Median 16.307 Aufrufe/Std. · Quelle: YouTube. Gespeichert werden nur Zahlen, gekürzte Titel und Video-IDs.
+Gesichtet: **146 GTA-6-Shorts** der letzten 24 Std. · Median 16.072 Aufrufe/Std. · Quelle: YouTube. Gespeichert werden nur Zahlen, gekürzte Titel und Video-IDs.
 
 ## ✅ Bestätigte Trends (mind. 3 Videos von 3 Kanälen)
 
 | Rang | Thema | Videos | Kanäle | Aufrufe/Std. gesamt | Spitzen-Video (Aufrufe/Std.) | Video-ID |
 |---|---|---|---|---|---|---|
-| 1 | 🌴 Vice City & Leonida | 9 | 8 | 961.695 | Gangnam style Trend VICE CITY GTA 6 GAMEPLAY shorts viral (623.934) | `gK-j8AbxGHI` |
-| 2 | 🧑 Jason & Lucia | 9 | 9 | 139.080 | 2013 Vs New Jason Vs Franklin! 🔥 GTA 6 GTA6 JasonDuval FranklinClinto… (52.517) | `BwmFbWl8S_w` |
-| 3 | 🚗 Autos & Crashs | 12 | 12 | 110.664 | CELLBIT JOGANDO GTA 666 (24.557) | `qHDXDKk-JL0` |
-| 4 | 🗺️ Orte & Geheimnisse | 6 | 6 | 104.780 | I Found A SECRET DOG In GTA 6! 😱 (30.331) | `sRafyLLDNTQ` |
-| 5 | 💥 Physik & Glitches | 4 | 4 | 91.914 | Christmas Glitch 🎄For Free GTA 6 😂✌️ YouTubeShorts Target GTA (65.573) | `5vWvqaRlsyE` |
-| 6 | 🧍 NPC-Reaktionen | 5 | 5 | 26.528 | NPC Di GTA 6 Kayaknya Orang Beneran 😭🍺 (12.713) | `NxPJBroHFNY` |
+| 1 | 🌴 Vice City & Leonida | 11 | 9 | 1.203.801 | Gangnam style Trend VICE CITY GTA 6 GAMEPLAY shorts viral (654.197) | `gK-j8AbxGHI` |
+| 2 | 🧑 Jason & Lucia | 18 | 18 | 249.880 | 2013 Vs New Jason Vs Franklin! 🔥 GTA 6 GTA6 JasonDuval FranklinClinto… (55.613) | `BwmFbWl8S_w` |
+| 3 | 🗺️ Orte & Geheimnisse | 8 | 8 | 117.066 | I Found Franklin's Dog Chop on Secret Island in GTA 6! (30.120) | `67Vnu6m-dnU` |
+| 4 | 💥 Physik & Glitches | 5 | 5 | 112.781 | Christmas Glitch 🎄For Free GTA 6 😂✌️ YouTubeShorts Target GTA (75.955) | `5vWvqaRlsyE` |
+| 5 | 🚗 Autos & Crashs | 15 | 15 | 110.010 | GTA 6 VS GTA 5 Boss Can Jason & Lucia GTA 6 Defeat Trevor GTA 5 Help … (23.245) | `2QSyTbH3Jtg` |
+| 6 | 📱 Handy & Social Media | 3 | 3 | 81.638 | 🔴 LIVE! - LAST GTA 6 STREAM before PIRATE TOKEN 10 DAY MARATHON! (79.405) | `HWGs6vY_JOQ` |
+| 7 | 🧍 NPC-Reaktionen | 4 | 4 | 16.651 | NPC Di GTA 6 Kayaknya Orang Beneran 😭🍺 (13.173) | `NxPJBroHFNY` |
 
 ## 🔎 Gerüchte – unbestätigt, auf eigene Gefahr
 
 | Titel (gekürzt) | Aufrufe/Std. | Alter (Std.) | Video-ID |
 |---|---|---|---|
-| GTA 6 на ПК раньше срока: Почему Rockstar в панике сносит интернет | 231.712 | 14.3 | `h9XMDL1K1P0` |
-| 大家帮小狗做下选择。 GTA GTA6 shorts | 203.214 | 18.3 | `oWINotoafIA` |
-| Ps5 tod diya😭 Gta 6 gameplay kanjoos dad chetanmonga comedy shorts | 188.609 | 19.1 | `0m13sHrPARw` |
-| 等等我呀。 gta gta6 shorts | 148.106 | 21.3 | `yMwQ36T4Um4` |
-| GTA 6 Gameplay gone wrong😭😂 funny comedy gta6 shorts koushalmonga | 137.138 | 13.3 | `r5ZW9an8Z7g` |
+| 大家帮小狗做下选择。 GTA GTA6 shorts | 340.149 | 21.6 | `oWINotoafIA` |
+| GTA 6 Gameplay gone wrong😭😂 funny comedy gta6 shorts koushalmonga | 220.697 | 16.5 | `r5ZW9an8Z7g` |
+| GTA 6 на ПК раньше срока: Почему Rockstar в панике сносит интернет | 219.426 | 17.5 | `h9XMDL1K1P0` |
+| Ps5 tod diya😭 Gta 6 gameplay kanjoos dad chetanmonga comedy shorts | 205.772 | 22.3 | `0m13sHrPARw` |
+| GTA 6-Hulk Vs Spiderman Challenge😱14 hulk spiderman gta | 144.463 | 17.6 | `ki0mhH9fZNo` |
 
 ## 🆕 Auffällige Wörter (mind. 3 Kanäle, noch keinem Thema zugeordnet)
 
-viral (8) · comedy (8) · gtavi (6) · vice (5) · city (5) · gangnam (5) · style (4) · trend (4) · youtubeshorts (4) · part (4)
+viral (10) · city (7) · gangnam (7) · vice (7) · style (6) · trend (6) · comedy (6) · moments (6) · relatable (4) · before (4)
 
 ## 🏆 Top 10 nach Aufrufen pro Stunde
 
 | # | Titel (gekürzt) | Aufrufe | Alter (Std.) | Aufrufe/Std. | Video-ID |
 |---|---|---|---|---|---|
-| 1 | Gangnam style Trend VICE CITY GTA 6 GAMEPLAY shorts viral | 12.686.482 | 20.3 | 623.934 | `gK-j8AbxGHI` |
-| 2 | GTA 6 на ПК раньше срока: Почему Rockstar в панике сносит интернет | 3.303.178 | 14.3 | 231.712 | `h9XMDL1K1P0` |
-| 3 | 大家帮小狗做下选择。 GTA GTA6 shorts | 3.723.780 | 18.3 | 203.214 | `oWINotoafIA` |
-| 4 | Ps5 tod diya😭 Gta 6 gameplay kanjoos dad chetanmonga comedy shorts | 3.604.002 | 19.1 | 188.609 | `0m13sHrPARw` |
-| 5 | Gangnam style Trend VICE CITY GTA 6 GAMEPLAY shorts viral | 3.399.466 | 20.3 | 167.239 | `J_qXdC33nF0` |
-| 6 | 等等我呀。 gta gta6 shorts | 3.158.233 | 21.3 | 148.106 | `yMwQ36T4Um4` |
-| 7 | GTA 6 Gameplay gone wrong😭😂 funny comedy gta6 shorts koushalmonga | 1.823.518 | 13.3 | 137.138 | `r5ZW9an8Z7g` |
-| 8 | 选择你最喜欢最满意的吧 gta gta6 shorts | 3.014.047 | 22.3 | 134.989 | `OiuvmoIuBwE` |
-| 9 | Cuando tu madre te compra el GTA VI 😂 | 1.118.022 | 8.8 | 126.648 | `6NxJZvB_PLU` |
-| 10 | O GTA 6 "EDUCATIVO" | 565.384 | 5.3 | 106.070 | `gU8zEPIpQ88` |
+| 1 | Gangnam style Trend VICE CITY GTA 6 GAMEPLAY shorts viral | 15.420.320 | 23.6 | 654.197 | `gK-j8AbxGHI` |
+| 2 | 大家帮小狗做下选择。 GTA GTA6 shorts | 7.334.551 | 21.6 | 340.149 | `oWINotoafIA` |
+| 3 | GTA 6 Gameplay gone wrong😭😂 funny comedy gta6 shorts koushalmonga | 3.649.285 | 16.5 | 220.697 | `r5ZW9an8Z7g` |
+| 4 | GTA 6 на ПК раньше срока: Почему Rockstar в панике сносит интернет | 3.838.602 | 17.5 | 219.426 | `h9XMDL1K1P0` |
+| 5 | Ps5 tod diya😭 Gta 6 gameplay kanjoos dad chetanmonga comedy shorts | 4.598.306 | 22.3 | 205.772 | `0m13sHrPARw` |
+| 6 | Gangnam style Trend VICE CITY GTA 6 GAMEPLAY shorts viral | 4.179.837 | 23.6 | 177.373 | `J_qXdC33nF0` |
+| 7 | GTA 6-Hulk Vs Spiderman Challenge😱14 hulk spiderman gta | 2.540.663 | 17.6 | 144.463 | `ki0mhH9fZNo` |
+| 8 | Cuando tu madre te compra el GTA VI 😂 | 1.378.178 | 12.1 | 114.219 | `6NxJZvB_PLU` |
+| 9 | Gangnam style Trend VICE CITY GTA 6 GAMEPLAY shorts viral | 2.526.347 | 23.6 | 107.223 | `Cy-jPeYzQKc` |
+| 10 | Peanut’s HONEST Review of GTA VI After 100% Completion... | 1.801.165 | 20.7 | 86.903 | `zf2aKusfbtE` |
