@@ -1,105 +1,94 @@
 {
- "stand_utc": "2026-11-28T07:28:14Z",
- "gesichtet": 152,
- "median_vph": 19768.05,
+ "stand_utc": "2026-11-28T10:01:39Z",
+ "gesichtet": 146,
+ "median_vph": 15791.55,
  "trends": [
   {
    "theme": "🌴 Vice City & Leonida",
-   "videos": 19,
-   "channels": 16,
-   "vph_sum": 709518,
+   "videos": 13,
+   "channels": 13,
+   "vph_sum": 482807,
    "top": {
     "id": "MIHuq39GnWw",
     "title": "Gangnam style Trend VICE CITY GTA 6 GAMEPLAY shorts viral",
-    "vph": 125475.8
-   }
-  },
-  {
-   "theme": "🧑 Jason & Lucia",
-   "videos": 12,
-   "channels": 11,
-   "vph_sum": 342397,
-   "top": {
-    "id": "YNK5UT6-jm4",
-    "title": "Cuando NO puedes JUGAR GTA 6😂 comedia",
-    "vph": 95107.6
+    "vph": 134663.8
    }
   },
   {
    "theme": "🗺️ Orte & Geheimnisse",
-   "videos": 8,
-   "channels": 7,
-   "vph_sum": 321560,
+   "videos": 9,
+   "channels": 8,
+   "vph_sum": 381032,
    "top": {
     "id": "QSU1iLAkFlI",
     "title": "GTA 6 users map: memes",
-    "vph": 211204.9
+    "vph": 214092.2
+   }
+  },
+  {
+   "theme": "🧑 Jason & Lucia",
+   "videos": 13,
+   "channels": 12,
+   "vph_sum": 352610,
+   "top": {
+    "id": "YNK5UT6-jm4",
+    "title": "Cuando NO puedes JUGAR GTA 6😂 comedia",
+    "vph": 82914.8
    }
   },
   {
    "theme": "🚗 Autos & Crashs",
-   "videos": 14,
-   "channels": 13,
-   "vph_sum": 138268,
+   "videos": 15,
+   "channels": 14,
+   "vph_sum": 179041,
    "top": {
-    "id": "ExFqF-XNuGM",
-    "title": "CELLBIT JOGANDO GTA 6 DE MANEIRA TOTALMENTE SAUDÁVEL MENTALMENTE",
-    "vph": 22762.8
+    "id": "C5sxrlH8wyM",
+    "title": "I tried to steal a supercar in GTA 6 and it trapped me gta6 gta6short…",
+    "vph": 41402.4
    }
   },
   {
    "theme": "🚓 Polizei & Verfolgung",
-   "videos": 5,
-   "channels": 5,
-   "vph_sum": 127218,
+   "videos": 6,
+   "channels": 6,
+   "vph_sum": 164842,
    "top": {
     "id": "FRcG_6tWt3I",
     "title": "POV: Running from the cops in GTA 6...",
-    "vph": 71318.9
+    "vph": 68535.1
    }
   },
   {
    "theme": "💥 Physik & Glitches",
-   "videos": 9,
-   "channels": 8,
-   "vph_sum": 106775,
+   "videos": 10,
+   "channels": 9,
+   "vph_sum": 149472,
    "top": {
     "id": "BZx_ejA6Mp0",
     "title": "GTA 6 FUNNY MOMENTS AND FAILS gta gta6 funnyvideo sjorts",
-    "vph": 37361.9
+    "vph": 41459.8
+   }
+  },
+  {
+   "theme": "🧍 NPC-Reaktionen",
+   "videos": 6,
+   "channels": 6,
+   "vph_sum": 95070,
+   "top": {
+    "id": "C5sxrlH8wyM",
+    "title": "I tried to steal a supercar in GTA 6 and it trapped me gta6 gta6short…",
+    "vph": 41402.4
    }
   },
   {
    "theme": "📱 Handy & Social Media",
    "videos": 4,
-   "channels": 3,
-   "vph_sum": 43802,
+   "channels": 4,
+   "vph_sum": 56343,
    "top": {
-    "id": "VQDItz9K73s",
-    "title": "TECHNO BHAI SHOCK FRIEND MIMIC technogamerz ujjwal techno gta6 gta5",
-    "vph": 19862.5
-   }
-  },
-  {
-   "theme": "🎱 Aktivitäten & Alltag",
-   "videos": 3,
-   "channels": 3,
-   "vph_sum": 38274,
-   "top": {
-    "id": "vojkh4qe3l8",
-    "title": "Gangnam style Trend 😱l VlCE CITY l GTA 6 GAMEPLAY shorts viral",
-    "vph": 31798.4
-   }
-  },
-  {
-   "theme": "🧍 NPC-Reaktionen",
-   "videos": 3,
-   "channels": 3,
-   "vph_sum": 18293,
-   "top": {
-    "id": "8bZL0mtLW-4",
-    "title": "Just leave the monkey alone 😭",
-    "vph": 9865.3
+    "id": "IMQ01kdxWdA",
+    "title": "PLAYING GTA 6 UNTIL I BEAT IT 😎 GTA 6 MARATHON",
+    "vph": 15945.2
    }
   }
  ],
@@ -107,179 +96,169 @@
   {
    "id": "iuRv6in1AY0",
    "title": "神奇的舞蹈，你也试试呢 gta gta6 shorts",
-   "views": 33684115,
-   "likes": 121426,
-   "comments": 33,
-   "hours": 20.5,
-   "vph": 1645732.6,
+   "views": 38318589,
+   "likes": 131969,
+   "comments": 35,
+   "hours": 23.0,
+   "vph": 1664251.1,
    "themes": []
   },
   {
    "id": "4c7nm6-bjlU",
    "title": "小狗又选择困难了？ GTA GTA6 shorts",
-   "views": 5909895,
-   "likes": 97057,
-   "comments": 181,
-   "hours": 19.5,
-   "vph": 303680.7,
+   "views": 7404274,
+   "likes": 126053,
+   "comments": 224,
+   "hours": 22.0,
+   "vph": 336284.9,
    "themes": []
   },
   {
    "id": "wE3me-oX0xI",
    "title": "gta gta6 shorts",
-   "views": 3134143,
-   "likes": 12297,
+   "views": 3647687,
+   "likes": 13892,
    "comments": 4,
-   "hours": 13.5,
-   "vph": 232852.6,
-   "themes": []
-  },
-  {
-   "id": "JjpNMGkcInM",
-   "title": "谁先来就可以先选吗？ gta gta6 shorts",
-   "views": 4270942,
-   "likes": 34633,
-   "comments": 19,
-   "hours": 22.0,
-   "vph": 194486.9,
+   "hours": 16.0,
+   "vph": 227742.1,
    "themes": []
   },
   {
    "id": "l5YJK4x2cs8",
    "title": "Великая Твиттер-битва за GTA 6 (ft. Арсения Маркарян)",
-   "views": 3795731,
-   "likes": 152210,
-   "comments": 4158,
-   "hours": 21.3,
-   "vph": 178209.9,
+   "views": 3993892,
+   "likes": 159595,
+   "comments": 4347,
+   "hours": 23.9,
+   "vph": 167415.3,
+   "themes": []
+  },
+  {
+   "id": "TQ8BW2Ov4yE",
+   "title": "gta gta6 shorts",
+   "views": 2580734,
+   "likes": 12596,
+   "comments": 2,
+   "hours": 23.0,
+   "vph": 112110.7,
    "themes": []
   }
  ],
  "woerter": [
   [
    "viral",
-   13
-  ],
-  [
-   "gangnam",
    11
   ],
   [
    "city",
-   11
+   9
+  ],
+  [
+   "gangnam",
+   8
   ],
   [
    "vice",
-   10
+   8
   ],
   [
    "style",
-   9
-  ],
-  [
-   "trend",
-   9
-  ],
-  [
-   "gaming",
    7
   ],
   [
-   "gtavi",
-   6
+   "trend",
+   7
   ],
   [
    "moments",
-   4
+   6
   ],
   [
-   "cuando",
-   3
+   "gtavi",
+   5
+  ],
+  [
+   "gaming",
+   5
+  ],
+  [
+   "memes",
+   4
   ]
  ],
  "top10": [
   {
    "id": "iuRv6in1AY0",
    "title": "神奇的舞蹈，你也试试呢 gta gta6 shorts",
-   "views": 33684115,
-   "likes": 121426,
-   "comments": 33,
-   "hours": 20.5,
-   "vph": 1645732.6,
+   "views": 38318589,
+   "likes": 131969,
+   "comments": 35,
+   "hours": 23.0,
+   "vph": 1664251.1,
    "themes": []
   },
   {
    "id": "4c7nm6-bjlU",
    "title": "小狗又选择困难了？ GTA GTA6 shorts",
-   "views": 5909895,
-   "likes": 97057,
-   "comments": 181,
-   "hours": 19.5,
-   "vph": 303680.7,
+   "views": 7404274,
+   "likes": 126053,
+   "comments": 224,
+   "hours": 22.0,
+   "vph": 336284.9,
    "themes": []
   },
   {
    "id": "wE3me-oX0xI",
    "title": "gta gta6 shorts",
-   "views": 3134143,
-   "likes": 12297,
+   "views": 3647687,
+   "likes": 13892,
    "comments": 4,
-   "hours": 13.5,
-   "vph": 232852.6,
+   "hours": 16.0,
+   "vph": 227742.1,
    "themes": []
   },
   {
    "id": "QSU1iLAkFlI",
    "title": "GTA 6 users map: memes",
-   "views": 2901028,
-   "likes": 24494,
-   "comments": 497,
-   "hours": 13.7,
-   "vph": 211204.9,
+   "views": 3488115,
+   "likes": 28608,
+   "comments": 571,
+   "hours": 16.3,
+   "vph": 214092.2,
    "themes": [
     "🗺️ Orte & Geheimnisse"
    ]
   },
   {
-   "id": "JjpNMGkcInM",
-   "title": "谁先来就可以先选吗？ gta gta6 shorts",
-   "views": 4270942,
-   "likes": 34633,
-   "comments": 19,
-   "hours": 22.0,
-   "vph": 194486.9,
-   "themes": []
-  },
-  {
    "id": "l5YJK4x2cs8",
    "title": "Великая Твиттер-битва за GTA 6 (ft. Арсения Маркарян)",
-   "views": 3795731,
-   "likes": 152210,
-   "comments": 4158,
-   "hours": 21.3,
-   "vph": 178209.9,
+   "views": 3993892,
+   "likes": 159595,
+   "comments": 4347,
+   "hours": 23.9,
+   "vph": 167415.3,
    "themes": []
   },
   {
    "id": "MIHuq39GnWw",
    "title": "Gangnam style Trend VICE CITY GTA 6 GAMEPLAY shorts viral",
-   "views": 2240517,
+   "views": 2748911,
    "likes": 0,
-   "comments": 7,
-   "hours": 17.9,
-   "vph": 125475.8,
+   "comments": 9,
+   "hours": 20.4,
+   "vph": 134663.8,
    "themes": [
     "🌴 Vice City & Leonida"
    ]
   },
   {
-   "id": "FNNY2oLANaA",
+   "id": "li_f_YKtaww",
    "title": "Gangnam style Trend VICE CITY GTA 6 GAMEPLAY shorts viral",
-   "views": 2592723,
+   "views": 2528005,
    "likes": 0,
-   "comments": 79,
-   "hours": 23.5,
-   "vph": 110510.0,
+   "comments": 14,
+   "hours": 22.0,
+   "vph": 114784.3,
    "themes": [
     "🌴 Vice City & Leonida"
    ]
@@ -287,21 +266,31 @@
   {
    "id": "TQ8BW2Ov4yE",
    "title": "gta gta6 shorts",
-   "views": 2199709,
-   "likes": 10885,
+   "views": 2580734,
+   "likes": 12596,
    "comments": 2,
-   "hours": 20.5,
-   "vph": 107499.3,
+   "hours": 23.0,
+   "vph": 112110.7,
    "themes": []
   },
   {
-   "id": "B36Ar4MQoRg",
-   "title": "cual protagonista recarga más rápido en gta6",
-   "views": 1194896,
-   "likes": 41065,
-   "comments": 288,
-   "hours": 12.3,
-   "vph": 97152.2,
+   "id": "b0w68jY3pEA",
+   "title": "Nick Eh 30’s WILD GTA 6￼ DISCOVERY",
+   "views": 1012867,
+   "likes": 49709,
+   "comments": 434,
+   "hours": 11.7,
+   "vph": 86922.1,
+   "themes": []
+  },
+  {
+   "id": "Gr_-zrD_nCk",
+   "title": "生活没有解药，但止疼药很多 gta gta6 shorts kpop",
+   "views": 1929847,
+   "likes": 10588,
+   "comments": 3,
+   "hours": 23.0,
+   "vph": 83815.0,
    "themes": []
   }
  ],
