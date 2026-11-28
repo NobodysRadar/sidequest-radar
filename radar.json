@@ -1,94 +1,94 @@
 {
- "stand_utc": "2026-11-28T15:58:03Z",
+ "stand_utc": "2026-11-28T19:05:04Z",
  "gesichtet": 157,
- "median_vph": 12910.2,
+ "median_vph": 13799.6,
  "trends": [
   {
-   "theme": "🧑 Jason & Lucia",
-   "videos": 13,
-   "channels": 13,
-   "vph_sum": 352651,
-   "top": {
-    "id": "pecb33k6i4U",
-    "title": "MARIO Bros en GTA 6 👁️☠️ mrrelevante momentosépicos culturapop",
-    "vph": 103466.3
-   }
-  },
-  {
-   "theme": "🗺️ Orte & Geheimnisse",
-   "videos": 13,
-   "channels": 12,
-   "vph_sum": 290202,
-   "top": {
-    "id": "pecb33k6i4U",
-    "title": "MARIO Bros en GTA 6 👁️☠️ mrrelevante momentosépicos culturapop",
-    "vph": 103466.3
-   }
-  },
-  {
    "theme": "🌴 Vice City & Leonida",
-   "videos": 10,
-   "channels": 9,
-   "vph_sum": 278536,
+   "videos": 15,
+   "channels": 14,
+   "vph_sum": 747192,
    "top": {
-    "id": "wkCrcX1kwak",
-    "title": "Gangnam styleTrend VICE CITY GTA 6 GAMEPLAY shorts viral",
-    "vph": 83457.2
+    "id": "leBm8LwPBNY",
+    "title": "Gangnam style Trend VICE CITY GTA 6 GAMEPLAY shorts viral",
+    "vph": 339324.2
    }
   },
   {
    "theme": "🚗 Autos & Crashs",
-   "videos": 13,
-   "channels": 12,
-   "vph_sum": 168357,
+   "videos": 14,
+   "channels": 14,
+   "vph_sum": 339270,
    "top": {
-    "id": "ZodvlEkigmE",
-    "title": "Man...This is is Why GTA 6 Costed $2 Billion or ₹18,000 CRORE To Deve…",
-    "vph": 42007.6
+    "id": "176-qTtdIas",
+    "title": "Every Time My Brother Steals a Tank in GTA 6, I Give Him a Real Super…",
+    "vph": 151363.2
+   }
+  },
+  {
+   "theme": "🧑 Jason & Lucia",
+   "videos": 11,
+   "channels": 11,
+   "vph_sum": 266467,
+   "top": {
+    "id": "pecb33k6i4U",
+    "title": "MARIO Bros en GTA 6 👁️☠️ mrrelevante momentosépicos culturapop",
+    "vph": 98176.5
+   }
+  },
+  {
+   "theme": "🗺️ Orte & Geheimnisse",
+   "videos": 7,
+   "channels": 7,
+   "vph_sum": 250503,
+   "top": {
+    "id": "pecb33k6i4U",
+    "title": "MARIO Bros en GTA 6 👁️☠️ mrrelevante momentosépicos culturapop",
+    "vph": 98176.5
+   }
+  },
+  {
+   "theme": "💥 Physik & Glitches",
+   "videos": 11,
+   "channels": 11,
+   "vph_sum": 157636,
+   "top": {
+    "id": "n6e6dekiKmg",
+    "title": "Glitch Lucia GTA 6",
+    "vph": 47678.5
    }
   },
   {
    "theme": "🚓 Polizei & Verfolgung",
    "videos": 3,
    "channels": 3,
-   "vph_sum": 126509,
+   "vph_sum": 125900,
    "top": {
     "id": "FRcG_6tWt3I",
     "title": "POV: Running from the cops in GTA 6...",
-    "vph": 64461.3
-   }
-  },
-  {
-   "theme": "🧍 NPC-Reaktionen",
-   "videos": 6,
-   "channels": 5,
-   "vph_sum": 81785,
-   "top": {
-    "id": "ZodvlEkigmE",
-    "title": "Man...This is is Why GTA 6 Costed $2 Billion or ₹18,000 CRORE To Deve…",
-    "vph": 42007.6
-   }
-  },
-  {
-   "theme": "💥 Physik & Glitches",
-   "videos": 8,
-   "channels": 8,
-   "vph_sum": 78227,
-   "top": {
-    "id": "BoqcUh0BgBk",
-    "title": "The New Best Infinite Money Glitch in GTA 6 gta gta6 gtavi",
-    "vph": 23231.3
+    "vph": 62763.9
    }
   },
   {
    "theme": "📱 Handy & Social Media",
-   "videos": 4,
-   "channels": 4,
-   "vph_sum": 65686,
+   "videos": 7,
+   "channels": 6,
+   "vph_sum": 114784,
    "top": {
     "id": "VQDItz9K73s",
     "title": "TECHNO BHAI SHOCK FRIEND MIMIC technogamerz ujjwal techno gta6 gta5",
-    "vph": 48216.6
+    "vph": 55965.8
+   }
+  },
+  {
+   "theme": "🧍 NPC-Reaktionen",
+   "videos": 9,
+   "channels": 6,
+   "vph_sum": 87849,
+   "top": {
+    "id": "ZodvlEkigmE",
+    "title": "Man...This is is Why GTA 6 Costed $2 Billion or ₹18,000 CRORE To Deve…",
+    "vph": 50140.4
    }
   }
  ],
@@ -96,198 +96,200 @@
   {
    "id": "h0giZjmK7ow",
    "title": "Bete Ko GTA 6 Wala Tiffin Dene Ka Nateeja 😂 neetubisht lakhneet comed…",
-   "views": 10526673,
-   "likes": 115283,
-   "comments": 337,
-   "hours": 11.5,
-   "vph": 918229.3,
+   "views": 13086060,
+   "likes": 125270,
+   "comments": 359,
+   "hours": 14.6,
+   "vph": 897473.2,
+   "themes": []
+  },
+  {
+   "id": "6yVtbLC5gwo",
+   "title": "跟我的节奏一起来啊 gta gta6 shorts kpop",
+   "views": 2081735,
+   "likes": 8403,
+   "comments": 5,
+   "hours": 5.1,
+   "vph": 410247.7,
+   "themes": []
+  },
+  {
+   "id": "eIIJ3Gfm1rg",
+   "title": "“PS5 Game Biggest Fantasy”🤪 games ps5 gta6 relatable fun joy nostalgi…",
+   "views": 5246039,
+   "likes": 63058,
+   "comments": 85,
+   "hours": 15.6,
+   "vph": 336946.8,
    "themes": []
   },
   {
    "id": "fSXiADFqYgQ",
    "title": "什么声音？大家都被吓到了吗？ gta gta6 shorts kpop",
-   "views": 2807545,
-   "likes": 21416,
+   "views": 3558357,
+   "likes": 23358,
    "comments": 10,
-   "hours": 8.0,
-   "vph": 352623.4,
-   "themes": []
-  },
-  {
-   "id": "wE3me-oX0xI",
-   "title": "gta gta6 shorts",
-   "views": 4829812,
-   "likes": 17663,
-   "comments": 6,
-   "hours": 22.0,
-   "vph": 219968.1,
+   "hours": 11.1,
+   "vph": 321186.7,
    "themes": []
   },
   {
    "id": "5BGAiK6eWGs",
    "title": "His wife is angry because he is playing gta 6",
-   "views": 2061895,
+   "views": 2932082,
    "likes": 0,
-   "comments": 7,
-   "hours": 10.9,
-   "vph": 189930.6,
-   "themes": []
-  },
-  {
-   "id": "JMJrCew_gxQ",
-   "title": "gta gta6 shorts",
-   "views": 815178,
-   "likes": 3319,
-   "comments": 2,
-   "hours": 4.5,
-   "vph": 182732.5,
+   "comments": 9,
+   "hours": 14.0,
+   "vph": 209839.9,
    "themes": []
   }
  ],
  "woerter": [
   [
-   "part",
-   6
-  ],
-  [
-   "gtavi",
-   5
-  ],
-  [
    "viral",
-   5
-  ],
-  [
-   "easter",
-   4
-  ],
-  [
-   "vice",
-   4
+   10
   ],
   [
    "city",
-   4
+   9
   ],
   [
-   "comedy",
-   4
+   "vice",
+   9
+  ],
+  [
+   "gangnam",
+   9
+  ],
+  [
+   "gtavi",
+   9
+  ],
+  [
+   "style",
+   7
+  ],
+  [
+   "trend",
+   7
+  ],
+  [
+   "playing",
+   5
   ],
   [
    "moments",
-   4
+   5
   ],
   [
    "memes",
    4
-  ],
-  [
-   "cuando",
-   3
   ]
  ],
  "top10": [
   {
    "id": "h0giZjmK7ow",
    "title": "Bete Ko GTA 6 Wala Tiffin Dene Ka Nateeja 😂 neetubisht lakhneet comed…",
-   "views": 10526673,
-   "likes": 115283,
-   "comments": 337,
-   "hours": 11.5,
-   "vph": 918229.3,
+   "views": 13086060,
+   "likes": 125270,
+   "comments": 359,
+   "hours": 14.6,
+   "vph": 897473.2,
+   "themes": []
+  },
+  {
+   "id": "6yVtbLC5gwo",
+   "title": "跟我的节奏一起来啊 gta gta6 shorts kpop",
+   "views": 2081735,
+   "likes": 8403,
+   "comments": 5,
+   "hours": 5.1,
+   "vph": 410247.7,
+   "themes": []
+  },
+  {
+   "id": "leBm8LwPBNY",
+   "title": "Gangnam style Trend VICE CITY GTA 6 GAMEPLAY shorts viral",
+   "views": 3558155,
+   "likes": 0,
+   "comments": 11,
+   "hours": 10.5,
+   "vph": 339324.2,
+   "themes": [
+    "🌴 Vice City & Leonida"
+   ]
+  },
+  {
+   "id": "eIIJ3Gfm1rg",
+   "title": "“PS5 Game Biggest Fantasy”🤪 games ps5 gta6 relatable fun joy nostalgi…",
+   "views": 5246039,
+   "likes": 63058,
+   "comments": 85,
+   "hours": 15.6,
+   "vph": 336946.8,
    "themes": []
   },
   {
    "id": "fSXiADFqYgQ",
    "title": "什么声音？大家都被吓到了吗？ gta gta6 shorts kpop",
-   "views": 2807545,
-   "likes": 21416,
+   "views": 3558357,
+   "likes": 23358,
    "comments": 10,
-   "hours": 8.0,
-   "vph": 352623.4,
-   "themes": []
-  },
-  {
-   "id": "wE3me-oX0xI",
-   "title": "gta gta6 shorts",
-   "views": 4829812,
-   "likes": 17663,
-   "comments": 6,
-   "hours": 22.0,
-   "vph": 219968.1,
+   "hours": 11.1,
+   "vph": 321186.7,
    "themes": []
   },
   {
    "id": "5BGAiK6eWGs",
    "title": "His wife is angry because he is playing gta 6",
-   "views": 2061895,
+   "views": 2932082,
    "likes": 0,
-   "comments": 7,
-   "hours": 10.9,
-   "vph": 189930.6,
+   "comments": 9,
+   "hours": 14.0,
+   "vph": 209839.9,
    "themes": []
   },
   {
-   "id": "JMJrCew_gxQ",
-   "title": "gta gta6 shorts",
-   "views": 815178,
-   "likes": 3319,
+   "id": "176-qTtdIas",
+   "title": "Every Time My Brother Steals a Tank in GTA 6, I Give Him a Real Super…",
+   "views": 1904805,
+   "likes": 73797,
+   "comments": 2176,
+   "hours": 12.6,
+   "vph": 151363.2,
+   "themes": [
+    "✈️ Kampfjets & Militär",
+    "🚗 Autos & Crashs"
+   ]
+  },
+  {
+   "id": "EWgcEbcdnmM",
+   "title": "变变变变变 gta gta6 shorts kpop",
+   "views": 591917,
+   "likes": 2737,
    "comments": 2,
-   "hours": 4.5,
-   "vph": 182732.5,
+   "hours": 4.1,
+   "vph": 144992.7,
    "themes": []
   },
   {
    "id": "RP8ZF57NXus",
    "title": "gta gta6 shorts",
-   "views": 712055,
-   "likes": 3067,
+   "views": 971184,
+   "likes": 3861,
    "comments": 3,
-   "hours": 4.0,
-   "vph": 179588.1,
+   "hours": 7.1,
+   "vph": 137137.3,
    "themes": []
-  },
-  {
-   "id": "QZQAyvjYiJc",
-   "title": "MEMECAHKAN MISTERI PALING HOROR.... GTA 6 GAMEPLAY 14",
-   "views": 418272,
-   "likes": 13078,
-   "comments": 0,
-   "hours": 3.5,
-   "vph": 120744.8,
-   "themes": []
-  },
-  {
-   "id": "Bjz5B3Xcawo",
-   "title": "gta gta6 shorts",
-   "views": 357306,
-   "likes": 2580,
-   "comments": 3,
-   "hours": 3.0,
-   "vph": 120397.8,
-   "themes": []
-  },
-  {
-   "id": "pecb33k6i4U",
-   "title": "MARIO Bros en GTA 6 👁️☠️ mrrelevante momentosépicos culturapop",
-   "views": 1659449,
-   "likes": 38921,
-   "comments": 402,
-   "hours": 16.0,
-   "vph": 103466.3,
-   "themes": [
-    "🗺️ Orte & Geheimnisse",
-    "🧑 Jason & Lucia"
-   ]
   },
   {
    "id": "b0w68jY3pEA",
    "title": "Nick Eh 30’s WILD GTA 6￼ DISCOVERY",
-   "views": 1653924,
-   "likes": 75592,
-   "comments": 626,
-   "hours": 17.6,
-   "vph": 94011.9,
+   "views": 2163888,
+   "likes": 91968,
+   "comments": 726,
+   "hours": 20.7,
+   "vph": 104487.1,
    "themes": []
   }
  ],
